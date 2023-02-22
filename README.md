@@ -150,8 +150,52 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://arxiv.org/pdf/1801.01615.pdf)]<br>
 *Authors: Hanbyul Joo, Tomas Simon, Yaser Sheikh*
 
+### Best Papers 2017
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-#### ICLR
+
+#### Best Paper Award:
+* Densely Connected Convolutional Networks (CVPR 2017) 
+[[Paper](https://arxiv.org/abs/1608.06993)]<br>
+*Authors: Gao Huang, Zhuang Liu, Laurens van der Maaten, & Kilian Q. Weinberger*
+
+* Learning from Simulated and Unsupervised Images through Adversarial Training (CVPR 2017) 
+[[Paper](https://arxiv.org/abs/1612.07828v2)]<br>
+*Authors: Ashish Shrivastava, Tomas Pfister, Oncel Tuzel, Joshua Susskind, Wenda Wang, & Russell Webb*
+
+#### Best Paper Honorable Mention:
+* Annotating Object Instances with a Polygon-RNN (CVPR 2017) 
+[[Paper](https://arxiv.org/abs/1704.05548)]<br>
+*Authors: Lluís Castrejón, Kaustav Kundu, Raquel Urtasun, & Sanja Fidler*
+
+* YOLO9000: Better, Faster, Stronger (CVPR 2017) 
+[[Paper](https://arxiv.org/abs/1612.08242)]<br>
+*Authors: Joseph Redmon & Ali Farhadi*
+
+#### Best Student Paper Award:
+* Computational Imaging on the Electric Grid (CVPR 2017) 
+[[Paper](https://ieeexplore.ieee.org/document/8099737)]<br>
+*Authors: Mark Sheinin, Yoav Y. Schechner, & Kiriakos N. Kutulakos*
+
+### Best Papers 2016
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* Deep Residual Learning for Image Recognition (CVPR 2016) 
+[[Paper](https://arxiv.org/abs/1512.03385)]<br>
+*Authors: Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun*
+
+
+#### Best Paper Honorable Mention:
+* Sublabel-Accurate Relaxation of Nonconvex Energies (CVPR 2016) 
+[[Paper](https://arxiv.org/abs/1512.01383)]<br>
+*Authors: Thomas Möllenhoff, Emanuel Laude, Michael Moeller, Jan Lellmann, Daniel Cremers*
+
+#### Best Student Paper Award:
+* Structural-RNN: Deep Learning on Spatio-Temporal Graphs (CVPR 2016) 
+[[Paper](https://arxiv.org/abs/1511.05298)]<br>
+*Authors: Ashesh Jain, Amir R. Zamir, Silvio Savarese, Ashutosh Saxena*
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+## ICLR
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
