@@ -120,6 +120,36 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://arxiv.org/abs/1811.10092v2)]<br>
 *Authors: Xin Wang, Qiuyuan Huang, Asli Celikyilmaz, Jianfeng Gao, Dinghan Shen, Yuan-Fang Wang, William Yang Wang and Lei Zhang*
 
+### Best Papers 2018
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* Taskonomy: Disentangling Task Transfer Learning (CVPR 2018) 
+[[Paper](https://arxiv.org/pdf/1804.08328.pdf)]<br>
+*Authors: Amir Zamir, Alexander Sax, William Shen, Leonidas Guibas, Jitendra Malik, Silvio Savarese*
+
+#### Best Paper Honorable Mention:
+* Deep Learning of Graph Matching (CVPR 2018) 
+[[Paper](http://openaccess.thecvf.com//content_cvpr_2018/papers/Zanfir_Deep_Learning_of_CVPR_2018_paper.pdf)]<br>
+*Authors: Andrei Zanfir, Cristian Sminchisescu*
+
+* SPLATNet: Sparse Lattice Networks for Point Cloud Processing (CVPR 2018) 
+[[Paper](https://arxiv.org/abs/1802.08275)]<br>
+*Authors: Hang Su, Varun Jampani, Deqing Sun, Subhransu Maji, Evangelos Kalogerakis, Ming-Hsuan Yang, Jan Kautz*
+
+* CodeSLAM — Learning a Compact, Optimisable Representation for Dense Visual SLAM (CVPR 2018) 
+[[Paper](https://arxiv.org/abs/1804.00874)]<br>
+*Authors: Michael Bloesch, Jan Czarnowski, Ronald Clark, Stefan Leutenegger, Andrew J. Davison*
+
+* Efficient Optimization for Rank-based Loss Functions (CVPR 2018) 
+[[Paper](https://arxiv.org/abs/1604.08269)]<br>
+*Authors: Pritish Mohapatra, Michal Rolinek, C.V. Jawahar, Vladimir Kolmogorov, M. Pawan Kumar*
+
+#### Best Student Paper Award:
+* Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies (CVPR 2018) 
+[[Paper](https://arxiv.org/pdf/1801.01615.pdf)]<br>
+*Authors: Hanbyul Joo, Tomas Simon, Yaser Sheikh*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### ICLR
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
