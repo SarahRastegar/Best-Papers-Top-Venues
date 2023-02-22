@@ -274,6 +274,50 @@ This repository conatains the recent best or outstanding papers in contemporary 
 * Score-Based Generative Modeling through Stochastic Differential Equations (ICLR 2021) 
 [[Paper](https://openreview.net/forum?id=PxTIG12RRHS)]<br>
 *Authors: Yang Song, Jascha Sohl-Dickstein, Diederik P Kingma, Abhishek Kumar, Stefano Ermon, and Ben Poole*
+
+### Outstanding Papers 2020
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters (ICLR 2021) 
+[[Paper](https://openreview.net/forum?id=rcQdycl0zyk)]<br>
+*Authors: Aston Zhang, Yi Tay, Shuai Zhang, Alvin Chan, Anh Tuan Luu, Siu Hui, and Jie Fu*
+
+### Best Papers 2019
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks (ICLR 2019) 
+[[Paper](https://iclr.cc/Conferences/2019/Schedule?q=Ordered+Neurons%3A+Integrating+Tree+Structures+into+Recurrent+Neural+Networks)]<br>
+*Authors: Yikang Shen, Shawn Tan, Alessandro Sordoni, Aaron Courville*
+
+* The Lottery Ticket Hypothesis:  Finding Sparse, Trainable Neural Networks (ICLR 2019) 
+[[Paper](https://iclr.cc/Conferences/2019/Schedule?q=The+Lottery+Ticket+Hypothesis%3A+%C2%A0Finding+Sparse%2C+Trainable+Neural+Networks)]<br>
+*Authors: Jonathan Frankle, Michael Carbin*
+
+### Best Papers 2018
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* On the Convergence of Adam and Beyond (ICLR 2018) 
+[[Paper](https://arxiv.org/abs/1904.09237)]<br>
+*Authors: Sashank J. Reddi, Satyen Kale, Sanjiv Kumar*
+
+* Spherical CNNs (ICLR 2018) 
+[[Paper](https://arxiv.org/abs/1801.10130)]<br>
+*Authors: Taco S. Cohen, Mario Geiger, Jonas Koehler, Max Welling*
+
+* Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments (ICLR 2018) 
+[[Paper](https://arxiv.org/abs/1710.03641)]<br>
+*Authors: Maruan Al-Shedivat, Trapit Bansal, Yuri Burda, Ilya Sutskever, Igor Mordatch, Pieter Abbeel*
+
+### Best Papers 2017
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Understanding deep learning requires rethinking generalization (ICLR 2017) 
+[[Paper](https://arxiv.org/pdf/1611.03530.pdf)]<br>
+*Authors: Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals*
+
+* Making neural programming architectures generalize via recursion (ICLR 2017) 
+[[Paper](https://arxiv.org/pdf/1704.06611.pdf)]<br>
+*Authors: Jonathon Cai, Richard Shin, Dawn Song*
+
+* Semi-supervised knowledge knowledge transfer for deep learning from private training data (ICLR 2017) 
+[[Paper](https://arxiv.org/pdf/1610.05755.pdf)]<br>
+*Authors: Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian Goodfellow, Kunal Talwar*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### NeurIPS
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
