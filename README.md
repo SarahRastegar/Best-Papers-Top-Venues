@@ -355,17 +355,90 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://arxiv.org/pdf/1610.05755.pdf)]<br>
 *Authors: Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian Goodfellow, Kunal Talwar*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-#### NeurIPS
+## NeurIPS
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Outstanding Papers 2022 [[Best Papers](https://blog.neurips.cc/2022/11/21/announcing-the-neurips-2022-awards/)] [[All Papers](https://openreview.net/group?id=NeurIPS.cc/2022/Conference)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Is Out-of-distribution Detection Learnable? (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=sde_7ZzGXOE)]<br>
+*Authors: Zhen Fang, Yixuan Li, Jie Lu, Jiahua Dong, Bo Han, Feng Liu*
+
+* Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=08Yk-n5l2Al)]<br>
+*Authors: Chitwan Saharia, William Chan, Saurabh Saxena, Lala Li, Jay Whang, Emily Denton, Seyed Kamyar Seyed Ghasemipour, Burcu Karagol Ayan, S. Sara Mahdavi, Raphael Gontijo-Lopes, Tim Salimans, Jonathan Ho, David J Fleet, Mohammad Norouzi*
+
+* Elucidating the Design Space of Diffusion-Based Generative Models (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=k7FuTOWMOc7)]<br>
+*Authors: Tero Karras, Miika Aittala, Timo Aila, Samuli Laine*
+
+* ProcTHOR: Large-Scale Embodied AI Using Procedural Generation (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=4-bV1bi74M)]<br>
+*Authors: Matt Deitke, Eli VanderBilt, Alvaro Herrasti, Luca Weihs, Kiana Ehsani, Jordi Salvador, Winson Han, Eric Kolve, Aniruddha Kembhavi, Roozbeh Mottaghi*
+
+* Using natural language and program abstractions to instill human inductive biases in machines (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=buXZ7nIqiwE)]<br>
+*Authors: Sreejan Kumar, Carlos G Correa, Ishita Dasgupta, Raja Marjieh, Michael Hu, Robert D. Hawkins, Jonathan Cohen, Nathaniel Daw, Karthik R Narasimhan, Thomas L. Griffiths*
+
+* A Neural Corpus Indexer for Document Retrieval (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=fSfcEYQP_qc)]<br>
+*Authors: Yujing Wang, Yingyan Hou, Haonan Wang, Ziming Miao, Shibin Wu, Hao Sun, Qi Chen, Yuqing Xia, Chengmin Chi, Guoshuai Zhao, Zheng Liu, Xing Xie, Hao Sun, Weiwei Deng, Qi Zhang, Mao Yang*
+
+* High-dimensional limit theorems for SGD: Effective dynamics and critical scaling (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=Q38D6xxrKHe)]<br>
+*Authors: Gerard Ben Arous, Reza Gheissari, Aukosh Jagannath*
+
+
+* Gradient Descent: The Ultimate Optimizer (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=-Qp-3L-5ZdI)]<br>
+*Authors: Kartik Chandra, Audrey Xie, Jonathan Ragan-Kelley, Erik Meijer*
+
+* Riemannian Score-Based Generative Modelling (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=oDRQGo8I7P)]<br>
+*Authors: Valentin De Bortoli, Emile Mathieu, Michael John Hutchinson, James Thornton, Yee Whye Teh, Arnaud Doucet*
+
+* Gradient Estimation with Discrete Stein Operators (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=I1mkUkaguP)]<br>
+*Authors: Jiaxin Shi, Yuhao Zhou, Jessica Hwang, Michalis Titsias, Lester Mackey*
+
+* An empirical analysis of compute-optimal large language model training (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=iBBcRUlOAPR)]<br>
+*Authors: Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark, Tom Hennigan, Eric Noland, Katherine Millican, George van den Driessche, Bogdan Damoc, Aurelia Guy, Simon Osindero, Karen Simonyan, Erich Elsen, Oriol Vinyals, Jack William Rae, Laurent Sifre*
+
+* Beyond neural scaling laws: beating power law scaling via data pruning (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=UmvSlP-PyV)]<br>
+*Authors: Ben Sorscher, Robert Geirhos, Shashank Shekhar, Surya Ganguli, Ari S. Morcos*
+
+* On-Demand Sampling: Learning Optimally from Multiple Distributions (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=FR289LMkmxZ)]<br>
+*Authors: Nika Haghtalab, Michael Jordan, Eric Zhao*
+
+* LAION-5B: An open large-scale dataset for training next generation image-text models (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=M3Y74vmsMcY)]<br>
+*Authors: Christoph Schuhmann, Romain Beaumont, Richard Vencu, Cade W Gordon, Ross Wightman, Mehdi Cherti, Theo Coombes, Aarush Katta, Clayton Mullis, Mitchell Wortsman, Patrick Schramowski, Srivatsa R Kundurthy, Katherine Crowson, Ludwig Schmidt, Robert Kaczmarczyk, Jenia Jitsev*
+
+* MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=rc8o_j8I8PX)]<br>
+*Authors: Linxi Fan, Guanzhi Wang, Yunfan Jiang, Ajay Mandlekar, Yuncong Yang, Haoyi Zhu, Andrew Tang, De-An Huang, Yuke Zhu, Anima Anandkumar*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### ICCV
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### ICML
-#### IEEE-Access
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### ECCV
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### AAAI
-#### TPAMI
-#### CVPRw
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### WACV
-#### IJCV
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### BMVC
-#### ICCw
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
