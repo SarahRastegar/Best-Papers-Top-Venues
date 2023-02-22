@@ -420,6 +420,40 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://openreview.net/forum?id=rc8o_j8I8PX)]<br>
 *Authors: Linxi Fan, Guanzhi Wang, Yunfan Jiang, Ajay Mandlekar, Yuncong Yang, Haoyi Zhu, Andrew Tang, De-An Huang, Yuke Zhu, Anima Anandkumar*
 
+### Outstanding Papers 2022 [[Best Papers](https://blog.neurips.cc/2021/11/30/announcing-the-neurips-2021-award-recipients/)] [[All Papers](https://openreview.net/group?id=NeurIPS.cc/2021/Conference)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* A Universal Law of Robustness via Isoperimetry (NeurIPS 2021) 
+[[Paper](https://openreview.net/forum?id=z71OSKqTFh7)]<br>
+*Authors: Sébastien Bubeck and Mark Sellke*
+
+* On the Expressivity of Markov Reward (NeurIPS 2021) 
+[[Paper](https://openreview.net/forum?id=9DlCh34E1bN)]<br>
+*Authors: David Abel, Will Dabney, Anna Harutyunyan, Mark K. Ho, Michael Littman, Doina Precup, and Satinder Singh*
+
+* Deep Reinforcement Learning at the Edge of the Statistical Precipice (NeurIPS 2021) 
+[[Paper](https://openreview.net/forum?id=uqv8-U4lKBe)]<br>
+*Authors: Rishabh Agarwal, Max Schwarzer, Pablo Samuel Castro, Aaron Courville, and Marc G. Bellemare*
+
+* MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers (NeurIPS 2021) 
+[[Paper](https://openreview.net/forum?id=Tqx7nJp7PR)]<br>
+*Authors: Krishna Pillutla, Swabha Swayamdipta, Rowan Zellers, John Thickstun, Sean Welleck, Yejin Choi, and Zaid Harchaoui*
+
+* Continuized Accelerations of Deterministic and Stochastic Gradient Descents, and of Gossip Algorithms (NeurIPS 2021) 
+[[Paper](https://openreview.net/forum?id=bGfDnD7xo-v)]<br>
+*Authors: Mathieu Even, Raphaël Berthier, Francis Bach, Nicolas Flammarion, Pierre Gaillard, Hadrien Hendrikx, Laurent Massoulié, and Adrien Taylor*
+
+* Moser Flow: Divergence-based Generative Modeling on Manifolds (NeurIPS 2021) 
+[[Paper](https://openreview.net/forum?id=qGvMv3undNJ)]<br>
+*Authors: Noam Rozen, Aditya Grover, Maximilian Nickel, and Yaron Lipman*
+
+* Reduced, Reused and Recycled: The Life of a Dataset in Machine Learning Research (NeurIPS 2021) 
+[[Paper](https://openreview.net/forum?id=zNQBIBKJRkd)]<br>
+*Authors: Bernard Koch, Emily Denton, Alex Hanna, and Jacob Gates Foster*
+
+* ATOM3D: Tasks on Molecules in Three Dimensions (NeurIPS 2021) 
+[[Paper](https://openreview.net/forum?id=FkDZLpK1Ml2)]<br>
+*Authors: Raphael John Lamarre Townshend, Martin Vögele, Patricia Adriana Suriana, Alexander Derry, Alexander Powers, Yianni Laloudakis, Sidhika Balachandar, Bowen Jing, Brandon M. Anderson, Stephan Eismann, Risi Kondor, Russ Altman, and Ron O. Dror*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### ICCV
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
