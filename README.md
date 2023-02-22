@@ -420,7 +420,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://openreview.net/forum?id=rc8o_j8I8PX)]<br>
 *Authors: Linxi Fan, Guanzhi Wang, Yunfan Jiang, Ajay Mandlekar, Yuncong Yang, Haoyi Zhu, Andrew Tang, De-An Huang, Yuke Zhu, Anima Anandkumar*
 
-### Outstanding Papers 2022 [[Best Papers](https://blog.neurips.cc/2021/11/30/announcing-the-neurips-2021-award-recipients/)] [[All Papers](https://openreview.net/group?id=NeurIPS.cc/2021/Conference)]
+### Outstanding Papers 2021 [[Best Papers](https://blog.neurips.cc/2021/11/30/announcing-the-neurips-2021-award-recipients/)] [[All Papers](https://openreview.net/group?id=NeurIPS.cc/2021/Conference)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 * A Universal Law of Robustness via Isoperimetry (NeurIPS 2021) 
 [[Paper](https://openreview.net/forum?id=z71OSKqTFh7)]<br>
@@ -453,6 +453,46 @@ This repository conatains the recent best or outstanding papers in contemporary 
 * ATOM3D: Tasks on Molecules in Three Dimensions (NeurIPS 2021) 
 [[Paper](https://openreview.net/forum?id=FkDZLpK1Ml2)]<br>
 *Authors: Raphael John Lamarre Townshend, Martin Vögele, Patricia Adriana Suriana, Alexander Derry, Alexander Powers, Yianni Laloudakis, Sidhika Balachandar, Bowen Jing, Brandon M. Anderson, Stephan Eismann, Risi Kondor, Russ Altman, and Ron O. Dror*
+
+### Outstanding Papers 2020 [[Best Papers](https://nips.cc/virtual/2020/public/f_awards.html)] [[All Papers](https://papers.nips.cc/paper/2020)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Improved Guarantees and a Multiple-Descent Curve for Column Subset Selection and the Nyström Method (NeurIPS 2020) 
+[[Paper](https://arxiv.org/abs/2002.09073)]<br>
+*Authors: Michał Dereziński, Rajiv Khanna, Michael W. Mahoney*
+
+* Language Models are Few-Shot Learners (NeurIPS 2020) 
+[[Paper](https://arxiv.org/abs/2005.14165)]<br>
+*Authors: Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei*
+
+* No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium (NeurIPS 2020) 
+[[Paper](https://arxiv.org/abs/2004.00603)]<br>
+*Authors: Andrea Celli, Alberto Marchesi, Gabriele Farina, Nicola Gatti*
+
+### Outstanding Papers 2019 [[Best Papers](https://syncedreview.com/2019/12/08/neurips-2019-opens-outstanding-paper-awards-and-2021-conference-announced/)] [[All Papers](https://papers.nips.cc/paper/2019)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Distribution-Independent PAC Learning of Halfspaces with Massart Noise (NeurIPS 2019) 
+[[Paper](https://arxiv.org/pdf/1906.10075.pdf)]<br>
+*Authors: Ilias Diakonikolas, Themis Gouleakis, Christos Tzamos*
+
+* Uniform convergence may be unable to explain generalization in deep learning (NeurIPS 2019) 
+[[Paper](https://arxiv.org/pdf/1902.04742.pdf)]<br>
+*Authors: Vaishnavh Nagarajan, J. Zico Kolter*
+
+* Nonparametric Density Estimation & Convergence Rates for GANs under Besov IPM Losses (NeurIPS 2019) 
+[[Paper](https://arxiv.org/pdf/1902.03511)]<br>
+*Authors: Ananya Uppal, Shashank Singh, Barnabás Póczos*
+
+* Fast and Accurate Least-Mean-Squares Solvers (NeurIPS 2019) 
+[[Paper](https://arxiv.org/pdf/1906.04705.pdf)]<br>
+*Authors: Alaa Maalouf, Ibrahim Jubran, Dan Feldman*
+
+* Putting An End to End-to-End: Gradient-Isolated Learning of Representations (NeurIPS 2019) 
+[[Paper](https://arxiv.org/pdf/1905.11786.pdf)]<br>
+*Authors: Sindy Löwe, Peter O’Connor, Bastiaan S. Veeling*
+
+* Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations (NeurIPS 2019) 
+[[Paper](https://arxiv.org/pdf/1906.01618)]<br>
+*Authors: Vincent Sitzmann, Michael Zollhöfer, Gordon Wetzstein*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### ICCV
