@@ -275,11 +275,47 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://openreview.net/forum?id=PxTIG12RRHS)]<br>
 *Authors: Yang Song, Jascha Sohl-Dickstein, Diederik P Kingma, Abhishek Kumar, Stefano Ermon, and Ben Poole*
 
-### Outstanding Papers 2020
+### Outstanding Papers 2020 [[Conference](https://iclr.cc/virtual_2020/papers.html?filter=keywords)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-* Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters (ICLR 2021) 
-[[Paper](https://openreview.net/forum?id=rcQdycl0zyk)]<br>
-*Authors: Aston Zhang, Yi Tay, Shuai Zhang, Alvin Chan, Anh Tuan Luu, Siu Hui, and Jie Fu*
+* ALBERT: A Lite BERT for Self-supervised Learning of Language Representations (ICLR 2020) 
+[[Paper](https://arxiv.org/abs/1909.11942v6)]<br>
+*Authors: Zhenzhong Lan, Mingda Chen, Sebastian Goodman, Kevin Gimpel, Piyush Sharma, Radu Soricut*
+
+* Plug and Play Language Models: A Simple Approach to Controlled Text Generation (ICLR 2020) 
+[[Paper](https://arxiv.org/abs/1912.02164v4)]<br>
+*Authors: Sumanth Dathathri, Andrea Madotto, Janice Lan, Jane Hung, Eric Frank, Piero Molino, Jason Yosinski, Rosanne Liu*
+
+* Meta-Learning without Memorization (ICLR 2020) 
+[[Paper](https://arxiv.org/abs/1912.03820v3)]<br>
+*Authors: Mingzhang Yin, George Tucker, Mingyuan Zhou, Sergey Levine, Chelsea Finn*
+
+* Reformer: The Efficient Transformer (ICLR 2020) 
+[[Paper](https://arxiv.org/abs/2001.04451v2)]<br>
+*Authors: Nikita Kitaev, Łukasz Kaiser, Anselm Levskaya*
+
+* Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML (ICLR 2020) 
+[[Paper](https://arxiv.org/abs/1909.09157)]<br>
+*Authors: Aniruddh Raghu, Maithra Raghu, Samy Bengio, Oriol Vinyals*
+
+* Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One (ICLR 2020) 
+[[Paper](https://arxiv.org/abs/1912.03263)]<br>
+*Authors: Will Grathwohl, Kuan-Chieh Wang, Jörn-Henrik Jacobsen, David Duvenaud, Mohammad Norouzi, Kevin Swersky*
+
+* Playing the lottery with rewards and multiple languages: lottery tickets in RL and NLP (ICLR 2020) 
+[[Paper](https://arxiv.org/abs/1906.02768)]<br>
+*Authors: Haonan Yu, Sergey Edunov, Yuandong Tian, Ari S. Morcos*
+
+* On Identifiability in Transformers (ICLR 2020) 
+[[Paper](https://arxiv.org/abs/1908.04211)]<br>
+*Authors: Gino Brunner, Yang Liu, Damián Pascual, Oliver Richter, Massimiliano Ciaramita, Roger Wattenhofer*
+
+* Neural Tangents: Fast and Easy Infinite Neural Networks in Python (ICLR 2020) 
+[[Paper](https://arxiv.org/abs/1912.02803)]<br>
+*Authors: Roman Novak, Lechao Xiao, Jiri Hron, Jaehoon Lee, Alexander A. Alemi, Jascha Sohl-Dickstein, Samuel S. Schoenholz*
+
+* Generalization through Memorization: Nearest Neighbor Language Models (ICLR 2020) 
+[[Paper](https://arxiv.org/abs/1911.00172)]<br>
+*Authors: Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis*
 
 ### Best Papers 2019
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
