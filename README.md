@@ -275,7 +275,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://openreview.net/forum?id=PxTIG12RRHS)]<br>
 *Authors: Yang Song, Jascha Sohl-Dickstein, Diederik P Kingma, Abhishek Kumar, Stefano Ermon, and Ben Poole*
 
-### Outstanding Papers 2020 [[Conference](https://iclr.cc/virtual_2020/papers.html?filter=keywords)]
+### Outstanding Papers 2020 [[Best Papers](https://analyticsindiamag.com/iclr-2020-conference-papers/)][[All Papers](https://iclr.cc/virtual_2020/papers.html?filter=keywords)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 * ALBERT: A Lite BERT for Self-supervised Learning of Language Representations (ICLR 2020) 
 [[Paper](https://arxiv.org/abs/1909.11942v6)]<br>
