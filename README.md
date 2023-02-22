@@ -1,5 +1,5 @@
 # Best-Papers-Top-Venues
-This repository conatains the recent best or outstanding papers in contemporary top venues like **CVPR, CVPRw, NeurIPS, ICCV, ECCV, ICLR, ICML, BMVC, WACV, TPAMI, AAAI**. 
+This repository conatains the recent best or outstanding papers in contemporary top venues like **CVPR, NeurIPS, ICCV, ECCV, ICLR, ICML, BMVC, WACV, AAAI**. 
 
 
 ## Contents
@@ -197,8 +197,37 @@ This repository conatains the recent best or outstanding papers in contemporary 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ICLR
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Outstanding Papers 2022
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models (ICLR 2022) 
+[[Paper](https://openreview.net/forum?id=0xiJLKH-ufZ)]<br>
+*Authors: Fan Bao, Chongxuan Li, Jun Zhu, Bo Zhang*
 
+* Hyperparameter Tuning with Renyi Differential Privacy (ICLR 2022) 
+[[Paper](https://openreview.net/forum?id=-70L8lpp9DF)]<br>
+*Authors: Nicolas Papernot, Thomas Steinke*
+
+* Learning Strides in Convolutional Neural Networks (ICLR 2022) 
+[[Paper](https://openreview.net/forum?id=M752z9FKJP)]<br>
+*Authors: Rachid Riad, Olivier Teboul, David Grangier, Neil Zeghidour*
+
+* Expressiveness and Approximation Properties of Graph Neural Networks (ICLR 2022) 
+[[Paper](https://openreview.net/forum?id=wIzUeM3TAU)]<br>
+*Authors: Floris Geerts, Juan L Reutter*
+
+* Comparing Distributions by Measuring Differences that Affect Decision Making (ICLR 2022) 
+[[Paper](https://openreview.net/forum?id=KB5onONJIAU)]<br>
+*Authors: Shengjia Zhao, Abhishek Sinha, Yutong (Kelly) He, Aidan Perreault, Jiaming Song, Stefano Ermon*
+
+* Neural Collapse Under MSE Loss: Proximity to and Dynamics on the Central Path (ICLR 2022) 
+[[Paper](https://openreview.net/forum?id=w1UbdvWH_R3)]<br>
+*Authors: X.Y. Han, Vardan Papyan, David L. Donoho*
+
+* Bootstrapped Meta-Learning (ICLR 2022) 
+[[Paper](https://openreview.net/forum?id=b-ny3x071E5)]<br>
+*Authors: Sebastian Flennerhag, Yannick Schroecker, Tom Zahavy, Hado van Hasselt, David Silver, Satinder Singh*
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### NeurIPS
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
