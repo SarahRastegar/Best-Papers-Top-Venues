@@ -243,11 +243,37 @@ This repository conatains the recent best or outstanding papers in contemporary 
 
 ### Outstanding Papers 2021
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-* Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models (ICLR 2022) 
-[[Paper](https://openreview.net/forum?id=0xiJLKH-ufZ)]<br>
-*Authors: Fan Bao, Chongxuan Li, Jun Zhu, Bo Zhang*
+* Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters (ICLR 2021) 
+[[Paper](https://openreview.net/forum?id=rcQdycl0zyk)]<br>
+*Authors: Aston Zhang, Yi Tay, Shuai Zhang, Alvin Chan, Anh Tuan Luu, Siu Hui, and Jie Fu*
 
+* Complex Query Answering with Neural Link Predictors (ICLR 2021) 
+[[Paper](https://openreview.net/forum?id=Mos9F9kDwkz)]<br>
+*Authors: Erik Arakelyan, Daniel Daza, Pasquale Minervini, and Michael Cochez*
 
+* EigenGame: PCA as a Nash Equilibrium (ICLR 2021) 
+[[Paper](https://openreview.net/forum?id=NzTU59SYbNq)]<br>
+*Authors: Ian Gemp, Brian McWilliams, Claire Vernade, and Thore Graepel*
+
+* Learning Mesh-Based Simulation with Graph Networks (ICLR 2021) 
+[[Paper](https://openreview.net/forum?id=roNqYL0_XP)]<br>
+*Authors: Tobias Pfaff, Meire Fortunato, Alvaro Sanchez-Gonzalez, and Peter Battaglia*
+
+* Neural Synthesis of Binaural Speech from Mono Audio (ICLR 2021) 
+[[Paper](https://openreview.net/forum?id=uAX8q61EVRu)]<br>
+*Authors: Alexander Richard, Dejan Markovic, Israel D. Gebru, Steven Krenn, Gladstone Alexander Butler, Fernando Torre, and Yaser Sheikh*
+
+* Optimal Rates for Averaged Stochastic Gradient Descent under Neural Tangent Kernel Regime (ICLR 2021) 
+[[Paper](https://openreview.net/forum?id=PULSD5qI2N1)]<br>
+*Authors: Atsushi Nitanda, and Taiji Suzuki*
+
+* Rethinking Architecture Selection in Differentiable NAS (ICLR 2021) 
+[[Paper](https://openreview.net/forum?id=PKubaeJkw3)]<br>
+*Authors: Ruochen Wang, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, and Cho-Jui Hsieh*
+
+* Score-Based Generative Modeling through Stochastic Differential Equations (ICLR 2021) 
+[[Paper](https://openreview.net/forum?id=PxTIG12RRHS)]<br>
+*Authors: Yang Song, Jascha Sohl-Dickstein, Diederik P Kingma, Abhishek Kumar, Stefano Ermon, and Ben Poole*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### NeurIPS
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
