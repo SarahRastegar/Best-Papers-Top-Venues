@@ -15,8 +15,13 @@ This repository conatains the recent best or outstanding papers in contemporary 
 - [BMVC](#BMVC)
 - [AAAI](#AAAI)
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## CVPR 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
 ### Best Papers 2022
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
 #### Best Paper Award:
 * Learning to Solve Hard Minimal Problems (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hruby_Learning_To_Solve_Hard_Minimal_Problems_CVPR_2022_paper.pdf)]<br>
@@ -38,6 +43,8 @@ This repository conatains the recent best or outstanding papers in contemporary 
 *Authors: Dor Verbin, Peter Hedman, Ben Mildenhall, Todd Zickler, Jonathan Barron, Pratul Srinivasan*
 
 ### Best Papers 2021
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
 #### Best Paper Award:
 * GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields (CVPR 2021) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Niemeyer_GIRAFFE_Representing_Scenes_As_Compositional_Generative_Neural_Feature_Fields_CVPR_2021_paper.pdf)]<br>
@@ -70,8 +77,57 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Lin_Real-Time_High-Resolution_Background_Matting_CVPR_2021_paper.html)]<br>
 *Authors: Shanchuan Lin, Andrey Ryabtsev, Soumyadip Sengupta, Brian Curless, Steve Seitz, Ira Kemelmacher-Shlizerman*
 
+
+### Best Papers 2020
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild (CVPR 2020) 
+[[Paper](https://arxiv.org/abs/1911.11130v2)]<br>
+*Authors: Shangzhe Wu (University of Oxford)*; Christian Rupprecht (University of Oxford); Andrea Vedaldi (Oxford University)*
+
+
+#### Best Student Paper Award:
+* BSP-Net: Generating Compact Meshes via Binary Space Partitioning (CVPR 2020) 
+[[Paper](https://arxiv.org/abs/1911.06971v6)]<br>
+*Authors: Zhiqin Chen (Simon Fraser University); Andrea Tagliasacchi (Google Inc.); Hao Zhang (Simon Fraser University)*
+
+
+#### Best Student Paper Honorable Mention:
+* DeepCap: Monocular Human Performance Capture  Using Weak Supervision (CVPR 2020) 
+[[Paper](https://arxiv.org/abs/2003.08325v1)]<br>
+*Authors: Marc Habermann (Max Planck Institute for Informatics)*;  Weipeng Xu (MPII);  Michael Zollhöfer (Facebook Reality Labs);  Gerard Pons-Moll (MPII, Germany);   Christian Theobalt (MPI Informatik)*
+
+### Best Papers 2019
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction (CVPR 2019) 
+[[Paper](https://imaging.cs.cmu.edu/fermat_paths/assets/cvpr2019.pdf)]<br>
+*Authors: Shumian Xin, Sotiris Nousias, Kyros Kutulakos, Aswin Sankaranarayanan, Srinivasa G. Narasimhan and Ioannis Gkioulekas*
+
+#### Best Paper Honorable Mention:
+* A Style-Based Generator Architecture for Generative Adversarial Networks (CVPR 2019) 
+[[Paper](https://arxiv.org/abs/1812.04948v3)]<br>
+*Authors: Tero Karras, Samuli Laine and Timo Aila*
+
+* Learning the Depths of Moving People by Watching Frozen People (CVPR 2019) 
+[[Paper](https://arxiv.org/abs/1904.11111v1)]<br>
+*Authors: Zhengqi Li, Tali Dekel, Forrester Cole, Richard Tucker, Ce Liu, Bill Freeman and Noah Snavely*
+
+#### Best Student Paper Award:
+* Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation (CVPR 2019) 
+[[Paper](https://arxiv.org/abs/1811.10092v2)]<br>
+*Authors: Xin Wang, Qiuyuan Huang, Asli Celikyilmaz, Jianfeng Gao, Dinghan Shen, Yuan-Fang Wang, William Yang Wang and Lei Zhang*
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### ICLR
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
 #### NeurIPS
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### ICCV
 #### ICML
 #### IEEE-Access
