@@ -19,7 +19,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 ## CVPR 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
-### Best Papers 2022 [[Best Papers](https://cvpr2022.thecvf.com/cvpr-2022-paper-awards)][[All Papers](https://openaccess.thecvf.com/CVPR2022)]
+### Best Papers 2022 [[Best Papers](https://cvpr2022.thecvf.com/cvpr-2022-paper-awards)] [[All Papers](https://openaccess.thecvf.com/CVPR2022)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 #### Best Paper Award:
@@ -42,7 +42,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Verbin_Ref-NeRF_Structured_View-Dependent_Appearance_for_Neural_Radiance_Fields_CVPR_2022_paper.pdf)]<br>
 *Authors: Dor Verbin, Peter Hedman, Ben Mildenhall, Todd Zickler, Jonathan Barron, Pratul Srinivasan*
 
-### Best Papers 2021 [[Best Papers](https://cvpr2021.thecvf.com/node/329)][[All Papers](https://openaccess.thecvf.com/CVPR2021)]
+### Best Papers 2021 [[Best Papers](https://cvpr2021.thecvf.com/node/329)] [[All Papers](https://openaccess.thecvf.com/CVPR2021)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 #### Best Paper Award:
@@ -78,7 +78,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 *Authors: Shanchuan Lin, Andrey Ryabtsev, Soumyadip Sengupta, Brian Curless, Steve Seitz, Ira Kemelmacher-Shlizerman*
 
 
-### Best Papers 2020 [[Best Papers](https://cvpr2020.thecvf.com/node/817)][[All Papers](https://openaccess.thecvf.com/CVPR2020)]
+### Best Papers 2020 [[Best Papers](https://cvpr2020.thecvf.com/node/817)] [[All Papers](https://openaccess.thecvf.com/CVPR2020)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 #### Best Paper Award:
@@ -98,7 +98,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://arxiv.org/abs/2003.08325v1)]<br>
 *Authors: Marc Habermann (Max Planck Institute for Informatics)*;  Weipeng Xu (MPII);  Michael Zollhöfer (Facebook Reality Labs);  Gerard Pons-Moll (MPII, Germany);   Christian Theobalt (MPI Informatik)*
 
-### Best Papers 2019 [[Best Papers](https://cvpr2019.thecvf.com/program/main_conference#awards)][[All Papers](https://openaccess.thecvf.com/CVPR2019)]
+### Best Papers 2019 [[Best Papers](https://cvpr2019.thecvf.com/program/main_conference#awards)] [[All Papers](https://openaccess.thecvf.com/CVPR2019)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 #### Best Paper Award:
@@ -120,7 +120,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://arxiv.org/abs/1811.10092v2)]<br>
 *Authors: Xin Wang, Qiuyuan Huang, Asli Celikyilmaz, Jianfeng Gao, Dinghan Shen, Yuan-Fang Wang, William Yang Wang and Lei Zhang*
 
-### Best Papers 2018 [[Best Papers](https://medium.com/syncedreview/cvpr-2018-kicks-off-best-papers-announced-d3361bcc6984)][[All Papers](https://openaccess.thecvf.com/CVPR2018)]
+### Best Papers 2018 [[Best Papers](https://medium.com/syncedreview/cvpr-2018-kicks-off-best-papers-announced-d3361bcc6984)] [[All Papers](https://openaccess.thecvf.com/CVPR2018)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 #### Best Paper Award:
@@ -150,7 +150,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://arxiv.org/pdf/1801.01615.pdf)]<br>
 *Authors: Hanbyul Joo, Tomas Simon, Yaser Sheikh*
 
-### Best Papers 2017 [[Best Papers](https://cvpr2017.thecvf.com/program/main_conference#cvpr2017_awards)][[All Papers](https://openaccess.thecvf.com/CVPR2017)]
+### Best Papers 2017 [[Best Papers](https://cvpr2017.thecvf.com/program/main_conference#cvpr2017_awards)] [[All Papers](https://openaccess.thecvf.com/CVPR2017)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 #### Best Paper Award:
@@ -176,7 +176,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://ieeexplore.ieee.org/document/8099737)]<br>
 *Authors: Mark Sheinin, Yoav Y. Schechner, & Kiriakos N. Kutulakos*
 
-### Best Papers 2016 [[Best Papers](https://cvpr2016.thecvf.com/)][[All Papers](https://openaccess.thecvf.com/CVPR2017)]
+### Best Papers 2016 [[Best Papers](https://cvpr2016.thecvf.com/)] [[All Papers](https://openaccess.thecvf.com/CVPR2016)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 #### Best Paper Award:
@@ -197,7 +197,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ICLR
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-### Outstanding Papers 2022
+### Outstanding Papers 2022 [[Best Papers](https://blog.iclr.cc/2022/04/20/announcing-the-iclr-2022-outstanding-paper-award-recipients/)] [[All Papers](https://iclr.cc/virtual/2022/papers.html?filter=titles)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 * Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models (ICLR 2022) 
 [[Paper](https://openreview.net/forum?id=0xiJLKH-ufZ)]<br>
@@ -241,7 +241,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://openreview.net/forum?id=EhYjZy6e1gJ)]<br>
 *Authors: Haobo Wang, Ruixuan Xiao, Yixuan (Sharon) Li, Lei Feng, Gang Niu, Gang Chen, Junbo Zhao*
 
-### Outstanding Papers 2021
+### Outstanding Papers 2021 [[Best Papers](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab)] [[All Papers](https://iclr.cc/virtual/2021/papers.html?filter=titles)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 * Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters (ICLR 2021) 
 [[Paper](https://openreview.net/forum?id=rcQdycl0zyk)]<br>
@@ -317,7 +317,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://arxiv.org/abs/1911.00172)]<br>
 *Authors: Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis*
 
-### Best Papers 2019
+### Best Papers 2019 [[Best Papers](https://iclr.cc/Conferences/2019/Awards)] [[All Papers](https://openreview.net/group?id=ICLR.cc/2019/Conference)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 * Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks (ICLR 2019) 
 [[Paper](https://iclr.cc/Conferences/2019/Schedule?q=Ordered+Neurons%3A+Integrating+Tree+Structures+into+Recurrent+Neural+Networks)]<br>
@@ -327,7 +327,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://iclr.cc/Conferences/2019/Schedule?q=The+Lottery+Ticket+Hypothesis%3A+%C2%A0Finding+Sparse%2C+Trainable+Neural+Networks)]<br>
 *Authors: Jonathan Frankle, Michael Carbin*
 
-### Best Papers 2018
+### Best Papers 2018 [[Best Papers](https://medium.com/syncedreview/iclr-2018s-best-papers-variant-adam-spherical-cnns-and-meta-learning-6b48dca83e8b)] [[All Papers](https://openreview.net/group?id=ICLR.cc/2018/Conference)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 * On the Convergence of Adam and Beyond (ICLR 2018) 
 [[Paper](https://arxiv.org/abs/1904.09237)]<br>
@@ -341,7 +341,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://arxiv.org/abs/1710.03641)]<br>
 *Authors: Maruan Al-Shedivat, Trapit Bansal, Yuri Burda, Ilya Sutskever, Igor Mordatch, Pieter Abbeel*
 
-### Best Papers 2017
+### Best Papers 2017 [[Best Papers](https://desh2608.github.io/2017-10-14-best-papers-at-iclr-17/)] [[All Papers](https://openreview.net/group?id=ICLR.cc/2017/conference)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 * Understanding deep learning requires rethinking generalization (ICLR 2017) 
 [[Paper](https://arxiv.org/pdf/1611.03530.pdf)]<br>
