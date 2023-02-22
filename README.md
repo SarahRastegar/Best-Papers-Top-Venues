@@ -227,6 +227,27 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://openreview.net/forum?id=b-ny3x071E5)]<br>
 *Authors: Sebastian Flennerhag, Yannick Schroecker, Tom Zahavy, Hado van Hasselt, David Silver, Satinder Singh*
 
+#### Outstanding Paper Honorable Mentions
+
+* Understanding over-squashing and bottlenecks on graphs via curvature (ICLR 2022) 
+[[Paper](https://openreview.net/forum?id=7UmjRGzp-A)]<br>
+*Authors: Jake Topping, Francesco Di Giovanni, Benjamin Paul Chamberlain, Xiaowen Dong, Michael M. Bronstein*
+
+* Efficiently Modeling Long Sequences with Structured State Spaces (ICLR 2022) 
+[[Paper](https://openreview.net/forum?id=uYLFoz1vlAC)]<br>
+*Authors: Albert Gu, Karan Goel, Christopher Re*
+
+* PiCO: Contrastive Label Disambiguation for Partial Label Learning (ICLR 2022) 
+[[Paper](https://openreview.net/forum?id=EhYjZy6e1gJ)]<br>
+*Authors: Haobo Wang, Ruixuan Xiao, Yixuan (Sharon) Li, Lei Feng, Gang Niu, Gang Chen, Junbo Zhao*
+
+### Outstanding Papers 2021
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models (ICLR 2022) 
+[[Paper](https://openreview.net/forum?id=0xiJLKH-ufZ)]<br>
+*Authors: Fan Bao, Chongxuan Li, Jun Zhu, Bo Zhang*
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### NeurIPS
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
