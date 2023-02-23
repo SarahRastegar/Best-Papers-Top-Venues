@@ -887,6 +887,36 @@ This repository conatains the recent best or outstanding papers in contemporary 
 *Authors: Carsten Lutz, Marcin Przybylko*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Best Papers 2022 [[Best Papers](https://aaai-2022.virtualchair.net/awards.html)] [[All Papers](https://aaai-2022.virtualchair.net/papers.html?filter=keywords)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+#### Outstanding Paper Award
+* Online certification of preference-based fairness for personalized recommender systems (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_aaai3798)]<br>
+*Authors: Virginie Do, Sam Corbett-Davies, Jamal Atif, Nicolas Usunier*
+
+#### Outstanding Paper Award Honorable Mention
+* Bayesian Persuasion in Sequential Decision-Making (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_aaai12585)]<br>
+*Authors: Jiarui Gan, Rupak Majumdar, Goran Radanovic, Adish Singla*
+
+* Operator-Potential Heuristics for Symbolic Search (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_aaai2018)]<br>
+*Authors: Daniel Fišer, Alvaro Torralba, Joerg Hoffmann*
+
+#### Outstanding Student Paper Award
+* InfoLM: A New Metric to Evaluate Summarization & Data2Text Generation (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_aaai4389)]<br>
+*Authors: Pierre Colombo, Chloé Clavel, Pablo Piantanida*
+
+#### Outstanding Student Paper Award Honorable Mention
+* Compilation of Aggregates in ASP Systems (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_aaai10258)]<br>
+*Authors: Giuseppe Mazzotta, Francesco Ricca, Carmine Dodaro*
+
+* Entropy Estimation via Normalizing Flow (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_aaai8184)]<br>
+*Authors: Ziqiao Ao, Jinglai Li*
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## WACV
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
