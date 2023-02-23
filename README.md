@@ -822,6 +822,69 @@ This repository conatains the recent best or outstanding papers in contemporary 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## AAAI
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Best Papers 2023 [[Best Papers](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/)] [[All Papers]()]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+#### Outstanding Paper Award
+* Misspecification in Inverse Reinforcement Learning (AAAI 2023) 
+[[Paper](https://arxiv.org/abs/2212.03201)]<br>
+*Authors: Joar Skalse, Alessandro Abate*
+
+#### Outstanding Student Paper Award
+
+* Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation (AAAI 2023) 
+[[Paper](https://arxiv.org/abs/2212.04145)]<br>
+*Authors: Yulu Gan, Yan Bai, Yihang Lou, Xianzheng Ma, Renrui Zhang, Nian Shi, Lin Luo*
+
+
+#### Distinguished Paper Award
+
+* DropMessage: Unifying Random Dropping for Graph Neural Networks (AAAI 2023) 
+[[Paper](https://arxiv.org/abs/2204.10037)]<br>
+*Authors: Taoran Fang, Zhiqing Xiao, Chunping Wang, Jiarong Xu, Xuan Yang, Yang Yang*
+
+* Two Heads are Better than One: Image-Point Cloud Network for Depth-Based 3D Hand Pose Estimation (AAAI 2023) 
+[[Paper]]<br>
+*Authors: Pengfei Ren, Yuchen Chen, Jiachang Hao, Haifeng Sun, Qi Qi, Jingyu Wang, Jianxin Liao*
+
+* Neural Architecture Search for Wide Spectrum Adversarial Robustness (AAAI 2023) 
+[[Paper]()]<br>
+*Authors: Zhi Cheng, Yanxi Li, Minjing Dong, Xiu Su, Shan You, Chang Xu*
+
+* CowClip: Reducing CTR Prediction Model Training Time from 12 hours to 10 minutes on 1 GPU (AAAI 2023) 
+[[Paper](https://arxiv.org/abs/2204.06240)]<br>
+*Authors: Zangwei Zheng, Pengtai Xu, Xuan Zou, Da Tang, Zhen Li, Chenguang Xi, Peng Wu, Leqi Zou, Yijie Zhu, Ming Chen, Xiangzhuo Ding, Fuzhao Xue, Ziheng Qin, Youlong Cheng, Yang You*
+
+* DICNet: Deep Instance-Level Contrastive Network for Double Incomplete Multi-View MultiLabel Classification (AAAI 2023) 
+[[Paper]]<br>
+*Authors: Chengliang Liu, Jie Wen, Xiaoling Luo, Chao Huang, Zhihao Wu, Yong Xu*
+
+* Exploring Tuning Characteristics of Ventral Stream’s Neurons for Few-Shot Image Classification (AAAI 2023) 
+[[Paper]]<br>
+*Authors: Lintao Dong, Wei Zhai Zheng-Jun Zha*
+
+* MaskBooster: End-to-End Self-Training for Sparsely Supervised Instance Segmentation (AAAI 2023) 
+[[Paper]]<br>
+*Authors: Shida Zheng, Chenshu Chen, Xi Yang, Wenming Tan*
+
+* SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification (AAAI 2023) 
+[[Paper]]<br>
+*Authors: Tianci Liu, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao*
+
+* XRand: Differentially Private Defense against Explanation-Guided Attacks (AAAI 2023) 
+[[Paper](https://arxiv.org/abs/2212.04454)]<br>
+*Authors: Truc Nguyen, Phung Lai, Hai Phan, My T. Thai*
+
+* Clustering What Matters: Optimal Approximation for Clustering with Outliers (AAAI 2023) 
+[[Paper](https://arxiv.org/abs/2212.00696)]<br>
+*Authors: Akanksha Agrawal, Tanmay Inamdar, Saket Saurabh, Jie Xue*
+
+* Robust Average-Reward Markov Decision Processes (AAAI 2023) 
+[[Paper](https://arxiv.org/abs/2301.00858)]<br>
+*Authors: Yue Wang, Alvaro Velasquez, George Atia, Ashley Prater-Bennette, Shaofeng Zou*
+
+* Efficient Answer Enumeration in Description Logics with Functional Roles (AAAI 2023) 
+[[Paper](https://arxiv.org/abs/2211.15248)]<br>
+*Authors: Carsten Lutz, Marcin Przybylko*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## WACV
