@@ -564,6 +564,32 @@ This repository conatains the recent best or outstanding papers in contemporary 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ICCV
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Best Papers 2021 [[Best Papers](https://iccv2021.thecvf.com/iccv-2021-paper-awards)] [[All Papers](https://openaccess.thecvf.com/CVPR2022)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.html)]<br>
+*Authors: Ze Liu, Yutong Lin, Yue Cao, Han Hu), Yixuan Wei, Zheng Zhang (MSRA, Stephen Lin, Baining Guo*
+
+#### Best Paper Honorable Mention:
+* Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Barron_Mip-NeRF_A_Multiscale_Representation_for_Anti-Aliasing_Neural_Radiance_Fields_ICCV_2021_paper.html)]<br>
+*Authors: Jonathan T Barron, Ben Mildenhall, Matthew Tancik, Peter Hedman, Ricardo Martin-Brualla, Pratul Srinivasan*
+
+* OpenGAN: Open-Set Recognition via Open Data Generation (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Kong_OpenGAN_Open-Set_Recognition_via_Open_Data_Generation_ICCV_2021_paper.html)]<br>
+*Authors: Shu Kong, Deva Ramanan*
+
+* OpenGAN: Open-Set Recognition via Open Data Generation (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Kong_OpenGAN_Open-Set_Recognition_via_Open_Data_Generation_ICCV_2021_paper.html)]<br>
+*Authors: Federica Arrigoni, Andrea Fusiello, Elisa Ricci, Tomas Pajdla*
+
+#### Best Student Paper Award:
+* Pixel-Perfect Structure-from-Motion with Featuremetric Refinement (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Lindenberger_Pixel-Perfect_Structure-From-Motion_With_Featuremetric_Refinement_ICCV_2021_paper.html)]<br>
+*Authors: Philipp Lindenberger, Paul-Edouard Sarlin, Viktor Larsson, Marc Pollefeys*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ICML
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
