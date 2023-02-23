@@ -10,7 +10,6 @@ This repository conatains the recent best or outstanding papers in contemporary 
 - [ICML](#ICML)
 - [ECCV](#ECCV)
 - [AAAI](#AAAI)
-- [TPAMI](#TPAMI)
 - [WACV](#WACV)
 - [BMVC](#BMVC)
 - [AAAI](#AAAI)
@@ -589,7 +588,6 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Reizenstein_Common_Objects_in_3D_Large-Scale_Learning_and_Evaluation_of_Real-Life_ICCV_2021_paper.html)]<br>
 *Authors: Jeremy Reizenstein, Philipp Henzler, Roman Shapovalov, Luca Sbordone, Patrick Labatut, David Novotny*
 
-
 #### Best Student Paper Award:
 * Pixel-Perfect Structure-from-Motion with Featuremetric Refinement (ICCV 2021) 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Lindenberger_Pixel-Perfect_Structure-From-Motion_With_Featuremetric_Refinement_ICCV_2021_paper.html)]<br>
@@ -616,6 +614,21 @@ This repository conatains the recent best or outstanding papers in contemporary 
 * PLMP - Point-Line Minimal Problems in Complete Multi-View Visibility (ICCV 2021) 
 [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Duff_PLMP_-_Point-Line_Minimal_Problems_in_Complete_Multi-View_Visibility_ICCV_2019_paper.pdf)]<br>
 *Authors: Timothy Duff, Kathlén Kohn, Anton Leykin, Tomas Pajdla*
+
+### Best Papers 2017 [[Best Papers](https://medium.com/onfido-tech/the-best-of-iccv-2017-b029b7ad4ab0)] [[All Papers](https://openaccess.thecvf.com/ICCV2017)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* Mask R-CNN (ICCV 2019) 
+[[Paper](https://arxiv.org/abs/1703.06870)]<br>
+*Authors: Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick*
+
+
+#### Best Student Paper Award:
+* Focal Loss for Dense Object Detection (ICCV 2021) 
+[[Paper](https://arxiv.org/abs/1708.02002)]<br>
+*Authors: Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollár*
+
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ICML
