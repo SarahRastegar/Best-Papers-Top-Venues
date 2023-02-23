@@ -526,6 +526,41 @@ This repository conatains the recent best or outstanding papers in contemporary 
 * A Linear-Time Kernel Goodness-of-Fit Test (NeurIPS 2017) 
 [[Paper](https://nips.cc/Conferences/2017/Schedule?showEvent=8823)]<br>
 *Authors: Wittawat Jitkrittum, Wenkai Xu, Zoltan Szabo, Kenji Fukumizu, Arthur Gretton*
+
+### Outstanding Papers 2016 [[Best Papers](https://nips.cc/Conferences/2016/Awards)] [[All Papers](https://papers.nips.cc/paper/2016)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* Value Iteration Networks (NeurIPS 2016) 
+[[Paper](https://nips.cc/Conferences/2016/Schedule?showEvent=7211)]<br>
+*Authors: Aviv Tamar, Yi Wu, Garrett Thomas, Sergey Levine, Pieter Abbeel*
+
+#### Best Student Paper Award:
+
+* Matrix Completion has No Spurious Local Minimum (NeurIPS 2016) 
+[[Paper](https://nips.cc/Conferences/2016/Schedule?showEvent=7218)]<br>
+*Authors: Rong Ge, Jason Lee, Tengyu Ma*
+
+### Outstanding Papers 2015 [[Best Papers](https://nips.cc/Conferences/2015/Awards)] [[All Papers](https://papers.nips.cc/paper/2015)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Competitive Distribution Estimation: Why is Good-Turing Good (NeurIPS 2015) 
+[[Paper](https://nips.cc/Conferences/2015/Schedule?q=Competitive+Distribution+Estimation%3A+Why+is+Good-Turing+Good)]<br>
+*Authors: Alon Orlitsky, Ananda Suresh*
+
+* Fast Convergence of Regularized Learning in Games » (NeurIPS 2015) 
+[[Paper](https://nips.cc/Conferences/2015/Schedule?q=Fast+Convergence+of+Regularized+Learning+in+Games)]<br>
+*Authors: Vasilis Syrgkanis, Alekh Agarwal, Haipeng Luo, Robert Schapire*
+
+### Outstanding Papers 2014 [[Best Papers](https://nips.cc/Conferences/2014/Awards)] [[All Papers](https://papers.nips.cc/paper/2014)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Asymmetric LSH (ALSH) for Sublinear Time Maximum Inner Product Search (NeurIPS 2014) 
+[[Paper](http://papers.nips.cc/paper/5329-asymmetric-lsh-alsh-for-sublinear-time-maximum-inner-product-search-mips)]<br>
+*Authors: Anshumali Shrivastava, Ping Li*
+
+* A* Sampling (NeurIPS 2014) 
+[[Paper](http://papers.nips.cc/paper/5449-a-sampling)]<br>
+*Authors: Chris J. Maddison, Daniel Tarlow, Tom Minka*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### ICCV
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
