@@ -567,8 +567,68 @@ This repository conatains the recent best or outstanding papers in contemporary 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### ICML
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Outstanding Papers 2022 [[Best Papers](https://icml.cc/virtual/2022/awards_detail)] [[All Papers](https://icml.cc/virtual/2022/papers.html?filter=titles)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Do Differentiable Simulators Give Better Policy Gradients (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/oral/16770)]<br>
+*Authors: Hyung Ju Suh · Max Simchowitz · Kaiqing Zhang · Russ Tedrake*
 
+* Causal Conceptions of Fairness and their Consequences (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/poster/17121)]<br>
+*Authors: Hamed Nilforoshan · Johann Gaebler · Ravi Shroff · Sharad Goel*
 
+* G-Mixup: Graph Data Augmentation for Graph Classification (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/poster/16665)]<br>
+*Authors: Xiaotian Han · Zhimeng Jiang · Ninghao Liu · Xia Hu*
+
+* Stable Conformal Prediction Sets (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/oral/16842)]<br>
+*Authors: Eugene Ndiaye*
+
+* Privacy for Free: How does Dataset Condensation Help Privacy? (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/poster/18235)]<br>
+*Authors: Tian Dong · Bo Zhao · Lingjuan Lyu*
+
+* Solving Stackelberg Prediction Game with Least Squares Loss via Spherically Constrained Least Squares Reformulation (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/oral/17692)]<br>
+*Authors: Jiali Wang · Wen Huang · Rujun Jiang · Xudong Li · Alex Wang*
+
+* The Importance of Non-Markovianity in Maximum State Entropy Exploration (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/poster/16289)]<br>
+*Authors: Mirco Mutti · Riccardo De Santi · Marcello Restelli*
+
+* Bayesian Model Selection, the Marginal Likelihood, and Generalization (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/oral/17992)]<br>
+*Authors: Sanae Lotfi · Pavel Izmailov · Gregory Benton · Micah Goldblum · Andrew Wilson*
+
+* Understanding Dataset Difficulty with V-Usable Information (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/oral/16634)]<br>
+*Authors: Kawin Ethayarajh · Yejin Choi · Swabha Swayamdipta*
+
+* Learning Mixtures of Linear Dynamical Systems (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/poster/15993)]<br>
+*Authors: Yanxi Chen · H. Vincent Poor*
+
+#### Outstanding Paper Runner Up
+* Active fairness auditing (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/oral/17204)]<br>
+*Authors: Tom Yan · Chicheng Zhang*
+
+* Adversarially Trained Actor Critic for Offline Reinforcement Learning (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/oral/17174)]<br>
+*Authors: Ching-An Cheng · Tengyang Xie · Nan Jiang · Alekh Agarwal*
+
+* Monarch: Expressive Structured Matrices for Efficient and Accurate Training (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/poster/17899)]<br>
+*Authors: Tri Dao · Beidi Chen · Nimit Sohoni · Arjun Desai · Michael Poli · Jessica Grogan · Alexander Liu · Aniruddh Rao · Atri Rudra · Christopher Re*
+
+* Learning inverse folding from millions of predicted structures (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/oral/16886)]<br>
+*Authors: Chloe Hsu · Robert Verkuil · Jason Liu · Zeming Lin · Brian Hie · Tom Sercu · Adam Lerer · Alexander Rives*
+
+* Minimum Cost Intervention Design for Causal Effect Identification (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/oral/17380)]<br>
+*Authors: Sina Akbari · Jalal Etesami · Negar Kiyavash*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### ECCV
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
