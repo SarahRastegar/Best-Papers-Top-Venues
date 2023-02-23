@@ -684,6 +684,8 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://arxiv.org/abs/1803.04383)]<br>
 *Authors: Lydia Liu, Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt*
 
+#### Outstanding Paper Honorable Mention
+
 * The Mechanics of n-Player Differentiable Games (ICML 2018) 
 [[Paper](https://arxiv.org/abs/1802.05642)]<br>
 *Authors: David Balduzzi, Sebastien Racaniere, James Martens, Jakob Foerster, Karl Tuyls, Thore Graepel*
