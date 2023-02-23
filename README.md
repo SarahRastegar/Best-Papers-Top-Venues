@@ -494,6 +494,38 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://arxiv.org/pdf/1906.01618)]<br>
 *Authors: Vincent Sitzmann, Michael Zollhöfer, Gordon Wetzstein*
 
+### Outstanding Papers 2018 [[Best Papers](https://nips.cc/Conferences/2018/Awards)] [[All Papers](https://papers.nips.cc/paper/2018)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Non-delusional Q-learning and Value-iteration (NeurIPS 2018) 
+[[Paper](https://papers.nips.cc/paper/2018/hash/5fd0245f6c9ddbdf3eff0f505975b6a7-Abstract.html)]<br>
+*Authors: Tyler Lu, Dale Schuurmans, Craig Boutilier*
+
+* Optimal Algorithms for Non-Smooth Distributed Optimization in Networks (NeurIPS 2018) 
+[[Paper](https://arxiv.org/abs/1806.00291)]<br>
+*Authors: Kevin Scaman, Francis Bach, Sebastien Bubeck, Laurent Massoulié, Yin Tat Lee*
+
+* Nearly Tight Sample Complexity Bounds for Learning Mixtures of Gaussians via Sample Compression Schemes (NeurIPS 2018) 
+[[Paper](https://arxiv.org/abs/1710.05209)]<br>
+*Authors: Hassan Ashtiani, Shai Ben-David, Nick Harvey, Christopher Liaw, Abbas Mehrabian, Yaniv Plan*
+
+* Neural Ordinary Differential Equations (NeurIPS 2018) 
+[[Paper](https://arxiv.org/abs/1806.07366)]<br>
+*Authors: Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud*
+
+
+### Outstanding Papers 2017 [[Best Papers](https://nips.cc/Conferences/2017/Awards)] [[All Papers](https://papers.nips.cc/paper/2017)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Safe and Nested Subgame Solving for Imperfect-Information Games (NeurIPS 2017) 
+[[Paper](https://nips.cc/Conferences/2017/Schedule?showEvent=8864)]<br>
+*Authors: Noam Brown, Tuomas Sandholm*
+
+* Variance-based Regularization with Convex Objectives (NeurIPS 2017) 
+[[Paper](https://nips.cc/Conferences/2017/Schedule?showEvent=9082)]<br>
+*Authors: Hongseok Namkoong, John Duchi*
+
+* A Linear-Time Kernel Goodness-of-Fit Test (NeurIPS 2017) 
+[[Paper](https://nips.cc/Conferences/2017/Schedule?showEvent=8823)]<br>
+*Authors: Wittawat Jitkrittum, Wenkai Xu, Zoltan Szabo, Kenji Fukumizu, Arthur Gretton*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### ICCV
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
