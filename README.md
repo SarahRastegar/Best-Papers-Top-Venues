@@ -564,7 +564,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ICCV
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-### Best Papers 2021 [[Best Papers](https://iccv2021.thecvf.com/iccv-2021-paper-awards)] [[All Papers](https://openaccess.thecvf.com/CVPR2022)]
+### Best Papers 2021 [[Best Papers](https://iccv2021.thecvf.com/iccv-2021-paper-awards)] [[All Papers](https://openaccess.thecvf.com/ICCV2021)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 #### Best Paper Award:
@@ -581,14 +581,41 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Kong_OpenGAN_Open-Set_Recognition_via_Open_Data_Generation_ICCV_2021_paper.html)]<br>
 *Authors: Shu Kong, Deva Ramanan*
 
-* OpenGAN: Open-Set Recognition via Open Data Generation (ICCV 2021) 
-[[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Kong_OpenGAN_Open-Set_Recognition_via_Open_Data_Generation_ICCV_2021_paper.html)]<br>
+* Viewing Graph Solvability via Cycle Consistency (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Arrigoni_Viewing_Graph_Solvability_via_Cycle_Consistency_ICCV_2021_paper.html)]<br>
 *Authors: Federica Arrigoni, Andrea Fusiello, Elisa Ricci, Tomas Pajdla*
+
+* Common Objects in 3D: Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Reizenstein_Common_Objects_in_3D_Large-Scale_Learning_and_Evaluation_of_Real-Life_ICCV_2021_paper.html)]<br>
+*Authors: Jeremy Reizenstein, Philipp Henzler, Roman Shapovalov, Luca Sbordone, Patrick Labatut, David Novotny*
+
 
 #### Best Student Paper Award:
 * Pixel-Perfect Structure-from-Motion with Featuremetric Refinement (ICCV 2021) 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Lindenberger_Pixel-Perfect_Structure-From-Motion_With_Featuremetric_Refinement_ICCV_2021_paper.html)]<br>
 *Authors: Philipp Lindenberger, Paul-Edouard Sarlin, Viktor Larsson, Marc Pollefeys*
+
+### Best Papers 2019 [[Best Papers](https://iccv2019.thecvf.com/program/main_conference)] [[All Papers](https://openaccess.thecvf.com/ICCV2019)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* SinGAN: Learning a Generative Model from a Single Natural Image (ICCV 2019) 
+[[Paper](https://arxiv.org/abs/1905.01164)]<br>
+*Authors: Tamar Rott Shaham, Tali Dekel, Tomer Michaeli*
+
+#### Best Paper Honorable Mention:
+* Asynchronous Single-Photon 3D Imaging (ICCV 2019) 
+[[Paper](https://arxiv.org/abs/1908.06372)]<br>
+*Authors: Anant Gupta, Atul Ingle, Mohit Gupta*
+
+* Specifying Object Attributes and Relations in Interactive Scene Generation (ICCV 2019) 
+[[Paper](https://arxiv.org/abs/1909.05379)]<br>
+*Authors: Oron Ashual, Lior Wolf*
+
+#### Best Student Paper Award:
+* PLMP - Point-Line Minimal Problems in Complete Multi-View Visibility (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Duff_PLMP_-_Point-Line_Minimal_Problems_in_Complete_Multi-View_Visibility_ICCV_2019_paper.pdf)]<br>
+*Authors: Timothy Duff, Kathlén Kohn, Anton Leykin, Tomas Pajdla*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ICML
