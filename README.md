@@ -754,6 +754,40 @@ This repository conatains the recent best or outstanding papers in contemporary 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ECCV
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+### Best Papers 2022 [[Best Papers](https://eccv2022.ecva.net/files/2022/10/ECCV22-Awards.pdf)] [[All Papers](https://www.ecva.net/papers.php)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* On the Versatile Uses of Partial Distance Correlation in Deep Learning (ECCV 2022) 
+[[Paper](https://arxiv.org/abs/2207.09684)]<br>
+*Authors: Xingjian Zhen, Zihang Meng, Rudrasis Chakraborty, Vikas Singh*
+
+#### Best Paper Honorable Mention:
+* Pose-NDF: Modelling Human Pose Manifolds with Neural Distance Fields (ECCV 2022) 
+[[Paper](https://arxiv.org/abs/2207.13807)]<br>
+*Authors: Garvita Tiwari, Dimitrije Antic, Jan E. Lenssen,  Nikolaos Sarafianos, Tony Tung, Gerard Pons-Moll*
+
+* A Level Set Theory for Neural Implicit Evolution under Explicit Flows (ECCV 2022) 
+[[Paper](https://arxiv.org/abs/2204.07159)]<br>
+*Authors: Ishit Mehta, Manmohan Chandraker, Ravi Ramamoorthi*
+
+### Best Papers 2020 [[Best Papers](https://eccv2022.ecva.net/files/2022/10/ECCV22-Awards.pdf)] [[All Papers](https://www.ecva.net/papers.php)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* RAFT: Recurrent All-Pairs Field Transforms for Optical Flow (ECCV 2020) 
+[[Paper](https://arxiv.org/abs/2003.12039)]<br>
+*Authors: Zachary Teed, Jia Deng*
+
+#### Best Paper Honorable Mention:
+* Towards Streaming Perception (ECCV 2020) 
+[[Paper](https://arxiv.org/abs/2005.10420)]<br>
+*Authors: Mengtian Li, Yu-Xiong Wang, Deva Ramanan*
+
+* NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (ECCV 2020) 
+[[Paper](https://arxiv.org/abs/2003.08934)]<br>
+*Authors: Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## AAAI
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
