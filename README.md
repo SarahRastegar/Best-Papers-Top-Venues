@@ -629,6 +629,73 @@ This repository conatains the recent best or outstanding papers in contemporary 
 * Minimum Cost Intervention Design for Causal Effect Identification (ICML 2022) 
 [[Paper](https://icml.cc/virtual/2022/oral/17380)]<br>
 *Authors: Sina Akbari · Jalal Etesami · Negar Kiyavash*
+
+### Outstanding Papers 2021 [[Best Papers](https://icml.cc/virtual/2021/awards_detail)] [[All Papers](https://icml.cc/virtual/2021/papers.html?filter=titles)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Unbiased Gradient Estimation in Unrolled Computation Graphs with Persistent Evolution Strategies (ICML 2021) 
+[[Paper](https://icml.cc/virtual/2021/poster/10175)]<br>
+*Authors: Paul Vicol · Luke Metz · Jascha Sohl-Dickstein*
+
+#### Outstanding Paper Honorable Mention
+* Oops I Took A Gradient: Scalable Sampling for Discrete Distributions (ICML 2021) 
+[[Paper](https://icml.cc/virtual/2021/oral/9336)]<br>
+*Authors: Will Grathwohl · Kevin Swersky · Milad Hashemi · David Duvenaud · Chris Maddison*
+
+* Understanding self-supervised learning dynamics without contrastive pairs (ICML 2021) 
+[[Paper](https://icml.cc/virtual/2021/poster/10403)]<br>
+*Authors: Yuandong Tian · Xinlei Chen · Surya Ganguli*
+
+* Optimal Complexity in Decentralized Training (ICML 2021) 
+[[Paper](https://icml.cc/virtual/2021/poster/8893)]<br>
+*Authors: Yucheng Lu · Christopher De Sa*
+
+* Solving high-dimensional parabolic PDEs using the tensor train format (ICML 2021) 
+[[Paper](https://icml.cc/virtual/2021/poster/9927)]<br>
+*Authors: Lorenz Richter · Leon Sallandt · Nikolas Nüsken*
+
+### Outstanding Papers 2020 [[Best Papers](https://icml.cc/virtual/2020/awards.html)] [[All Papers](https://icml.cc/virtual/2020/papers.html?filter=titles)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* On Learning Sets of Symmetric Elements Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems (ICML 2020) 
+[[Paper](https://icml.cc/virtual/2020/poster/6447)]<br>
+*Authors: Kaixuan Wei · Angelica I Aviles-Rivero · Jingwei Liang · Ying Fu · Carola-Bibiane Schönlieb · Hua Huang*
+
+#### Outstanding Paper Honorable Mention
+* Efficiently sampling functions from Gaussian process posteriors Generative Pretraining From Pixels (ICML 2020) 
+[[Paper](https://icml.cc/virtual/2020/poster/6461)]<br>
+*Authors: James Wilson · Viacheslav Borovitskiy · Alexander Terenin · Peter Mostowsky · Marc Deisenroth*
+
+### Outstanding Papers 2019 [[Best Papers](https://syncedreview.com/2019/06/16/icml-announces-best-paper-awards-what-to-expect-at-cvpr-2019/)] [[All Papers](http://proceedings.mlr.press/v97/)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations (ICML 2019) 
+[[Paper](https://arxiv.org/abs/1811.12359)]<br>
+*Authors: Francesco Locatello, Stefan Bauer, Mario Lucic, Gunnar Rätsch, Sylvain Gelly, Bernhard Schölkopf, Olivier Bachem*
+
+* Rates of Convergence for Sparse Variational Gaussian Process Regression (ICML 2019) 
+[[Paper](https://arxiv.org/abs/1903.03571)]<br>
+*Authors: David R. Burt, Carl E. Rasmussen, Mark van der Wilk*
+
+### Outstanding Papers 2018 [[Best Papers](https://icml.cc/Conferences/2018/Awards)] [[All Papers](https://icml.cc/Conferences/2018/Schedule?type=Poster)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples (ICML 2018) 
+[[Paper](https://arxiv.org/abs/1802.00420)]<br>
+*Authors: Anish Athalye, Nicholas Carlini, David Wagner*
+
+* Delayed Impact of Fair Machine Learning (ICML 2018) 
+[[Paper](https://arxiv.org/abs/1803.04383)]<br>
+*Authors: Lydia Liu, Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt*
+
+* The Mechanics of n-Player Differentiable Games (ICML 2018) 
+[[Paper](https://arxiv.org/abs/1802.05642)]<br>
+*Authors: David Balduzzi, Sebastien Racaniere, James Martens, Jakob Foerster, Karl Tuyls, Thore Graepel*
+
+* Near Optimal Frequent Directions for Sketching Dense and Sparse Matrices (ICML 2018) 
+[[Paper](https://proceedings.mlr.press/v80/huang18a.html)]<br>
+*Authors: Zengfeng Huang*
+
+* Fairness Without Demographics in Repeated Loss Minimization (ICML 2018) 
+[[Paper](https://arxiv.org/abs/1806.08010)]<br>
+*Authors: Tatsunori Hashimoto, Megha Srivastava, Hongseok Namkoong, Percy Liang*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ECCV
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
