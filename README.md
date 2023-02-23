@@ -772,7 +772,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://arxiv.org/abs/2204.07159)]<br>
 *Authors: Ishit Mehta, Manmohan Chandraker, Ravi Ramamoorthi*
 
-### Best Papers 2020 [[Best Papers](https://eccv2022.ecva.net/files/2022/10/ECCV22-Awards.pdf)] [[All Papers](https://www.ecva.net/papers.php)]
+### Best Papers 2020 [[Best Papers](https://eccv2020.eu/awards/)] [[All Papers](https://www.ecva.net/papers.php)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 #### Best Paper Award:
@@ -788,6 +788,24 @@ This repository conatains the recent best or outstanding papers in contemporary 
 * NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (ECCV 2020) 
 [[Paper](https://arxiv.org/abs/2003.08934)]<br>
 *Authors: Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng*
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+### Best Papers 2018 [[Best Papers](https://eccv2018.org/news/eccv-awards/)] [[All Papers](https://www.ecva.net/papers.php)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* Implicit 3D Orientation Learning for 6D Object Detection from RGB Images (ECCV 2018) 
+[[Paper](https://arxiv.org/abs/1902.01275)]<br>
+*Authors: Martin Sundermeyer, Zoltan Marton, Maximilian Durner,  Manuel Brucker, Rudolph Triebel*
+
+#### Best Paper Honorable Mention:
+* Group Normalization (ECCV 2018) 
+[[Paper](https://arxiv.org/abs/1803.08494)]<br>
+*Authors: Yuxin Wu, Kaiming He*
+
+* GANimation: Anatomically-aware Facial Animation from a Single Image (ECCV 2018) 
+[[Paper](https://arxiv.org/abs/1807.09251)]<br>
+*Authors: Albert Pumarola, Antonio Agudo, Aleix M. Martinez, Alberto Sanfeliu, Francesco Moreno-Noguer*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## AAAI
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
