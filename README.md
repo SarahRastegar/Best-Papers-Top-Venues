@@ -11,7 +11,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 - [ECCV (2014-2022)](#ECCV)
 - [AAAI (2022-2023)](#AAAI)
 - [WACV (2020-2023)](#WACV)
-- [BMVC (2021-2022)](#BMVC)
+- [BMVC (2020-2022)](#BMVC)
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## CVPR 
@@ -1261,3 +1261,32 @@ This repository conatains the recent best or outstanding papers in contemporary 
 * Few-Shot Domain Adaptation for Low Light RAW Image Enhancement (BMVC 2021) 
 [[Paper](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0620.html)]<br>
 *Authors: Ram K Prabhakar, Vishal Vinod, Nihar R. Sahoo and Venkatesh Babu Radhakrishnan*
+
+### Best Papers 2020 [[Best Papers](https://www.bmvc2020-conference.com/programme/paper-awards/)] [[All Papers](https://www.bmvc2020-conference.com/programme/accepted-papers/)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* Delving Deeper into Anti-aliasing in ConvNets (BMVC 2021) 
+[[Paper](https://www.bmvc2020-conference.com/conference/papers/paper_0547.html)]<br>
+*Authors: Xueyan Zou, Fanyi Xiao, Zhiding Yu and Yong Jae Lee*
+
+#### Best Paper Runner Up:
+* Key-Nets: Optical Transformation Convolutional Networks for Privacy Preserving Vision Sensors (BMVC 2020) 
+[[Paper](https://www.bmvc2020-conference.com/conference/papers/paper_0101.html)]<br>
+*Authors: Jeffrey Byrne (STR, Visym Labs), Brian DeCann and Scott Bloom*
+
+#### Best Student Paper Award:
+* Video Region Annotation with Sparse Bounding Boxes (BMVC 2020) 
+[[Paper](https://www.bmvc2020-conference.com/conference/papers/paper_0638.html)]<br>
+*Authors: Yuzheng Xu, Yang Wu, Nur Sabrina binti Zuraimi, Shohei Nobuhara and Ko Nishino*
+
+#### Best Student Paper Runner Up:
+* Weakly-supervised Salient Instance Detection (BMVC 2020) 
+[[Paper](https://www.bmvc2020-conference.com/conference/papers/paper_0430.html)]<br>
+*Authors: Xin Tian, Ke Xu, Xin Yang, Baocai Yin and Rynson Lau*
+
+#### Best Industry Paper:
+* A CNN Based Approach for the Near-Field Photometric Stereo Problem (BMVC 2020) 
+[[Paper](https://www.bmvc2020-conference.com/conference/papers/paper_0277.html)]<br>
+*Authors: Fotios Logothetis, Ignas Budvytis, Roberto Mecca and Roberto Cipolla*
+
