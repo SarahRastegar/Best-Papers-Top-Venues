@@ -916,6 +916,33 @@ This repository conatains the recent best or outstanding papers in contemporary 
 * Entropy Estimation via Normalizing Flow (AAAI 2022) 
 [[Paper](https://aaai-2022.virtualchair.net/poster_aaai8184)]<br>
 *Authors: Ziqiao Ao, Jinglai Li*
+
+#### Distinguished Paper Award
+
+* AlphaHoldem: High-Performance Artificial Intelligence for Heads-Up No-Limit Poker via End-to-End Reinforcement Learning (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_aaai2268)]<br>
+*Authors: Zhao, Yan, Li, Li, Xing*
+
+* Certified Symmetry and Dominance Breaking for Combinatorial Optimisation (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_aaai7842)]<br>
+*Authors: Bogaerts, Gocht, McCreesh, & Nordström*
+
+* Online Elicitation of Necessarily Optimal Matchings (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_aaai7693)]<br>
+*Authors: Peters*
+
+* Sampling-Based Robust Control of Autonomous Systems with Non-Gaussian Noise (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_aaai12974)]<br>
+*Authors: Badings, Abate, Jansen, Parker, Poonawala, & Stoelinga*
+
+* Subset approximation of Pareto Regions with Bi-objective A* (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_aaai10391)]<br>
+*Authors: Rivera, Baier, & Hernandez*
+
+* The SoftCumulative Constraint with Quadratic Penalty (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_aaai9956)]<br>
+*Authors: Ouellet & Quimper*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## WACV
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
