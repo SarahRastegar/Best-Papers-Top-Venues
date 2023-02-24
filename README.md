@@ -353,7 +353,20 @@ This repository conatains the recent best or outstanding papers in contemporary 
 * Semi-supervised knowledge knowledge transfer for deep learning from private training data (ICLR 2017) 
 [[Paper](https://arxiv.org/pdf/1610.05755.pdf)]<br>
 *Authors: Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian Goodfellow, Kunal Talwar*
+
+### Best Papers 2016 [[Best Papers](https://iclr.cc/archive/www/doku.php%3Fid=iclr2016:main.html)] [[All Papers](https://iclr.cc/archive/www/doku.php%3Fid=iclr2016:main.html)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* Neural Programmer-Interpreters (ICLR 2016) 
+[[Paper](http://arxiv.org/abs/1511.06279)]<br>
+*Authors: Scott Reed, Nando de Freitas*
+
+* Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding (ICLR 2016) 
+[[Paper](http://arxiv.org/abs/1510.00149)]<br>
+*Authors: Song Han, Huizi Mao, Bill Dally*
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
 ## NeurIPS
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Outstanding Papers 2022 [[Best Papers](https://blog.neurips.cc/2022/11/21/announcing-the-neurips-2022-awards/)] [[All Papers](https://openreview.net/group?id=NeurIPS.cc/2022/Conference)]
