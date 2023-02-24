@@ -1266,7 +1266,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 #### Best Paper Award:
-* Delving Deeper into Anti-aliasing in ConvNets (BMVC 2021) 
+* Delving Deeper into Anti-aliasing in ConvNets (BMVC 2020) 
 [[Paper](https://www.bmvc2020-conference.com/conference/papers/paper_0547.html)]<br>
 *Authors: Xueyan Zou, Fanyi Xiao, Zhiding Yu and Yong Jae Lee*
 
