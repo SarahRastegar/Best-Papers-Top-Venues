@@ -953,6 +953,33 @@ This repository conatains the recent best or outstanding papers in contemporary 
 * GANimation: Anatomically-aware Facial Animation from a Single Image (ECCV 2018) 
 [[Paper](https://arxiv.org/abs/1807.09251)]<br>
 *Authors: Albert Pumarola, Antonio Agudo, Aleix M. Martinez, Alberto Sanfeliu, Francesco Moreno-Noguer*
+
+### Best Papers 2016 [[Best Papers](https://www.thecvf.com/?page_id=413#CVPRBest)] [[All Papers](https://www.eccv2016.org/proceedings/)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera (ECCV 2016) 
+[[Paper](https://www.doc.ic.ac.uk/~ajd/Publications/kim_etal_eccv2016.pdf)]<br>
+*Authors: H. Kim, S. Leutenegger, A. J. Davison*
+
+#### Best Paper Honorable Mention:
+* The Fast Bilateral Solver (ECCV 2016) 
+[[Paper](https://arxiv.org/abs/1511.03296)]<br>
+*Authors: Jonathan T. Barron, Ben Poole*
+
+
+### Best Papers 2014 [[Best Papers](https://www.thecvf.com/?page_id=413#CVPRBest)] [[All Papers](https://link.springer.com/book/10.1007/978-3-319-10593-2)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* Large-Scale Object Classification using Label Relation Graphs (ECCV 2014) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-319-10590-1_4)]<br>
+*Authors: J. Deng, N. Ding, Y. Jia, A. Frome, K. Murphy, S. Bengio, Y. Li, H. Neven, H. Adam*
+
+* Scene Chronology (ECCV 2014) 
+[[Paper](http://www.cs.cornell.edu/~snavely/publications/matzen_eccv2014.pdf)]<br>
+*Authors: K. Matzen, N. Snavely*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## AAAI
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
