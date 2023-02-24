@@ -9,7 +9,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 - [ICCV (2013-2021)](#ICCV)
 - [ICML (2018-2022)](#ICML)
 - [ECCV (2014-2022)](#ECCV)
-- [AAAI (2022-2023)](#AAAI)
+- [AAAI (2020-2023)](#AAAI)
 - [WACV (2020-2023)](#WACV)
 - [BMVC (2020-2022)](#BMVC)
 
@@ -1102,6 +1102,95 @@ This repository conatains the recent best or outstanding papers in contemporary 
 * The SoftCumulative Constraint with Quadratic Penalty (AAAI 2022) 
 [[Paper](https://aaai-2022.virtualchair.net/poster_aaai9956)]<br>
 *Authors: Ouellet & Quimper*
+
+### Best Papers 2021 [[Best Papers](https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/)] [[All Papers](https://ojs.aaai.org/index.php/AAAI/index)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+#### Outstanding Paper Award
+
+* Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting (AAAI 2021) 
+[[Paper](https://arxiv.org/pdf/2012.07436.pdf)]<br>
+*Authors: Haoyi Zhou, Shanghang Zhang, Jieqi Peng, Shuai Zhang, Jianxin Li, Hui Xiong, Wancai Zhang*
+
+* Exploration-Exploitation in Multi-Agent Learning: Catastrophe Theory Meets Game Theory (AAAI 2021) 
+[[Paper](https://arxiv.org/pdf/2012.03083.pdf)]<br>
+*Authors: Stefanos Leonardos, Georgios Piliouras*
+
+* Mitigating Political Bias in Language Models Through Reinforced Calibration (AAAI 2021) 
+[[Paper](https://www.cs.dartmouth.edu/~rbliu/aaai_copy.pdf)]<br>
+*Authors: Ruibo Liu, Chenyan Jia, Jason Wei, Guangxuan Xu, Lili Wang, and Soroush Vosoughi*
+#### Outstanding Paper Award Honorable Mention
+
+* Learning From Extreme Bandit Feedback (AAAI 2021) 
+[[Paper](https://arxiv.org/pdf/2009.12947.pdf)]<br>
+*Authors: Romain Lopez, Inderjit Dhillon, Michael I. Jordan*
+
+* Self-Attention Attribution: Interpreting Information Interactions Inside Transformer (AAAI 2021) 
+[[Paper](https://arxiv.org/pdf/2004.11207.pdf)]<br>
+*Authors: Yaru Hao, Li Dong, Furu Wei, Ke Xu*
+
+* Dual-Mandate Patrols: Multi-Armed Bandits for Green Security (AAAI 2021) 
+[[Paper](https://arxiv.org/pdf/2009.06560.pdf)]<br>
+*Authors: Lily Xu, Elizabeth Bondi, Fei Fang, Andrew Perrault, Kai Wang, Milind Tambe*
+
+#### Distinguished Paper Award
+
+* IQ – Incremental Learning for Solving QSAT (AAAI 2021) 
+[[Paper]]<br>
+*Authors: Thomas L Lee, Viktor Tóth, Sean B Holden*
+
+* Ethically Compliant Sequential Decision Making (AAAI 2021) 
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17386)]<br>
+*Authors: Justin Svegliato, Samer Nashed, Shlomo Zilberstein*
+
+* On the Tractability of SHAP Explanations (AAAI 2021) 
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16806)]<br>
+*Authors: Guy Van den Broeck, Anton Lykov, Maximilian Schleich, Dan Suciu*
+
+* Expected Eligibility Traces (AAAI 2021) 
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17200)]<br>
+*Authors: Hado van Hasselt, Sephora Madjiheurem, Matteo Hessel, Andre Barreto, David Silver, Diana Borsa*
+
+* Polynomial-Time Algorithms for Counting and Sampling Markov Equivalent DAGs (AAAI 2021) 
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17448)]<br>
+*Authors: Marcel Wienöbst, Max Bannach, Maciej Liskiewicz*
+
+* Self-Supervised Multi-View Stereo via Effective Co-Segmentation and Data-Augmentation (AAAI 2021) 
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16411)]<br>
+*Authors: Hongbin Xu, Zhipeng Zhou, Yu Qiao, Wenxiong Kang, Qiuxia Wu*
+
+### Best Papers 2020 [[Best Papers](https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/)] [[All Papers](https://ojs.aaai.org/index.php/AAAI/index)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+#### Outstanding Paper Award
+
+* WinoGrande: An Adversarial Winograd Schema Challenge at Scale (AAAI 2020) 
+[[Paper](https://arxiv.org/abs/1907.10641)]<br>
+*Authors: Keisuke Sakaguchi, Ronan Le Bras, Chandra Bhagavatula, Yejin Choi*
+
+* A Distributed Multi-Sensor Machine Learning Approach to Earthquake Early Warning (AAAI 2020) 
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5376)]<br>
+*Authors: Kevin Fauvel, Daniel Balouek-Thomert, Diego Melgar, Pedro Silva, Anthony Simonet, Gabriel Antoniu, Alexandru Costan, Véronique Masson, Manish Parashar, Ivan Rodero, Alexandre Termier*
+
+#### Outstanding Paper Award Honorable Mention
+
+* A Unifying View on Individual Bounds and Heuristic Inaccuracies in Bidirectional Search (AAAI 2020) 
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5611)]<br>
+*Authors: Vidal Alcazar, Pat Riddle, Mike Barley*
+
+* The Unreasonable Effectiveness of Inverse Reinforcement Learning in Advancing Cancer Research (AAAI 2020) 
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5380)]<br>
+*Authors: John Kalantari, Heidi Nelson, Nicholas Chia*
+
+#### Outstanding Student Paper Award
+
+* Fair Division of Mixed Divisible and Indivisible Goods (AAAI 2020) 
+[[Paper](https://arxiv.org/abs/1911.07048)]<br>
+*Authors: Xiaohui Bei, Zihao Li, Jinyan Liu, Shengxin Liu, Xinhang Lu*
+
+#### Outstanding Student Paper Award Honorable Mention
+
+* Lifelong Learning with a Changing Action Set (AAAI 2020) 
+[[Paper](https://arxiv.org/abs/1906.01770)]<br>
+*Authors: Yash Chandak, Georgios Theocharous, Chris Nota, Philip S. Thomas*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## WACV
