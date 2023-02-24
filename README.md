@@ -638,6 +638,21 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](http://papers.nips.cc/paper/5449-a-sampling)]<br>
 *Authors: Chris J. Maddison, Daniel Tarlow, Tom Minka*
 
+
+### Outstanding Papers 2013 [[Best Papers](https://nips.cc/Conferences/2013/Awards)] [[All Papers](https://papers.nips.cc/paper/2013)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* A memory frontier for complex synapses (NeurIPS 2013) 
+[[Paper](https://proceedings.neurips.cc/paper/2013/hash/7f24d240521d99071c93af3917215ef7-Abstract.html)]<br>
+*Authors: Subhaneil Lahiri, Surya Ganguli*
+
+* Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints (NeurIPS 2013) 
+[[Paper](https://proceedings.neurips.cc/paper/2013/hash/a1d50185e7426cbb0acad1e6ca74b9aa-Abstract.html)]<br>
+*Authors: Rishabh K. Iyer, Jeff A. Bilmes*
+
+* Scalable Influence Estimation in Continuous-Time Diffusion Networks (NeurIPS 2013) 
+[[Paper](https://proceedings.neurips.cc/paper/2013/hash/8fb21ee7a2207526da55a679f0332de2-Abstract.html)]<br>
+*Authors: Nan Du, Le Song, Manuel Gomez Rodriguez, Hongyuan Zha*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ICCV
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
