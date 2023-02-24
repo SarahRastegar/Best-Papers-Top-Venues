@@ -948,3 +948,26 @@ This repository conatains the recent best or outstanding papers in contemporary 
 * Copy-Pasting Coherent Depth Regions Improves Contrastive Learning for Urban-Scene Segmentation (BMVC 2022) 
 [[Paper](https://bmvc2022.mpi-inf.mpg.de/893)]<br>
 *Authors: Liang Zeng (Delft University of Technology); Attila Lengyel (Delft University of Technology); Nergis Tomen (Delft University of Technology); Jan C van Gemert (Delft University of Technology)*
+
+### Best Papers 2021 [[Best Papers](https://www.bmvc2021-virtualconference.com/programme/paper-awards/)] [[All Papers](https://www.bmvc2021-virtualconference.com/conference/papers/?filter=keywords/)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* DISCO: accurate Discrete Scale Convolutions (BMVC 2021) 
+[[Paper](https://www.bmvc2021-virtualconference.com/conference/papers/paper_1258.html)]<br>
+*Authors: Ivan Sosnovik, Artem Moskalev and Arnold W.M. Smeulders*
+
+#### Best Paper Runner Up:
+* Geometry-Aware Multi-Task Learning for Binaural Audio Generation from Video (BMVC 2021) 
+[[Paper](https://www.bmvc2021-virtualconference.com/conference/papers/paper_1098.html)]<br>
+*Authors: Rishabh Garg, Ruohan Gao and Kristen Grauman*
+
+#### Best Student Paper Award:
+* The Curious Layperson: Fine-Grained Image Recognition without Expert Labels (BMVC 2021) 
+[[Paper](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0229.html)]<br>
+*Authors: Subhabrata Choudhury, Iro Laina, Christian Rupprecht and Andrea Vedaldi*
+
+#### Best Student Paper Runner Up:
+* Few-Shot Domain Adaptation for Low Light RAW Image Enhancement (BMVC 2021) 
+[[Paper](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0620.html)]<br>
+*Authors: Ram K Prabhakar, Vishal Vinod, Nihar R. Sahoo and Venkatesh Babu Radhakrishnan*
