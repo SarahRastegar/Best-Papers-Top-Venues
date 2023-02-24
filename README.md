@@ -946,6 +946,28 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Shin_Self-Supervised_Monocular_Depth_Estimation_From_Thermal_Images_via_Adversarial_Multi-Spectral_WACV_2023_paper.pdf)]<br>
 *Authors: Ukcheol Shin, Kwanyong Park, Byeong-Uk Lee, Kyunghyun Lee, In So Kweon*
 
+### Best Papers 2022 [[Best Papers](https://wacv2022.thecvf.com/node/108)] [[All Papers](https://openaccess.thecvf.com/WACV2022)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper - Algorithms Award:
+* Hole-robust wireframe Detection (WACV 2022) 
+[[Paper](http://arxiv.org/abs/2111.15064)]<br>
+*Authors: Naejin Kong, Kiwoong Park, Harshith Goka*
+
+#### Best Paper - Applications Award:
+* CharacterGAN: Few-Shot Keypoint Character Animation and Reposing (WACV 2022) 
+[[Paper](http://arxiv.org/abs/2102.03141)]<br>
+*Authors: Tobias Hinz, Matthew Fisher, Oliver Wang, Eli Shechtman, Stefan Wermter*
+
+#### Best Paper Honorable Mention:
+* Strumming to the Beat: Audio-Conditioned Contrastive Video Textures (WACV 2022) 
+[[Paper](http://arxiv.org/abs/2104.02687)]<br>
+*Authors: Medhini Narasimhan, Shiry Ginosar, Andrew Owens, Alexei A. Efros, Trevor Darrell*
+
+#### Best Student Paper Award:
+* Agree to Disagree: When Deep Learning Models With Identical Architectures Produce Distinct Explanations (WACV 2022) 
+[[Paper](http://arxiv.org/abs/2105.06791)]<br>
+*Authors: Matthew Watson, Bashar Awwad Shiekh Hasan, Noura Al Moubayed*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## BMVC
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
