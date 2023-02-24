@@ -202,6 +202,19 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Newcombe_DynamicFusion_Reconstruction_and_2015_CVPR_paper.pdf)]<br>
 *Authors: Richard A. Newcombe, Dieter Fox, Steven M. Seitz*
 
+#### Best Paper Honorable Mention:
+* Efficient Globally Optimal Consensus Maximisation with Tree Search (CVPR 2015) 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Chin_Efficient_Globally_Optimal_2015_CVPR_paper.pdf)]<br>
+*Authors: Tat-Jun Chin, Pulak Purkait, Anders Eriksson, David Suter*
+
+* Fully Convolutional Networks for Semantic Segmentation (CVPR 2015) 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)]<br>
+*Authors: Jonathan Long, Evan Shelhamer, Trevor Darrell*
+
+* Picture: A Probabilistic Programming Language for Scene Perception (CVPR 2015) 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Kulkarni_Picture_A_Probabilistic_2015_CVPR_paper.pdf)]<br>
+*Authors: Tejas D. Kulkarni, Pushmeet Kohli, Joshua B. Tenenbaum, Vikash Mansinghka*
+
 #### Best Student Paper Award:
 * Category-Specific Object Reconstruction from a Single Image (CVPR 2015) 
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Kar_Category-Specific_Object_Reconstruction_2015_CVPR_paper.pdf)]<br>
@@ -216,6 +229,12 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Chandraker_What_Camera_Motion_2014_CVPR_paper.pdf)]<br>
 *Authors: Manmohan Chandraker*
 
+
+#### Best Paper Honorable Mention:
+* 3D Shape and Indirect Appearance by Structured Light Transport (CVPR 2014) 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/OToole_3D_Shape_and_2014_CVPR_paper.pdf)]<br>
+*Authors: Matthew O'Toole, John Mather, Kiriakos N. Kutulakos*
+
 #### Best Student Paper Award:
 * Partial Optimality by Pruning for MAP-inference with General Graphical Models (CVPR 2014) 
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Swoboda_Partial_Optimality_by_2014_CVPR_paper.pdf)]<br>
@@ -228,6 +247,11 @@ This repository conatains the recent best or outstanding papers in contemporary 
 * Fast, Accurate Detection of 100,000 Object Classes on a Single Machine (CVPR 2013) 
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2013/papers/Dean_Fast_Accurate_Detection_2013_CVPR_paper.pdf)]<br>
 *Authors: Thomas Dean, Mark A. Ruzon, Mark Segal, Jonathon Shlens, Sudheendra Vijayanarasimhan, Jay Yagnik*
+
+#### Best Paper Honorable Mention:
+* Lost! Leveraging the Crowd for Probabilistic Visual Self-Localization (CVPR 2013) 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2013/papers/Brubaker_Lost_Leveraging_the_2013_CVPR_paper.pdf)]<br>
+*Authors: Marcus A. Brubaker, Andreas Geiger, Raquel Urtasun*
 
 #### Best Student Paper Award:
 * Discriminative Non-blind Deblurring (CVPR 2013) 
