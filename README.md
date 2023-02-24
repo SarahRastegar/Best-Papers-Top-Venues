@@ -10,7 +10,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 - [ICML (2018-2022)](#ICML)
 - [ECCV (2014-2022)](#ECCV)
 - [AAAI (2022-2023)](#AAAI)
-- [WACV (2022-2023)](#WACV)
+- [WACV (2020-2023)](#WACV)
 - [BMVC (2021-2022)](#BMVC)
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1155,6 +1155,60 @@ This repository conatains the recent best or outstanding papers in contemporary 
 * Agree to Disagree: When Deep Learning Models With Identical Architectures Produce Distinct Explanations (WACV 2022) 
 [[Paper](http://arxiv.org/abs/2105.06791)]<br>
 *Authors: Matthew Watson, Bashar Awwad Shiekh Hasan, Noura Al Moubayed*
+
+### Best Papers 2021 [[Best Papers](https://wacv2021.thecvf.com/)] [[All Papers](https://openaccess.thecvf.com/WACV2021)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper - Algorithms Award:
+* DeepCSR: A 3D Deep Learning Approach for Cortical Surface Reconstruction (WACV 2021) 
+[[Paper](http://arxiv.org/abs/2010.11423)]<br>
+*Authors: Rodrigo Santa Cruz, Leo Lebrat, Pierrick Bourgeat, Clinton Fookes, Jurgen Fripp, Olivier Salvado*
+
+#### Best Paper - Applications Award:
+* 3D Human Pose and Shape Estimation Through Collaborative Learning and Multi-View Model-Fitting (WACV 2021) 
+[[Paper](hhttps://openaccess.thecvf.com/content/WACV2021/papers/Li_3D_Human_Pose_and_Shape_Estimation_Through_Collaborative_Learning_and_WACV_2021_paper.pdf)]<br>
+*Authors: Zhongguo Li, Magnus Oskarsson, Anders Heyden*
+
+#### Best Paper Honorable Mention:
+* Generative Patch Priors for Practical Compressive Image Recovery (WACV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Anirudh_Generative_Patch_Priors_for_Practical_Compressive_Image_Recovery_WACV_2021_paper.pdf)]<br>
+*Authors: Rushil Anirudh, Suhas Lohit, Pavan Turaga*
+
+
+#### Best Student Paper Award:
+* A Pose Proposal and Refinement Network for Better 6D Object Pose Estimation (WACV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Trabelsi_A_Pose_Proposal_and_Refinement_Network_for_Better_6D_Object_WACV_2021_paper.pdf)]<br>
+*Authors: Ameni Trabelsi, Mohamed Chaabane, Nathaniel Blanchard, Ross Beveridge*
+
+#### Best Student Paper Honorable Mention:
+
+* Meta Module Network for Compositional Visual Reasoning (WACV 2021) 
+[[Paper](http://arxiv.org/abs/1910.03230)]<br>
+*Authors: Wenhu Chen, Zhe Gan, Linjie Li, Yu Cheng, William Wang, Jingjing Liu*
+
+### Best Papers 2020 [[Best Papers](https://wacv2020.thecvf.com/)] [[All Papers](https://openaccess.thecvf.com/WACV2020)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+#### Best Paper  Award:
+* Hand-Priming in Object Localization for Assistive Egocentric Vision (WACV 2020) 
+[[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Lee_Hand-Priming_in_Object_Localization_for_Assistive_Egocentric_Vision_WACV_2020_paper.pdf)]<br>
+*Authors: Kyungjun Lee, Abhinav Shrivastava, Hernisa Kacorri*
+
+
+#### Best Paper Honorable Mention:
+* Word-level Deep Sign Language Recognition from Video: A New Large-scale Dataset and Methods Comparison (WACV 2020) 
+[[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Li_Word-level_Deep_Sign_Language_Recognition_from_Video_A_New_Large-scale_WACV_2020_paper.pdf)]<br>
+*Authors: DONGXU LI, Cristian Rodriguez, Xin Yu, HONGDONG LI*
+
+* How Much Deep Learning does Neural Style Transfer Really Need? An Ablation Study (WACV 2020) 
+[[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Du_How_Much_Deep_Learning_does_Neural_Style_Transfer_Really_Need_WACV_2020_paper.pdf)]<br>
+*Authors: Len Du*
+
+#### Best Student Paper Award:
+* See the Sound, Hear the Pixels (WACV 2020) 
+[[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Ramaswamy_See_the_Sound_Hear_the_Pixels_WACV_2020_paper.pdf)]<br>
+*Authors: Janani Ramaswamy, Sukhendu Das*
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## BMVC
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
