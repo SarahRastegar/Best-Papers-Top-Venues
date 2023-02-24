@@ -677,6 +677,18 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://arxiv.org/abs/1703.06870)]<br>
 *Authors: Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick*
 
+#### Best Paper Honorable Mention:
+* First Person Activity Forecasting with Online Inverse Reinforcement Learning (ICCV 2017) 
+[[Paper](https://arxiv.org/abs/1612.07796)]<br>
+*Authors: Nicholas Rhinehart, Kris M. Kitani*
+
+* Open Set Domain Adaptation (ICCV 2017) 
+[[Paper](http://arxiv.org/abs/1907.12865v1)]<br>
+*Authors: Pau Panareda Busto, Juergen Gall*
+
+* Globally-Optimal Inlier Set Maximisation for Simultaneous Camera Pose and Feature Correspondence (ICCV 2017) 
+[[Paper](http://arxiv.org/abs/1709.09384v1)]<br>
+*Authors: Dylan Campbell, Lars Petersson, Laurent Kneip, Hongdong Li*
 
 #### Best Student Paper Award:
 * Focal Loss for Dense Object Detection (ICCV 2017) 
@@ -690,6 +702,28 @@ This repository conatains the recent best or outstanding papers in contemporary 
 * Deep Neural Decision Forests (ICCV 2015) 
 [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Kontschieder_Deep_Neural_Decision_ICCV_2015_paper.pdf)]<br>
 *Authors: Peter Kontschieder, Madalina Fiterau, Antonio Criminisi, Samuel Rota Bulo*
+
+#### Best Paper Honorable Mention:
+* Holistically-Nested Edge Detection (ICCV 2015) 
+[[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf)]<br>
+*Authors: Saining Xie, Zhuowen Tu*
+
+### Best Papers 2013 [[Best Papers](https://www.thecvf.com/?page_id=413#CVPRBest)] [[All Papers](https://openaccess.thecvf.com/ICCV2013)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* From Large Scale Image Categorization to Entry- Level Categories (ICCV 2015) 
+[[Paper](https://ieeexplore.ieee.org/document/6751455)]<br>
+*Authors: Vicente Ordonez; Jia Deng; Yejin Choi; Alexander C. Berg; Tamara L. Berg*
+
+#### Best Paper Honorable Mention:
+* Hierarchical Data-driven Descent for Efficient Optimal Deformation Estimation (ICCV 2013) 
+[[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Tian_Hierarchical_Data-Driven_Descent_2013_ICCV_paper.pdf)]<br>
+*Authors: Yuandong Tian, Srinivasa G. Narasimhan*
+
+* Piecewise Rigid Scene Flow (ICCV 2013) 
+[[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Vogel_Piecewise_Rigid_Scene_2013_ICCV_paper.pdf)]<br>
+*Authors: Christoph Vogel, Konrad Schindler, Stefan Roth*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ICML
