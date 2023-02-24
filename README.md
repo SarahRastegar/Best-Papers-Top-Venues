@@ -919,6 +919,33 @@ This repository conatains the recent best or outstanding papers in contemporary 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## WACV
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Best Papers 2023 [[Best Papers](https://wacv2023.thecvf.com/node/174)] [[All Papers](https://openaccess.thecvf.com/WACV2023)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper - Algorithms Award:
+* Lossy Image Compression with Quantized Hierarchical VAEs (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2208.13056)]<br>
+*Authors: Zhihao Duan, Ming Lu, Zhan Ma, Fengqing Zhu*
+
+#### Best Paper - Applications Award:
+* Exemplar Guided Deep Neural Network for Spatial Transcriptomics Analysis of Gene Expression Prediction (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2210.16721)]<br>
+*Authors: Yan Yang, Md Zakir Hossain, Eric A Stone, Shafin Rahman*
+
+#### Best Paper Honorable Mention:
+* Select, Label, and Mix: Learning Discriminative Invariant Feature Representations for Partial Domain Adaptation (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2012.03358)]<br>
+*Authors: Aadarsh Sahoo, Rameswar Panda, Rogerio Feris, Kate Saenko, Abir Das*
+
+* PSENet: Progressive Self-Enhancement Network for Unsupervised Extreme-Light Image Enhancement (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2210.00712)]<br>
+*Authors: Hue Nguyen, Diep Tran, Khoi Nguyen, Rang Nguyen*
+
+#### Best Student Paper Award:
+* Self-supervised Monocular Depth Estimation from Thermal Images via Adversarial Multi-spectral Adaptation (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Shin_Self-Supervised_Monocular_Depth_Estimation_From_Thermal_Images_via_Adversarial_Multi-Spectral_WACV_2023_paper.pdf)]<br>
+*Authors: Ukcheol Shin, Kwanyong Park, Byeong-Uk Lee, Kyunghyun Lee, In So Kweon*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## BMVC
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
