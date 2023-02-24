@@ -922,4 +922,29 @@ This repository conatains the recent best or outstanding papers in contemporary 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## BMVC
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Best Papers 2022 [[Best Papers](https://bmvc2022.org/programme/paper-awards/)] [[All Papers](https://bmvc2022.mpi-inf.mpg.de/)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 
+#### Best Paper Award:
+* Trans2k: Unlocking the Power of Deep Models for Transparent Object Tracking (BMVC 2022) 
+[[Paper](https://bmvc2022.mpi-inf.mpg.de/470)]<br>
+*Authors: Alan Lukezic (University of Ljubljana); Žiga Trojer (University of Ljubljana); Jiri Matas (Czech Technical University, Prague); Matej Kristan (University of Ljubljana)*
+
+#### Best Paper Honorable Mention:
+* VoRF: Volumetric Relightable Faces (BMVC 2022) 
+[[Paper](https://bmvc2022.mpi-inf.mpg.de/708)]<br>
+*Authors: Pramod Rao (Max Planck Institute for Informatics); Mallikarjun B R (Max Planck Institute for Informatics); Gereon Fox (Max Planck Institute for Informatics); Tim Weyrich (Friedrich-Alexander Universität Erlangen-Nürnberg); Bernd Bickel (IST Austria); Hanspeter Pfister (Harvard University); Wojciech Matusik (MIT); Ayush Tewari (MIT); Christian Theobalt (Max Planck Institute for Informatics); Mohamed Elgharib (Max Planck Institute for Informatics)*
+
+#### Best Student Paper Award:
+* Event-based Non-Rigid Reconstruction from Contours (BMVC 2022) 
+[[Paper](https://bmvc2022.mpi-inf.mpg.de/78)]<br>
+*Authors: Yuxuan Xue (Max Planck Institute for Intelligent Systems); Haolong Li (Max Planck Institute for Intelligent Systems); Stefan Leutenegger (TU Munich); Joerg Stueckler (Max Planck Institute for Intelligent Systems)*
+
+* In the Eye of Transformer: Global-Local Correlation for Egocentric Gaze Estimation (BMVC 2022) 
+[[Paper](https://bmvc2022.mpi-inf.mpg.de/227)]<br>
+*Authors: Bolin Lai (Georgia Institute of Technology); Miao Liu (Georgia Institute of Technology); Fiona Ryan (Georgia Institute of Technology); James Rehg (Georgia Institute of Technology)*
+
+#### Best Student Paper Honorable Mention:
+* Copy-Pasting Coherent Depth Regions Improves Contrastive Learning for Urban-Scene Segmentation (BMVC 2022) 
+[[Paper](https://bmvc2022.mpi-inf.mpg.de/893)]<br>
+*Authors: Liang Zeng (Delft University of Technology); Attila Lengyel (Delft University of Technology); Nergis Tomen (Delft University of Technology); Jan C van Gemert (Delft University of Technology)*
