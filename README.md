@@ -193,6 +193,47 @@ This repository conatains the recent best or outstanding papers in contemporary 
 * Structural-RNN: Deep Learning on Spatio-Temporal Graphs (CVPR 2016) 
 [[Paper](https://arxiv.org/abs/1511.05298)]<br>
 *Authors: Ashesh Jain, Amir R. Zamir, Silvio Savarese, Ashutosh Saxena*
+
+### Best Papers 2015 [[Best Papers](https://www.thecvf.com/?page_id=413#CVPRBest)] [[All Papers](https://openaccess.thecvf.com/CVPR2015)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* DynamicFusion: Reconstruction and Tracking of Non-rigid Scenes in Real-Time (CVPR 2015) 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Newcombe_DynamicFusion_Reconstruction_and_2015_CVPR_paper.pdf)]<br>
+*Authors: Richard A. Newcombe, Dieter Fox, Steven M. Seitz*
+
+#### Best Student Paper Award:
+* Category-Specific Object Reconstruction from a Single Image (CVPR 2015) 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Kar_Category-Specific_Object_Reconstruction_2015_CVPR_paper.pdf)]<br>
+*Authors: Abhishek Kar, Shubham Tulsiani, Joao Carreira, Jitendra Malik*
+
+
+### Best Papers 2014 [[Best Papers](https://www.thecvf.com/?page_id=413#CVPRBest)] [[All Papers](https://openaccess.thecvf.com/CVPR2014)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* What Camera Motion Reveals About Shape with Unknown BRDF (CVPR 2014) 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Chandraker_What_Camera_Motion_2014_CVPR_paper.pdf)]<br>
+*Authors: Manmohan Chandraker*
+
+#### Best Student Paper Award:
+* Partial Optimality by Pruning for MAP-inference with General Graphical Models (CVPR 2014) 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Swoboda_Partial_Optimality_by_2014_CVPR_paper.pdf)]<br>
+*Authors: Paul Swoboda, Bogdan Savchynskyy, Jorg H. Kappes, Christoph Schnorr*
+
+### Best Papers 2013 [[Best Papers](https://www.thecvf.com/?page_id=413#CVPRBest)] [[All Papers](https://openaccess.thecvf.com/CVPR2013)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* Fast, Accurate Detection of 100,000 Object Classes on a Single Machine (CVPR 2013) 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2013/papers/Dean_Fast_Accurate_Detection_2013_CVPR_paper.pdf)]<br>
+*Authors: Thomas Dean, Mark A. Ruzon, Mark Segal, Jonathon Shlens, Sudheendra Vijayanarasimhan, Jay Yagnik*
+
+#### Best Student Paper Award:
+* Discriminative Non-blind Deblurring (CVPR 2013) 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2013/papers/Schmidt_Discriminative_Non-blind_Deblurring_2013_CVPR_paper.pdf)]<br>
+*Authors: Uwe Schmidt, Carsten Rother, Sebastian Nowozin, Jeremy Jancsary, Stefan Roth*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ICLR
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
