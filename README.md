@@ -260,6 +260,47 @@ This repository conatains the recent best or outstanding papers in contemporary 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ICLR
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+### Outstanding Papers 2023 [[Best Papers](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/)] [[All Papers](https://iclr.cc/virtual/2023/papers.html?filter=titles)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Universal Few-shot Learning of Dense Prediction Tasks with Visual Token Matching (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=88nT0j5jAn)]<br>
+*Authors: Donggyun Kim, Jinwoo Kim, Seongwoong Cho, Chong Luo, Seunghoon Hong*
+
+* Rethinking the Expressive Power of GNNs via Graph Biconnectivity (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=r9hNv76KoT3)]<br>
+*Authors: Bohang Zhang, Shengjie Luo, Liwei Wang, Di He*
+
+* DreamFusion: Text-to-3D using 2D Diffusion (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=FjNys5c7VyY)]<br>
+*Authors: Ben Poole, Ajay Jain, Jonathan T. Barron, Ben Mildenhall*
+
+* Emergence of Maps in the Memories of Blind Navigation Agents (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=lTt4KjHSsyl)]<br>
+*Authors: Erik Wijmans, Manolis Savva, Irfan Essa, Stefan Lee, Ari S. Morcos, Dhruv Batra*
+
+#### Outstanding Paper Honorable Mentions
+
+* Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=Uuf2q9TfXGA)]<br>
+*Authors: Zeyuan Allen-Zhu, Yuanzhi Li*
+
+* Mastering the Game of No-Press Diplomacy via Human-Regularized Reinforcement Learning and Planning (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=F61FwJTZhb)]<br>
+*Authors: Anton Bakhtin, David J Wu, Adam Lerer, Jonathan Gray, Athul Paul Jacob, Gabriele Farina, Alexander H Miller, Noam Brown*
+
+* On the duality between contrastive and non-contrastive self-supervised learning (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=kDEL91Dufpa)]<br>
+*Authors: Quentin Garrido, Yubei Chen, Adrien Bardes, Laurent Najman, Yann LeCun*
+
+* Conditional Antibody Design as 3D Equivariant Graph Translation (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=LFHFQbjxIiP)]<br>
+*Authors: Xiangzhe Kong, Wenbing Huang, Yang Liu*
+
+* Disentanglement with Biological Constraints: A Theory of Functional Cell Types (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=9Z_GfhZnGH)]<br>
+*Authors: James C. R. Whittington, Will Dorrell, Surya Ganguli, Timothy Behrens*
+
 ### Outstanding Papers 2022 [[Best Papers](https://blog.iclr.cc/2022/04/20/announcing-the-iclr-2022-outstanding-paper-award-recipients/)] [[All Papers](https://iclr.cc/virtual/2022/papers.html?filter=titles)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 * Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models (ICLR 2022) 
