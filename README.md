@@ -1263,6 +1263,35 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Shin_Self-Supervised_Monocular_Depth_Estimation_From_Thermal_Images_via_Adversarial_Multi-Spectral_WACV_2023_paper.pdf)]<br>
 *Authors: Ukcheol Shin, Kwanyong Park, Byeong-Uk Lee, Kyunghyun Lee, In So Kweon*
 
+#### Award Finalists:
+* Dance Style Transfer with Cross-modal Transformer (WACV 2023) 
+[[Paper](https://arxiv.org/abs/2208.09406)]<br>
+*Authors: Wenjie Yin, Hang Yin, Kim Baraka, Danica Kragic, Mårten Björkman*
+
+* Saliency Guided Experience Packing for Replay in Continual Learning (WACV 2023) 
+[[Paper](https://arxiv.org/abs/2109.04954)]<br>
+*Authors: Gobinda Saha, Kaushik Roy*
+
+* HyperShot: Few-Shot Learning by Kernel HyperNetworks (WACV 2023) 
+[[Paper](https://arxiv.org/abs/2203.11378)]<br>
+*Authors: Marcin Sendera, Marcin Przewięźlikowski, Konrad Karanowski, Maciej Zięba, Jacek Tabor, Przemysław Spurek*
+
+* FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation (WACV 2023) 
+[[Paper](https://arxiv.org/abs/2012.08512)]<br>
+*Authors: Tarun Kalluri, Deepak Pathak, Manmohan Chandraker, Du Tran*
+
+* Probabilistic Volumetric Fusion for Dense Monocular SLAM (WACV 2023) 
+[[Paper](https://arxiv.org/abs/2210.01276)]<br>
+*Authors: Antoni Rosinol, John J. Leonard, Luca Carlone*
+
+* Self-Attention Message Passing for Contrastive Few-Shot Learning (WACV 2023) 
+[[Paper](https://arxiv.org/abs/2210.06339)]<br>
+*Authors: Ojas Kishorkumar Shirekar, Anuj Singh, Hadi Jamali-Rad*
+
+* X-Align: Cross-Modal Cross-View Alignment for Bird's-Eye-View Segmentation (WACV 2023) 
+[[Paper](https://arxiv.org/abs/2210.06778)]<br>
+*Authors: Shubhankar Borse, Marvin Klingner, Varun Ravi Kumar, Hong Cai, Abdulaziz Almuzairee, Senthil Yogamani, Fatih Porikli*
+
 ### Best Papers 2022 [[Best Papers](https://wacv2022.thecvf.com/node/108)] [[All Papers](https://openaccess.thecvf.com/WACV2022)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
