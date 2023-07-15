@@ -3,7 +3,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 
 
 ## Contents
-- [CVPR (2013-2022)](#CVPR)
+- [CVPR (2013-2023)](#CVPR)
 - [ICLR (2016-2023)](#ICLR)
 - [NeurIPS (2013-2022)](#NeurIPS)
 - [ICCV (2013-2021)](#ICCV)
@@ -16,6 +16,32 @@ This repository conatains the recent best or outstanding papers in contemporary 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## CVPR 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Best Papers 2023 [[Best Papers](https://cvpr2023.thecvf.com/Conferences/2023/Awards)] [[All Papers](https://openaccess.thecvf.com/CVPR2023)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* Visual Programming: Compositional visual reasoning without training (CVPR 2023) 
+[[Paper](http://arxiv.org/abs/2211.11559)]<br>
+*Authors: Tanmay Gupta, Aniruddha Kembhavi*
+
+* Planning-oriented Autonomous Driving (CVPR 2023) 
+[[Paper](http://arxiv.org/abs/2212.10156)]<br>
+*Authors: Yihan Hu, Jiazhi Yang, Li Chen, Keyu Li, Chonghao Sima, Xizhou Zhu, Siqi Chai, Senyao Du, Tianwei Lin, Wenhai Wang, Lewei Lu, Xiaosong Jia, Qiang Liu, Jifeng Dai, Yu Qiao, Hongyang Li*
+
+#### Best Paper Honorable Mention:
+* DynIBaR: Neural Dynamic Image-Based Rendering (CVPR 2023) 
+[[Paper](http://arxiv.org/abs/2211.11082)]<br>
+*Authors: Zhengqi Li, Qianqian Wang, Forrester Cole, Richard Tucker, Noah Snavely*
+
+#### Best Student Paper Award:
+* 3D Registration with Maximal Cliques (CVPR 2023) 
+[[Paper](http://arxiv.org/abs/2305.10854)]<br>
+*Authors: Xiyu Zhang, Jiaqi Yang, Shikun Zhang, Yanning Zhang*
+
+#### Best Student Paper Honorable Mention:
+* DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation (CVPR 2023) 
+[[Paper](http://arxiv.org/abs/2208.12242)]<br>
+*Authors: Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, Kfir Aberman*
 
 ### Best Papers 2022 [[Best Papers](https://cvpr2022.thecvf.com/cvpr-2022-paper-awards)] [[All Papers](https://openaccess.thecvf.com/CVPR2022)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
