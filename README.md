@@ -833,6 +833,33 @@ This repository conatains the recent best or outstanding papers in contemporary 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ICML
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Outstanding Papers 2023 [[Best Papers](https://icml.cc/virtual/2023/awards_detail)] [[All Papers](https://icml.cc/virtual/2023/papers.html?filter=titles)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Learning-Rate-Free Learning by D-Adaptation (ICML 2023) 
+[[Paper](https://openreview.net/forum?id=GXZ6cT5cvY)]<br>
+*Authors: Aaron Defazio (FAIR), Konstantin Mishchenko (Samsung AI Center)*
+
+* A Watermark for Large Language Models (ICML 2023) 
+[[Paper](https://openreview.net/forum?id=aX8ig9X2a7)]<br>
+*Authors: John Kirchenbauer, Jonas Geiping, Yuxin Wen, Jonathan Katz, Ian Miers, Tom Goldstein (University of Maryland)*
+
+* Generalization on the Unseen, Logic Reasoning and Degree Curriculum (ICML 2023) 
+[[Paper](https://openreview.net/forum?id=3dqwXb1te4)]<br>
+*Authors: Emmanuel Abbe (EPFL, Apple) , Samy Bengio (Apple), Aryo Lotfi (EPFL), Kevin Rizk (EPFL)*
+
+* Adapting to game trees in zero-sum imperfect information games (ICML 2023) 
+[[Paper](https://openreview.net/forum?id=O1j4uFuSVW)]<br>
+*Authors: Côme Fiegel (CREST, ENSAE, IP Paris), Pierre MENARD (ENS Lyon), Tadashi Kozuno (Omron Sinic X), Remi Munos (Deepmind), Vianney Perchet (CREST, ENSAE, IP Paris and CRITEO AI Lab), Michal Valko (Deepmind)*
+
+* Self-Repellent Random Walks on General Graphs - Achieving Minimal Sampling Variance via Nonlinear Markov Chains (ICML 2023) 
+[[Paper](https://openreview.net/forum?id=450iImFM4U)]<br>
+*Authors: Vishwaraj Doshi (IQVIA Inc), Jie Hu (North Carolina State University), Do Young Eun (North Carolina State University)*
+
+* Bayesian Design Principles for Frequentist Sequential Learning (ICML 2023) 
+[[Paper](https://openreview.net/forum?id=tRhQsHnoFw)]<br>
+*Authors: Yunbei Xu, Assaf Zeevi (Columbia University)*
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Outstanding Papers 2022 [[Best Papers](https://icml.cc/virtual/2022/awards_detail)] [[All Papers](https://icml.cc/virtual/2022/papers.html?filter=titles)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 * Do Differentiable Simulators Give Better Policy Gradients (ICML 2022) 
