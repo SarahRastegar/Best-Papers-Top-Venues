@@ -5,7 +5,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 ## Contents
 - [CVPR (2013-2023)](#CVPR)
 - [ICLR (2016-2023)](#ICLR)
-- [NeurIPS (2013-2022)](#NeurIPS)
+- [NeurIPS (2013-2023)](#NeurIPS)
 - [ICCV (2013-2023)](#ICCV)
 - [ICML (2018-2023)](#ICML)
 - [ECCV (2014-2022)](#ECCV)
@@ -499,6 +499,36 @@ This repository conatains the recent best or outstanding papers in contemporary 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ## NeurIPS
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Outstanding Papers 2023 [[Best Papers](https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/)] [[All Papers](https://openreview.net/group?id=NeurIPS.cc/2023/Conference)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Privacy Auditing with One (1) Training Run (NeurIPS 2023) 
+[[Paper](https://arxiv.org/abs/2305.08846)]<br>
+*Authors: Thomas Steinke, Milad Nasr, Matthew Jagielski*
+
+* Are Emergent Abilities of Large Language Models a Mirage? (NeurIPS 2023) 
+[[Paper](https://arxiv.org/abs/2304.15004)]<br>
+*Authors: Rylan Schaeffer · Brando Miranda · Sanmi Koyejo*
+
+#### Outstanding Main Track Runner-Ups:
+
+* Scaling Data-Constrained Language Models (NeurIPS 2023) 
+[[Paper](https://arxiv.org/abs/2305.16264)]<br>
+*Authors: Niklas Muennighoff · Alexander Rush · Boaz Barak · Teven Le Scao · Nouamane Tazi · Aleksandra Piktus · Sampo Pyysalo · Thomas Wolf · Colin Raffel*
+
+* Direct Preference Optimization: Your Language Model is Secretly a Reward Model (NeurIPS 2023) 
+[[Paper](https://arxiv.org/abs/2305.18290)]<br>
+*Authors: Rafael Rafailov · Archit Sharma · Eric Mitchell · Christopher D Manning · Stefano Ermon · Chelsea Finn*
+
+#### Outstanding Datasets and Benchmarks Papers
+
+* ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation (NeurIPS 2023) 
+[[Paper](https://arxiv.org/abs/2306.08754)]<br>
+*Authors: Sungduk Yu, Walter Hannah, Liran Peng, Jerry Lin, Mohamed Aziz Bhouri, Ritwik Gupta, Björn Lütjens, Justus Christopher Will, Gunnar Behrens, Julius Busecke, Nora Loose, Charles I Stern, Tom Beucler, Bryce Harrop, Benjamin R Hillman, Andrea Jenney, Savannah Ferretti, Nana Liu, Anima Anandkumar, Noah D Brenowitz, Veronika Eyring, Nicholas Geneva, Pierre Gentine, Stephan Mandt, Jaideep Pathak, Akshay Subramaniam, Carl Vondrick, Rose Yu, Laure Zanna, Tian Zheng, Ryan Abernathey, Fiaz Ahmed, David C Bader, Pierre Baldi, Elizabeth Barnes, Christopher Bretherton, Peter Caldwell, Wayne Chuang, Yilun Han, Yu Huang, Fernando Iglesias-Suarez, Sanket Jantre, Karthik Kashinath, Marat Khairoutdinov, Thorsten Kurth, Nicholas Lutsko, Po-Lun Ma, Griffin Mooers, J. David Neelin, David Randall, Sara Shamekh, Mark A Taylor, Nathan Urban, Janni Yuval, Guang Zhang, Michael Pritchard*
+
+* DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models (NeurIPS 2023) 
+[[Paper](https://arxiv.org/abs/2306.11698)]<br>
+*Authors: Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Outstanding Papers 2022 [[Best Papers](https://blog.neurips.cc/2022/11/21/announcing-the-neurips-2022-awards/)] [[All Papers](https://openreview.net/group?id=NeurIPS.cc/2022/Conference)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
