@@ -1,9 +1,9 @@
 # Best-Papers-Top-Venues
-This repository conatains the recent best or outstanding papers in contemporary top venues like **CVPR, NeurIPS, ICCV, ECCV, ICLR, ICML, BMVC, WACV, AAAI**. 
+This repository contains the recent best or outstanding papers in contemporary top venues like **CVPR, NeurIPS, ICCV, ECCV, ICLR, ICML, BMVC, WACV, and AAAI**. 
 
 
 ## Contents
-- [CVPR (2013-2023)](#CVPR)
+- [CVPR (2013-2024)](#CVPR)
 - [ICLR (2016-2023)](#ICLR)
 - [NeurIPS (2013-2023)](#NeurIPS)
 - [ICCV (2013-2023)](#ICCV)
@@ -15,6 +15,50 @@ This repository conatains the recent best or outstanding papers in contemporary 
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## CVPR 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Best Papers 2024 [[Best Papers](https://www.computer.org/press-room/cvpr-2024-announces-best-paper-award-winners)] [[All Papers](https://openaccess.thecvf.com/CVPR2024)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award:
+* Generative Image Dynamics (CVPR 2024) 
+[[Paper](https://arxiv.org/abs/2309.07906)]<br>
+*Authors: Zhengqi Li, Richard Tucker, Noah Snavely, Aleksander Holynski*
+
+* Rich Human Feedback for Text-to-Image Generation (CVPR 2024) 
+[[Paper](https://arxiv.org/abs/2312.10240)]<br>
+*Authors: Youwei Liang, Junfeng He, Gang Li, Peizhao Li, Arseniy Klimovskiy, Nicholas Carolan, Jiao Sun, Jordi Pont-Tuset, Sarah Young, Feng Yang, Junjie Ke, Krishnamurthy Dj Dvijotham, Katherine M. Collins, Yiwen Luo, Yang Li, Kai J. Kohlhoff, Deepak Ramachandran, and Vidhya Navalpakkam*
+
+#### Best Paper Honorable Mention:
+* EventPS: Real-Time Photometric Stereo Using an Event Camera (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_EventPS_Real-Time_Photometric_Stereo_Using_an_Event_Camera_CVPR_2024_paper.pdf)]<br>
+*Authors: Bohan Yu, Jieji Ren, Jin Han, Feishi Wang, Jinxiu Liang, Boxin Shi*
+
+* pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction (CVPR 2024) 
+[[Paper](https://arxiv.org/abs/2312.12337)]<br>
+*Authors: David Charatan, Sizhe Li, Andrea Tagliasacchi, Vincent Sitzmann*
+
+#### Best Student Paper Award:
+* Mip-Splatting: Alias-free 3D Gaussian Splatting (CVPR 2024) 
+[[Paper](https://arxiv.org/abs/2311.16493)]<br>
+*Authors: Zehao Yu, Anpei Chen, Binbin Huang, Torsten Sattler, Andreas Geiger*
+
+* BIOCLIP: A Vision Foundation Model for the Tree of Life (CVPR 2024) 
+[[Paper](https://arxiv.org/abs/2311.18803)]<br>
+*Authors: Samuel Stevens, Jiaman Wu, Matthew J. Thompson, Elizabeth G. Campolongo, Chan Hee Song, David Edward Carlyn, Li Dong, Wasila M. Dahdul, Charles Stewart, Tanya Berger-Wolf, Wei-Lun Chao, and Yu Su*
+
+#### Best Student Paper Honorable Mention:
+* SpiderMatch: 3D Shape Matching with Global Optimality and Geometric Consistency (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Roetzer_SpiderMatch_3D_Shape_Matching_with_Global_Optimality_and_Geometric_Consistency_CVPR_2024_paper.pdf)]<br>
+*Authors: Paul Roetzer, Florian Bernard*
+
+* Objects as volumes: A stochastic geometry view of opaque solids (CVPR 2024) 
+[[Paper](https://arxiv.org/abs/2312.15406)]<br>
+*Authors: Bailey Miller, Hanyu Chen, Alice Lai, Ioannis Gkioulekas*
+
+* Comparing the Decision-Making Mechanisms by Transformers and CNNs via Explanation Methods (CVPR 2024) 
+[[Paper](https://arxiv.org/abs/2212.06872)]<br>
+*Authors: Mingqi Jiang, Saeed Khorram, Li Fuxin*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Best Papers 2023 [[Best Papers](https://cvpr2023.thecvf.com/Conferences/2023/Awards)] [[All Papers](https://openaccess.thecvf.com/CVPR2023)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -43,6 +87,7 @@ This repository conatains the recent best or outstanding papers in contemporary 
 [[Paper](http://arxiv.org/abs/2208.12242)]<br>
 *Authors: Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, Kfir Aberman*
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Best Papers 2022 [[Best Papers](https://cvpr2022.thecvf.com/cvpr-2022-paper-awards)] [[All Papers](https://openaccess.thecvf.com/CVPR2022)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
