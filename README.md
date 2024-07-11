@@ -189,6 +189,7 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://arxiv.org/abs/1811.10092v2)]<br>
 *Authors: Xin Wang, Qiuyuan Huang, Asli Celikyilmaz, Jianfeng Gao, Dinghan Shen, Yuan-Fang Wang, William Yang Wang and Lei Zhang*
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Best Papers 2018 [[Best Papers](https://medium.com/syncedreview/cvpr-2018-kicks-off-best-papers-announced-d3361bcc6984)] [[All Papers](https://openaccess.thecvf.com/CVPR2018)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -332,6 +333,74 @@ This repository contains the recent best or outstanding papers in contemporary t
 ## ICLR
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
+### Outstanding Papers 2024 [[Best Papers](https://blog.iclr.cc/2024/05/06/iclr-2024-outstanding-paper-awards/)] [[All Papers](https://iclr.cc/virtual/2024/papers.html?filter=titles)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Generalization in diffusion models arises from geometry-adaptive harmonic representations (ICLR 2024) 
+[[Paper](https://openreview.net/forum?id=ANvmVS2Yr0)]<br>
+*Authors: Zahra Kadkhodaie, Florentin Guth, Eero P Simoncelli, Stéphane Mallat*
+
+* Learning Interactive Real-World Simulators (ICLR 2024) 
+[[Paper](https://openreview.net/forum?id=sFyTZEqmUY)]<br>
+*Authors: Sherry Yang, Yilun Du, Seyed Kamyar Seyed Ghasemipour, Jonathan Tompson, Leslie Pack Kaelbling, Dale Schuurmans, Pieter Abbeel*
+
+* Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors (ICLR 2024) 
+[[Paper](https://openreview.net/forum?id=PdaPky8MUn)]<br>
+*Authors: Ido Amos, Jonathan Berant, Ankit Gupta*
+
+* Protein Discovery with Discrete Walk-Jump Sampling (ICLR 2024) 
+[[Paper](https://openreview.net/forum?id=zMPHKOmQNb)]<br>
+*Authors: Nathan C. Frey, Dan Berenberg, Karina Zadorozhny, Joseph Kleinhenz, Julien Lafrance-Vanasse, Isidro Hotzel, Yan Wu, Stephen Ra, Richard Bonneau, Kyunghyun Cho, Andreas Loukas, Vladimir Gligorijevic, Saeed Saremi*
+
+* Vision Transformers Need Registers (ICLR 2024) 
+[[Paper](https://openreview.net/forum?id=2dnO3LLiJ1)]<br>
+*Authors: Timothée Darcet, Maxime Oquab, Julien Mairal, Piotr Bojanowski*
+
+#### Outstanding Paper Honorable Mentions
+
+* Amortizing intractable inference in large language models (ICLR 2024) 
+[[Paper](https://openreview.net/forum?id=Ouj6p4ca60)]<br>
+*Authors: Edward J Hu, Moksh Jain, Eric Elmoznino, Younesse Kaddar, Guillaume Lajoie, Yoshua Bengio, Nikolay Malkin*
+
+* Approximating Nash Equilibria in Normal-Form Games via Stochastic Optimization (ICLR 2024) 
+[[Paper](https://openreview.net/forum?id=cc8h3I3V4E)]<br>
+*Authors: Ian Gemp, Luke Marris, Georgios Piliouras*
+
+* Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness (ICLR 2024) 
+[[Paper](https://openreview.net/forum?id=HSKaGOi7Ar)]<br>
+*Authors: Bohang Zhang, Jingchu Gai, Yiheng Du, Qiwei Ye, Di He, Liwei Wang*
+
+* Flow Matching on General Geometries (ICLR 2024) 
+[[Paper](https://openreview.net/forum?id=g7ohDlTITL)]<br>
+*Authors: Ricky T. Q. Chen, Yaron Lipman*
+
+* Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video (ICLR 2024) 
+[[Paper](https://openreview.net/forum?id=Yen1lGns2o)]<br>
+*Authors: Shashanka Venkataramanan, Mamshad Nayeem Rizve, Joao Carreira, Yuki M Asano, Yannis Avrithis*
+
+* Meta Continual Learning Revisited: Implicitly Enhancing Online Hessian Approximation via Variance Reduction (ICLR 2024) 
+[[Paper](https://openreview.net/forum?id=TpD2aG1h0D)]<br>
+*Authors: Yichen Wu, Long-Kai Huang, Renzhen Wang, Deyu Meng, Ying Wei*
+
+* Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs (ICLR 2024) 
+[[Paper](https://openreview.net/forum?id=uNrFpDPMyo)]<br>
+*Authors: Suyu Ge, Yunan Zhang, Liyuan Liu, Minjia Zhang, Jiawei Han, Jianfeng Gao*
+
+* Proving Test Set Contamination in Black-Box Language Models (ICLR 2024) 
+[[Paper](https://openreview.net/forum?id=KS8mIvetg2)]<br>
+*Authors: Yonatan Oren, Nicole Meister, Niladri S. Chatterji, Faisal Ladhak, Tatsunori Hashimoto*
+
+* Robust agents learn causal world models (ICLR 2024) 
+[[Paper](https://openreview.net/forum?id=pOoKI3ouv1)]<br>
+*Authors: Jonathan Richens, Tom Everitt*
+
+* The mechanistic basis of data dependence and abrupt learning in an in-context classification task (ICLR 2024) 
+[[Paper](https://openreview.net/forum?id=aN4Jf6Cx69)]<br>
+*Authors: Gautam Reddy*
+
+* Towards a statistical theory of data selection under weak supervision (ICLR 2024) 
+[[Paper](https://openreview.net/forum?id=HhfcNgQn6p)]<br>
+*Authors: Germain Kolossov, Andrea Montanari, Pulkit Tandon*
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Outstanding Papers 2023 [[Best Papers](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/)] [[All Papers](https://iclr.cc/virtual/2023/papers.html?filter=titles)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 * Universal Few-shot Learning of Dense Prediction Tasks with Visual Token Matching (ICLR 2023) 
