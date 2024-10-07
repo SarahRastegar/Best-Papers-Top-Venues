@@ -7,7 +7,7 @@ This repository contains the recent best or outstanding papers in contemporary t
 - [ICLR (2016-2024)](#ICLR)
 - [NeurIPS (2013-2023)](#NeurIPS)
 - [ICCV (2013-2023)](#ICCV)
-- [ICML (2018-2023)](#ICML)
+- [ICML (2018-2024)](#ICML)
 - [ECCV (2014-2022)](#ECCV)
 - [AAAI (2020-2023)](#AAAI)
 - [WACV (2020-2023)](#WACV)
@@ -1203,6 +1203,11 @@ This repository contains the recent best or outstanding papers in contemporary t
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ECCV
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+### Best Papers 2024 [[Best Papers](https://eccv2024.ecva.net/virtual/2024/awards_detail)] [[All Papers](https://eccv2024.ecva.net/virtual/2024/papers.html?filter=titles)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+#### Best Paper Award:
+
 
 ### Best Papers 2022 [[Best Papers](https://eccv2022.ecva.net/files/2022/10/ECCV22-Awards.pdf)] [[All Papers](https://www.ecva.net/papers.php)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
