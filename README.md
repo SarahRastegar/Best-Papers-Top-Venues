@@ -9,7 +9,7 @@ This repository contains the recent best or outstanding papers in contemporary t
 - [ICCV (2013-2023)](#ICCV)
 - [ICML (2018-2024)](#ICML)
 - [ECCV (2014-2022)](#ECCV)
-- [AAAI (2020-2023)](#AAAI)
+- [AAAI (2020-2024)](#AAAI)
 - [WACV (2020-2023)](#WACV)
 - [BMVC (2020-2022)](#BMVC)
 
@@ -1289,6 +1289,56 @@ This repository contains the recent best or outstanding papers in contemporary t
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## AAAI
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Best Papers 2024 [[Best Papers](https://aaai.org/about-aaai/aaai-awards/aaai-24-paper-awards/)] [[All Papers]()]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+#### Outstanding Paper Award
+* GxVAEs: Two Joint VAEs Generate Hit Molecules from Gene Expression Profiles (AAAI 2024) 
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29248)]<br>
+*Authors: Chen Li; Yoshihiro Yamanishi*
+
+* Reliable Conflictive Multi-view Learning (AAAI 2024) 
+[[Paper](https://arxiv.org/abs/2402.16897)]<br>
+*Authors: Cai Xu; Jiajun Si; Ziyu Guan; Wei Zhao; Yue Wu; Xiyue Gao*
+
+* Proportional Aggregation of Preferences for Sequential Decision Making (AAAI 2024) 
+[[Paper](https://arxiv.org/abs/2306.14858)]<br>
+*Authors: Nikhil Chandak; Shashwat Goel; Dominik Peters*
+
+#### Best Paper for the AI for Social Impact track
+* DISCount: Counting in Large Image Collections with Detector-Based Importance Sampling (AAAI 2024) 
+[[Paper](https://arxiv.org/abs/2306.03151)]<br>
+*Authors: Gustavo Perez; Subhransu Maji; Daniel Sheldon*
+
+#### Best Paper for the AI for Social Impact track Honorable Mention
+* Nowcasting Temporal Trends Using Indirect Surveys (AAAI 2024) 
+[[Paper](https://arxiv.org/abs/2307.06643)]<br>
+*Authors: Ajitesh Srivastava, Juan Marcos Ramirez, Sergio Díaz, Jose Aguilar, Antonio Fernández Anta, Antonio Ortega, Rosa Lillo*
+
+#### Best Student Paper for the AI for Social Impact track
+* Scaling Up Pareto Optimization for Tree Structures with Affine Transformations: Evaluating Hybrid Floating Solar-Hydropower Systems in the Amazon (AAAI 2024) 
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30210)]<br>
+*Authors: Marc Grimson; Rafael Almeida; Qinru Shi; Yiwei Bai; Hector Angarita; Felipe Siqueira Pacheco; Rafael Schmitt; Alexander Flecker; Carla Gomes*
+
+#### Best Student Paper for the AI for Social Impact track Honorable Mention
+* Is My Prediction Arbitrary? The Confounding Effects of Variance in Fair Classification Benchmarks (AAAI 2024) 
+[[Paper](https://arxiv.org/abs/2301.11562)]<br>
+*Authors: A. Feder Cooper; Katherine Lee; Madiha Choksi; Solon Barocas; Christopher De Sa; James Grimmelmann; Jon Kleinberg; Siddhartha Sen; Baobao Zhang*
+
+#### Student Abstract Program Awards
+* JoLT: Jointly Learned Representations of Language and Time-Series for Clinical Time-series Interpretation (AAAI 2024) 
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30423)]<br>
+*Authors: Yifu Cai, Arvind Srinivasan, Mononito Goswami, Arjun Choudhry and Artur Dubrawski*
+
+* Strategic Recommendation: Revenue Optimal Matching for Online Platforms (AAAI 2024) 
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30432)]<br>
+*Authors: Luca D’Amico-Wong, Gary Qiurui Ma and David Parkes*
+
+#### Best Demonstration Award
+* Expressive and Flexible Simulation of Information Spread Strategies in Social Networks Using Planning (AAAI 2024) 
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30576)]<br>
+*Authors: Bharath Muppasani, Vignesh Narayanan, Biplav Srivastava and Michael N. Huhns*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Best Papers 2023 [[Best Papers](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/)] [[All Papers]()]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
