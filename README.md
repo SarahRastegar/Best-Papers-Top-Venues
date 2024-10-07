@@ -999,6 +999,49 @@ This repository contains the recent best or outstanding papers in contemporary t
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ICML
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Best Papers 2024 [[Best Papers](https://icml.cc/virtual/2024/awards_detail)] [[All Papers](https://icml.cc/virtual/2024/papers.html?filter=titles)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* VideoPoet: A Large Language Model for Zero-Shot Video Generation (ICML 2024) 
+[[Paper](https://arxiv.org/abs/2312.14125)]<br>
+*Authors: Dan Kondratyuk · Lijun Yu · Xiuye Gu · Jose Lezama · Jonathan Huang · Grant Schindler · Rachel Hornung · Vighnesh N Birodkar · Jimmy Yan · Ming-Chang Chiu · Krishna Somandepalli · Hassan Akbari · Yair Alon · Yong Cheng · Joshua V Dillon · Agrim Gupta · Meera Hahn · Anja Hauth · David Hendon · Alonso Martinez · David Minnen · Mikhail Sirotenko · Kihyuk Sohn · Xuan Yang · Hartwig Adam · Ming-Hsuan Yang · Irfan Essa · Huisheng Wang · David Ross · Bryan Seybold · Lu Jiang*
+
+* Debating with More Persuasive LLMs Leads to More Truthful Answers (ICML 2024) 
+[[Paper](https://arxiv.org/abs/2402.06782)]<br>
+*Authors: Akbir Khan · John Hughes · Dan Valentine · Laura Ruis · Kshitij Sachan · Ansh Radhakrishnan · Edward Grefenstette · Samuel Bowman · Tim Rocktäschel · Ethan Perez*
+
+* Genie: Generative Interactive Environments (ICML 2024) 
+[[Paper](https://arxiv.org/abs/2402.15391)]<br>
+*Authors: Jake Bruce · Michael Dennis · Ashley Edwards · Jack Parker-Holder · Yuge Shi · Edward Hughes · Matthew Lai · Aditi Mavalankar · Richie Steigerwald · Chris Apps · Yusuf Aytar · Sarah Bechtle · Feryal Behbahani · Stephanie Chan · Nicolas Heess · Lucy Gonzalez · Simon Osindero · Sherjil Ozair · Scott Reed · Jingwei Zhang · Konrad Zolna · Jeff Clune · Nando de Freitas · Satinder Singh · Tim Rocktäschel*
+
+* Position: Measure Dataset Diversity, Don't Just Claim It (ICML 2024) 
+[[Paper](https://arxiv.org/abs/2407.08188)]<br>
+*Authors: Dora Zhao · Jerone Andrews · Orestis Papakyriakopoulos · Alice Xiang*
+
+* Stealing part of a production language model (ICML 2024) 
+[[Paper](https://arxiv.org/abs/2403.06634)]<br>
+*Authors: Nicholas Carlini · Daniel Paleka · Krishnamurthy Dvijotham · Thomas Steinke · Jonathan Hayase · A. Feder Cooper · Katherine Lee · Matthew Jagielski · Milad Nasr · Arthur Conmy · Eric Wallace · David Rolnick · Florian Tramer*
+
+* Scaling Rectified Flow Transformers for High-Resolution Image Synthesis (ICML 2024) 
+[[Paper](https://arxiv.org/abs/2403.03206)]<br>
+*Authors: Patrick Esser · Sumith Kulal · Andreas Blattmann · Rahim Entezari · Jonas Müller · Harry Saini · Yam Levi · Dominik Lorenz · Axel Sauer · Frederic Boesel · Dustin Podell · Tim Dockhorn · Zion English · Robin Rombach*
+
+* Position: Considerations for Differentially Private Learning with Large-Scale Public Pretraining (ICML 2024) 
+[[Paper](https://arxiv.org/abs/2212.06470)]<br>
+*Authors: Florian Tramer · Gautam Kamath · Nicholas Carlini*
+
+* Information Complexity of Stochastic Convex Optimization: Applications to Generalization, Memorization, and Tracing (ICML 2024) 
+[[Paper](https://arxiv.org/abs/2402.09327)]<br>
+*Authors: Idan Attias · Gintare Karolina Dziugaite · Mahdi Haghifam · Roi Livni · Daniel Roy*
+
+* Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo (ICML 2024) 
+[[Paper](https://arxiv.org/abs/2404.17546)]<br>
+*Authors: Stephen Zhao · Rob Brekelmans · Alireza Makhzani · Roger Grosse*
+
+* Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution (ICML 2024) 
+[[Paper](https://arxiv.org/abs/2310.16834)]<br>
+*Authors: Aaron Lou · Chenlin Meng · Stefano Ermon*
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Outstanding Papers 2023 [[Best Papers](https://icml.cc/virtual/2023/awards_detail)] [[All Papers](https://icml.cc/virtual/2023/papers.html?filter=titles)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 * Learning-Rate-Free Learning by D-Adaptation (ICML 2023) 
