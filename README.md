@@ -504,6 +504,16 @@ This repository contains the recent best or outstanding papers in contemporary t
 * Towards a statistical theory of data selection under weak supervision (ICLR 2024) 
 [[Paper](https://openreview.net/forum?id=HhfcNgQn6p)]<br>
 *Authors: Germain Kolossov, Andrea Montanari, Pulkit Tandon*
+
+#### Test of Time
+* Auto-Encoding Variational Bayes (ICLR 2014) 
+[[Paper](https://arxiv.org/abs/1312.6114)]<br>
+*Authors: Diederik Kingma, Max Welling*
+
+#### Test of Time Runner Up
+* Intriguing properties of neural networks (ICLR 2014) 
+[[Paper](https://arxiv.org/abs/1312.6199)]<br>
+*Authors: Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Outstanding Papers 2023 [[Best Papers](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/)] [[All Papers](https://iclr.cc/virtual/2023/papers.html?filter=titles)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -747,6 +757,12 @@ This repository contains the recent best or outstanding papers in contemporary t
 * DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models (NeurIPS 2023) 
 [[Paper](https://arxiv.org/abs/2306.11698)]<br>
 *Authors: Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li*
+
+#### Test of Time
+* Distributed Representations of Words and Phrases and their Compositionality (NeurIPS 2013) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2013/hash/9aa42b31882ec039965f3c4923ce901b-Abstract.html)]<br>
+*Authors: Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Outstanding Papers 2022 [[Best Papers](https://blog.neurips.cc/2022/11/21/announcing-the-neurips-2022-awards/)] [[All Papers](https://openreview.net/group?id=NeurIPS.cc/2022/Conference)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -811,6 +827,12 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://openreview.net/forum?id=rc8o_j8I8PX)]<br>
 *Authors: Linxi Fan, Guanzhi Wang, Yunfan Jiang, Ajay Mandlekar, Yuncong Yang, Haoyi Zhu, Andrew Tang, De-An Huang, Yuke Zhu, Anima Anandkumar*
 
+#### Test of Time
+* ImageNet Classification with Deep Convolutional Neural Networks (NeurIPS 2012) 
+[[Paper](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)]<br>
+*Authors: Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton*
+
+
 ### Outstanding Papers 2021 [[Best Papers](https://blog.neurips.cc/2021/11/30/announcing-the-neurips-2021-award-recipients/)] [[All Papers](https://openreview.net/group?id=NeurIPS.cc/2021/Conference)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 * A Universal Law of Robustness via Isoperimetry (NeurIPS 2021) 
@@ -845,6 +867,11 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://openreview.net/forum?id=FkDZLpK1Ml2)]<br>
 *Authors: Raphael John Lamarre Townshend, Martin Vögele, Patricia Adriana Suriana, Alexander Derry, Alexander Powers, Yianni Laloudakis, Sidhika Balachandar, Bowen Jing, Brandon M. Anderson, Stephan Eismann, Risi Kondor, Russ Altman, and Ron O. Dror*
 
+#### Test of Time
+* Online Learning for Latent Dirichlet Allocation (NeurIPS 2010) 
+[[Paper](https://proceedings.neurips.cc/paper/2010/file/71f6278d140af599e06ad9bf1ba03cb0-Paper.pdf)]<br>
+*Authors: Matthew Hoffman, David Blei, and Francis Bach*
+
 ### Outstanding Papers 2020 [[Best Papers](https://nips.cc/virtual/2020/public/f_awards.html)] [[All Papers](https://papers.nips.cc/paper/2020)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 * Improved Guarantees and a Multiple-Descent Curve for Column Subset Selection and the Nyström Method (NeurIPS 2020) 
@@ -858,6 +885,11 @@ This repository contains the recent best or outstanding papers in contemporary t
 * No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium (NeurIPS 2020) 
 [[Paper](https://arxiv.org/abs/2004.00603)]<br>
 *Authors: Andrea Celli, Alberto Marchesi, Gabriele Farina, Nicola Gatti*
+
+#### Test of Time
+* HOGWILD!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent (NeurIPS 2011) 
+[[Paper](https://arxiv.org/abs/1106.5730)]<br>
+*Authors: Benjamin Recht, Christopher Re, Stephen Wright, Feng Niu*
 
 ### Outstanding Papers 2019 [[Best Papers](https://syncedreview.com/2019/12/08/neurips-2019-opens-outstanding-paper-awards-and-2021-conference-announced/)] [[All Papers](https://papers.nips.cc/paper/2019)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -885,6 +917,11 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://arxiv.org/pdf/1906.01618)]<br>
 *Authors: Vincent Sitzmann, Michael Zollhöfer, Gordon Wetzstein*
 
+#### Test of Time
+* Dual Averaging Method for Regularized Stochastic Learning and Online Optimization (NeurIPS 2009) 
+[[Paper](https://papers.nips.cc/paper/3882-dual-averaging-method-for-regularized-stochastic-learning-and-online-optimization.pdf)]<br>
+*Authors: Lin Xiao*
+
 ### Outstanding Papers 2018 [[Best Papers](https://nips.cc/Conferences/2018/Awards)] [[All Papers](https://papers.nips.cc/paper/2018)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 * Non-delusional Q-learning and Value-iteration (NeurIPS 2018) 
@@ -903,6 +940,10 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://arxiv.org/abs/1806.07366)]<br>
 *Authors: Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud*
 
+#### Test of Time
+* The Trade-Offs of Large Scale Learning (NeurIPS 2007) 
+[[Paper](https://leon.bottou.org/publications/pdf/nips-2007.pdf)]<br>
+*Authors: Leon Bottou, Olivier Bousquet*
 
 ### Outstanding Papers 2017 [[Best Papers](https://nips.cc/Conferences/2017/Awards)] [[All Papers](https://papers.nips.cc/paper/2017)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -918,6 +959,11 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://nips.cc/Conferences/2017/Schedule?showEvent=8823)]<br>
 *Authors: Wittawat Jitkrittum, Wenkai Xu, Zoltan Szabo, Kenji Fukumizu, Arthur Gretton*
 
+#### Test of Time
+* Random Features for Large-Scale Kernel Machines (NeurIPS 2007) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2007/hash/013a006f03dbc5392effeb8f18fda755-Abstract.html)]<br>
+*Authors: Ali Rahimi, Benjamin Recht*
+
 ### Outstanding Papers 2016 [[Best Papers](https://nips.cc/Conferences/2016/Awards)] [[All Papers](https://papers.nips.cc/paper/2016)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -931,6 +977,7 @@ This repository contains the recent best or outstanding papers in contemporary t
 * Matrix Completion has No Spurious Local Minimum (NeurIPS 2016) 
 [[Paper](https://nips.cc/Conferences/2016/Schedule?showEvent=7218)]<br>
 *Authors: Rong Ge, Jason Lee, Tengyu Ma*
+
 
 ### Outstanding Papers 2015 [[Best Papers](https://nips.cc/Conferences/2015/Awards)] [[All Papers](https://papers.nips.cc/paper/2015)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -991,6 +1038,11 @@ This repository contains the recent best or outstanding papers in contemporary t
 * Tracking Everything Everywhere All At Once (ICCV 2023) 
 [[Paper](https://arxiv.org/abs/2306.05422)]<br>
 *Authors: Qianqian Wang, Yen-Yu Chang, Ruojin Cai, Zhengqi Li, Bharath Hariharan, Aleksander Holynski, Noah Snavely*
+
+#### Helmholtz Prize (Test of Time):
+* Action Recognition With Improved Trajectories (ICCV 2013) 
+[[Paper](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Wang_Action_Recognition_with_2013_ICCV_paper.pdf)]<br>
+*Authors: H. Wang and C. Schmid*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Best Papers 2021 [[Best Papers](https://iccv2021.thecvf.com/iccv-2021-paper-awards)] [[All Papers](https://openaccess.thecvf.com/ICCV2021)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1022,6 +1074,19 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Lindenberger_Pixel-Perfect_Structure-From-Motion_With_Featuremetric_Refinement_ICCV_2021_paper.html)]<br>
 *Authors: Philipp Lindenberger, Paul-Edouard Sarlin, Viktor Larsson, Marc Pollefeys*
 
+#### Helmholtz Prize (Test of Time):
+* ORB: An efficient alternative to SIFT or SURF (ICCV 2011) 
+[[Paper](https://ieeexplore.ieee.org/document/6126544)]<br>
+*Authors: E. Rublee, V. Rabaud, K. Konolige, G. Bradski*
+
+* HMDB: A large video database for human motion recognition (ICCV 2011) 
+[[Paper](https://ieeexplore.ieee.org/document/6126543)]<br>
+*Authors: H. Kuehne, H. Jhuang, E. Garrote, T. Poggio, T. Serre*
+
+* DTAM: Dense tracking and mapping in real-time (ICCV 2011) 
+[[Paper](https://ieeexplore.ieee.org/document/6126513)]<br>
+*Authors: R. Newcombe, S. Lovegrove, A. Davison*
+
 ### Best Papers 2019 [[Best Papers](https://iccv2019.thecvf.com/program/main_conference)] [[All Papers](https://openaccess.thecvf.com/ICCV2019)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -1043,6 +1108,15 @@ This repository contains the recent best or outstanding papers in contemporary t
 * PLMP - Point-Line Minimal Problems in Complete Multi-View Visibility (ICCV 2019) 
 [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Duff_PLMP_-_Point-Line_Minimal_Problems_in_Complete_Multi-View_Visibility_ICCV_2019_paper.pdf)]<br>
 *Authors: Timothy Duff, Kathlén Kohn, Anton Leykin, Tomas Pajdla*
+
+#### Helmholtz Prize (Test of Time):
+* Building Rome in a Day (ICCV 2009) 
+[[Paper](https://ieeexplore.ieee.org/document/5459148)]<br>
+*Authors: S. Agarwal, N. Snavely, I. Simon, S. M. Seitz, R. Szeliski*
+
+* Attribute and Simile Classifiers for Face Verification (ICCV 2009) 
+[[Paper](https://ieeexplore.ieee.org/document/5459250)]<br>
+*Authors: N. Kumar, A. C. Berg, P. N. Belhumeur, S. K. Nayar*
 
 ### Best Papers 2017 [[Best Papers](https://medium.com/onfido-tech/the-best-of-iccv-2017-b029b7ad4ab0)] [[All Papers](https://openaccess.thecvf.com/ICCV2017)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1070,6 +1144,35 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://arxiv.org/abs/1708.02002)]<br>
 *Authors: Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollár*
 
+#### Helmholtz Prize (Test of Time):
+* Space-time interest points (ICCV 2003) 
+[[Paper](https://ieeexplore.ieee.org/document/1238378)]<br>
+*Authors: I. Laptev and T. Lindeberg*
+
+* Recognizing action at a distance (ICCV 2003) 
+[[Paper](https://ieeexplore.ieee.org/document/1238420)]<br>
+*Authors: A. Efros, A. Berg, G. Mori, J. Malik*
+
+* Video Google: A text retrieval approach to object matching in videos (ICCV 2003) 
+[[Paper](https://ieeexplore.ieee.org/document/1238663)]<br>
+*Authors: J. Sivic and A. Zisserman*
+
+* Recognising panoramas (ICCV 2003) 
+[[Paper](https://ieeexplore.ieee.org/document/1238630)]<br>
+*Authors: M. Brown and D. Lowe*
+
+* Discovering objects and their location in images (ICCV 2005) 
+[[Paper](https://ieeexplore.ieee.org/document/1541280)]<br>
+*Authors: J. Sivic, B. Russell, A. Efros, A. Zisserman, and W. Freeman*
+
+* The pyramid match kernel: Discriminative classification with sets of image features (ICCV 2005) 
+[[Paper](https://ieeexplore.ieee.org/document/1544890)]<br>
+*Authors: K. Grauman and T. Darrell*
+
+* Actions as space-time shapes (ICCV 2005) 
+[[Paper](https://ieeexplore.ieee.org/document/1544882)]<br>
+*Authors: M. Blank, L. Gorelick, E. Shechtman, M. Irani, and R. Basri*
+
 ### Best Papers 2015 [[Best Papers](https://www.thecvf.com/?page_id=413#CVPRBest)] [[All Papers](https://openaccess.thecvf.com/ICCV2015)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -1082,6 +1185,15 @@ This repository contains the recent best or outstanding papers in contemporary t
 * Holistically-Nested Edge Detection (ICCV 2015) 
 [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf)]<br>
 *Authors: Saining Xie, Zhuowen Tu*
+
+#### Helmholtz Prize (Test of Time):
+* A Database of Human Segmented Natural Images and Its Application to Evaluating Segmentation Algorithms and Measuring Ecological Statistics (ICCV 2001) 
+[[Paper](https://ieeexplore.ieee.org/document/937655)]<br>
+*Authors: D. Martin, C. Fowlkes, D. Tal, J. Malik*
+
+* Matching Shapes (ICCV 2001) 
+[[Paper](https://ieeexplore.ieee.org/abstract/document/937552)]<br>
+*Authors: S. Belongie, J. Malik, J. Puzicha*
 
 ### Best Papers 2013 [[Best Papers](https://www.thecvf.com/?page_id=413#CVPRBest)] [[All Papers](https://openaccess.thecvf.com/ICCV2013)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
