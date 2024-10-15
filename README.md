@@ -1258,6 +1258,11 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://arxiv.org/abs/2310.16834)]<br>
 *Authors: Aaron Lou · Chenlin Meng · Stefano Ermon*
 
+#### Test of Time Award:
+* DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition (ICML 2014) 
+[[Paper](https://arxiv.org/abs/1310.1531)]<br>
+*Authors: Jeff Donahue, Yangqing Jia, Oriol Vinyals, Judy Hoffman, Ning Zhang, Eric Tzeng, Trevor Darrell*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Outstanding Papers 2023 [[Best Papers](https://icml.cc/virtual/2023/awards_detail)] [[All Papers](https://icml.cc/virtual/2023/papers.html?filter=titles)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1284,6 +1289,11 @@ This repository contains the recent best or outstanding papers in contemporary t
 * Bayesian Design Principles for Frequentist Sequential Learning (ICML 2023) 
 [[Paper](https://openreview.net/forum?id=tRhQsHnoFw)]<br>
 *Authors: Yunbei Xu, Assaf Zeevi (Columbia University)*
+
+#### Test of Time Award:
+* Learning Fair Representations (ICML 2013) 
+[[Paper](https://proceedings.mlr.press/v28/zemel13.html)]<br>
+*Authors: Rich Zemel, Yu Wu, Kevin Swersky, Toni Pitassi, Cynthia Dwork*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Outstanding Papers 2022 [[Best Papers](https://icml.cc/virtual/2022/awards_detail)] [[All Papers](https://icml.cc/virtual/2022/papers.html?filter=titles)]
@@ -1348,6 +1358,21 @@ This repository contains the recent best or outstanding papers in contemporary t
 * Minimum Cost Intervention Design for Causal Effect Identification (ICML 2022) 
 [[Paper](https://icml.cc/virtual/2022/oral/17380)]<br>
 *Authors: Sina Akbari · Jalal Etesami · Negar Kiyavash*
+
+#### Test of Time Award:
+* Poisoning Attacks Against Support Vector Machines (ICML 2012) 
+[[Paper](https://arxiv.org/abs/1206.6389)]<br>
+*Authors: Battista Biggio, Blaine Nelson, Pavel Laskov*
+
+#### Test of Time Honorable Mention:
+* Building high-level features using large scale unsupervised learning (ICML 2012) 
+[[Paper](https://arxiv.org/abs/1112.6209)]<br>
+*Authors: Quoc V. Le, Marc'Aurelio Ranzato, Rajat Monga, Matthieu Devin, Kai Chen, Greg S. Corrado, Jeff Dean, Andrew Y. Ng*
+
+* On causal and anticausal learning (ICML 2012) 
+[[Paper](https://arxiv.org/abs/1206.6471)]<br>
+*Authors: Bernhard Schölkopf, Dominik Janzing, Jonas Peters, Eleni Sgouritsa, Kun Zhang, Joris Mooij*
+
 
 ### Outstanding Papers 2021 [[Best Papers](https://icml.cc/virtual/2021/awards_detail)] [[All Papers](https://icml.cc/virtual/2021/papers.html?filter=titles)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -2090,6 +2115,10 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://www.bmvc2020-conference.com/conference/papers/paper_0430.html)]<br>
 *Authors: Xin Tian, Ke Xu, Xin Yang, Baocai Yin and Rynson Lau*
 
+#### Best Industry Paper:
+* A CNN Based Approach for the Near-Field Photometric Stereo Problem (BMVC 2020) 
+[[Paper](https://www.bmvc2020-conference.com/conference/papers/paper_0277.html)]<br>
+*Authors: Fotios Logothetis, Ignas Budvytis, Roberto Mecca and Roberto Cipolla*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Test of Time Papers
@@ -2260,8 +2289,24 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://ieeexplore.ieee.org/abstract/document/937552)]<br>
 *Authors: S. Belongie, J. Malik, J. Puzicha*
 
-#### Best Industry Paper:
-* A CNN Based Approach for the Near-Field Photometric Stereo Problem (BMVC 2020) 
-[[Paper](https://www.bmvc2020-conference.com/conference/papers/paper_0277.html)]<br>
-*Authors: Fotios Logothetis, Ignas Budvytis, Roberto Mecca and Roberto Cipolla*
+### ICML
 
+* DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition (ICML 2014) 
+[[Paper](https://arxiv.org/abs/1310.1531)]<br>
+*Authors: Jeff Donahue, Yangqing Jia, Oriol Vinyals, Judy Hoffman, Ning Zhang, Eric Tzeng, Trevor Darrell*
+
+* Learning Fair Representations (ICML 2013) 
+[[Paper](https://proceedings.mlr.press/v28/zemel13.html)]<br>
+*Authors: Rich Zemel, Yu Wu, Kevin Swersky, Toni Pitassi, Cynthia Dwork*
+
+* Poisoning Attacks Against Support Vector Machines (ICML 2012) 
+[[Paper](https://arxiv.org/abs/1206.6389)]<br>
+*Authors: Battista Biggio, Blaine Nelson, Pavel Laskov*
+
+* Building high-level features using large scale unsupervised learning (ICML 2012) 
+[[Paper](https://arxiv.org/abs/1112.6209)]<br>
+*Authors: Quoc V. Le, Marc'Aurelio Ranzato, Rajat Monga, Matthieu Devin, Kai Chen, Greg S. Corrado, Jeff Dean, Andrew Y. Ng*
+
+* On causal and anticausal learning (ICML 2012) 
+[[Paper](https://arxiv.org/abs/1206.6471)]<br>
+*Authors: Bernhard Schölkopf, Dominik Janzing, Jonas Peters, Eleni Sgouritsa, Kun Zhang, Joris Mooij*
