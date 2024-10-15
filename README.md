@@ -1613,6 +1613,58 @@ This repository contains the recent best or outstanding papers in contemporary t
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## WACV
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Best Papers 2024 [[Best Papers](https://x.com/wacv_official/status/1742715868709314587?lang=en)] [[All Papers](https://openaccess.thecvf.com/WACV2024)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+#### Award Finalists:
+* Data-Centric Debugging: mitigating model failures via targeted data collection (WACV 2024) 
+[[Paper](https://arxiv.org/abs/2211.09859)]<br>
+*Authors: Sahil Singla, Atoosa Malemir Chegini, Mazda Moayeri, Soheil Feiz*
+
+* Efficient Semantic Matching with Hypercolumn Correlation (WACV 2024) 
+[[Paper](https://arxiv.org/abs/2311.04336)]<br>
+*Authors: Seungwook Kim, Juhong Min, Minsu Cho*
+
+* WildlifeDatasets: An open-source toolkit for animal re-identification (WACV 2024) 
+[[Paper](https://arxiv.org/abs/2311.09118)]<br>
+*Authors: Vojtěch Čermák, Lukas Picek, Lukáš Adam, Kostas Papafitsoros*
+
+* ParticleNeRF: A Particle-Based Encoding for Online Neural Radiance Fields (WACV 2024) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Abou-Chakra_ParticleNeRF_A_Particle-Based_Encoding_for_Online_Neural_Radiance_Fields_WACV_2024_paper.pdf)]<br>
+*Authors: Jad Abou-Chakra, Feras Dayoub, Niko Sünderhauf*
+
+* ReCLIP: Refine Contrastive Language Image Pre-Training With Source Free Domain Adaptation (WACV 2024) 
+[[Paper](http://arxiv.org/abs/2308.03793)]<br>
+*Authors: Xuefeng Hu, Ke Zhang, Lu Xia, Albert Chen, Jiajia Luo, Yuyin Sun, Ken Wang, Nan Qiao, Xiao Zeng, Min Sun, Cheng-Hao Kuo, Ram Nevatia*
+
+* Re-Evaluating LiDAR Scene Flow (WACV 2024) 
+[[Paper](http://arxiv.org/abs/2304.02150)]<br>
+*Authors: Nathaniel Chodosh, Deva Ramanan, Simon Lucey*
+
+* Conditional Velocity Score Estimation for Image Restoration (WACV 2024) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Shi_Conditional_Velocity_Score_Estimation_for_Image_Restoration_WACV_2024_paper.pdf)]<br>
+*Authors: Ziqiang Shi, Rujie Liu*
+
+* Semantic Labels-Aware Transformer Model for Searching Over a Large Collection of Lecture-Slides (WACV 2024) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Jobin_Semantic_Labels-Aware_Transformer_Model_for_Searching_Over_a_Large_Collection_WACV_2024_paper.pdf)]<br>
+*Authors: K. V. Jobin, Anand Mishra, C. V. Jawahar*
+
+* Location-Aware Self-Supervised Transformers for Semantic Segmentation (WACV 2024) 
+[[Paper](http://arxiv.org/abs/2212.02400)]<br>
+*Authors: Mathilde Caron, Neil Houlsby, Cordelia Schmid*
+
+* Robust Feature Learning and Global Variance-Driven Classifier Alignment for Long-Tail Class Incremental Learning (WACV 2024) 
+[[Paper](http://arxiv.org/abs/2311.01227)]<br>
+*Authors: Jayateja Kalla, Soma Biswas*
+
+* RMFER: Semi-Supervised Contrastive Learning for Facial Expression Recognition With Reaction Mashup Video (WACV 2024) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cho_RMFER_Semi-Supervised_Contrastive_Learning_for_Facial_Expression_Recognition_With_Reaction_WACV_2024_paper.pdf)]<br>
+*Authors: Yunseong Cho, Chanwoo Kim, Hoseong Cho, Yunhoe Ku, Eunseo Kim, Muhammadjon Boboev, Joonseok Lee, Seungryul Baek*
+
+* Wino Vidi Vici: Conquering Numerical Instability of 8-Bit Winograd Convolution for Accurate Inference Acceleration on Edge (WACV 2024) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Mori_Wino_Vidi_Vici_Conquering_Numerical_Instability_of_8-Bit_Winograd_Convolution_WACV_2024_paper.pdf)]<br>
+*Authors: Pierpaolo Mori, Lukas Frickenstein, Shambhavi Balamuthu Sampath, Moritz Thoma, Nael Fasfous, Manoj Rohit Vemparala, Alexander Frickenstein, Christian Unger, Walter Stechele, Daniel Mueller-Gritschneder, Claudio Passerone*
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Best Papers 2023 [[Best Papers](https://wacv2023.thecvf.com/node/174)] [[All Papers](https://openaccess.thecvf.com/WACV2023)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
