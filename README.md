@@ -59,6 +59,12 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://arxiv.org/abs/2212.06872)]<br>
 *Authors: Mingqi Jiang, Saeed Khorram, Li Fuxin*
 
+#### Longuet-Higgins Prize (Test of Time):
+* Rich feature hierarchies for accurate object detection and semantic segmentation (CVPR 2014) 
+[[Paper](https://arxiv.org/abs/1311.2524)]<br>
+*Authors: Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik*
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Best Papers 2023 [[Best Papers](https://cvpr2023.thecvf.com/Conferences/2023/Awards)] [[All Papers](https://openaccess.thecvf.com/CVPR2023)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -87,6 +93,40 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](http://arxiv.org/abs/2208.12242)]<br>
 *Authors: Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, Kfir Aberman*
 
+#### Award Candidates:
+* Ego-Body Pose Estimation via Ego-Head Pose Estimation (CVPR 2023) 
+[[Paper](http://arxiv.org/abs/2212.04636)]<br>
+*Authors: Jiaman Li, Karen Liu, Jiajun Wu*
+
+* OmniObject3D: Large Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation (CVPR 2023) 
+[[Paper](http://arxiv.org/abs/2301.07525)]<br>
+*Authors: Tong Wu, Jiarui Zhang, Xiao Fu, Yuxin Wang, Jiawei Ren, Liang Pan, Wayne Wu, Lei Yang, Jiaqi Wang, Chen Qian, Dahua Lin, Ziwei Liu*
+
+* MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures (CVPR 2023) 
+[[Paper](http://arxiv.org/abs/2208.00277)]<br>
+*Authors: Zhiqin Chen, Thomas Funkhouser, Peter Hedman, Andrea Tagliasacchi*
+
+* On Distillation of Guided Diffusion Models (CVPR 2023) 
+[[Paper](http://arxiv.org/abs/2210.03142)]<br>
+*Authors: Chenlin Meng, Robin Rombach, Ruiqi Gao, Diederik Kingma, Stefano Ermon, Jonathan Ho, Tim Salimans*
+
+* What Can Human Sketches Do for Object Detection? (CVPR 2023) 
+[[Paper](http://arxiv.org/abs/2303.15149)]<br>
+*Authors: Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Aneeshan Sain, Subhadeep Koley, Tao Xiang, Yi-Zhe Song*
+
+* Data-driven Feature Tracking for Event Cameras (CVPR 2023) 
+[[Paper](http://arxiv.org/abs/2211.12826)]<br>
+*Authors: Nico Messikommer, Carter Fang, Mathias Gehrig, Davide Scaramuzza*
+
+* Integral Neural Networks (CVPR 2023) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Solodskikh_Integral_Neural_Networks_CVPR_2023_paper.pdf)]<br>
+*Authors: Kirill Solodskikh, Azim Kurbanov, Ruslan Aydarkhanov, Irina Zhelavskaya, Yury Parfenov, Dehua Song, Stamatios Lefkimmiatis*
+
+#### Longuet-Higgins Prize (Test of Time):
+* Online Object Tracking: A Benchmark (CVPR 2013) 
+[[Paper](https://faculty.ucmerced.edu/mhyang/papers/cvpr13_benchmark.pdf)]<br>
+*Authors: Yi Wu, Jongwoo Lim, Ming-Hsuan Yang*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Best Papers 2022 [[Best Papers](https://cvpr2022.thecvf.com/cvpr-2022-paper-awards)] [[All Papers](https://openaccess.thecvf.com/CVPR2022)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -110,6 +150,11 @@ This repository contains the recent best or outstanding papers in contemporary t
 * Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Verbin_Ref-NeRF_Structured_View-Dependent_Appearance_for_Neural_Radiance_Fields_CVPR_2022_paper.pdf)]<br>
 *Authors: Dor Verbin, Peter Hedman, Ben Mildenhall, Todd Zickler, Jonathan Barron, Pratul Srinivasan*
+
+#### Longuet-Higgins Prize (Test of Time):
+* Are We Ready for Autonomous Driving? The KITTI Vision Benchmark Suite (CVPR 2012) 
+[[Paper](https://www.cvlibs.net/publications/Geiger2012CVPR.pdf)]<br>
+*Authors: Andreas Geiger, Philip Lenz, Raquel Urtasun*
 
 ### Best Papers 2021 [[Best Papers](https://cvpr2021.thecvf.com/node/329)] [[All Papers](https://openaccess.thecvf.com/CVPR2021)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -146,6 +191,14 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Lin_Real-Time_High-Resolution_Background_Matting_CVPR_2021_paper.html)]<br>
 *Authors: Shanchuan Lin, Andrey Ryabtsev, Soumyadip Sengupta, Brian Curless, Steve Seitz, Ira Kemelmacher-Shlizerman*
 
+#### Longuet-Higgins Prize (Test of Time):
+* Real-time human pose recognition in parts from single depth image (CVPR 2011) 
+[[Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/BodyPartRecognition.pdf)]<br>
+*Authors: Jamie Shotton, Andrew Fitzgibbon, Mat Cook, Toby Sharp, Mark Finocchio, Richard Moore, Alex Kipman, Andrew Blake*
+
+* Baby talk: Understanding and generating simple image descriptions (CVPR 2011) 
+[[Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/BodyPartRecognition.pdf)]<br>
+*Authors: Girish Kulkarni, Visruth Premraj, Sagnik Dhar, Siming Li, Yejin Choi, Alexander C Berg, Tamara L Berg*
 
 ### Best Papers 2020 [[Best Papers](https://cvpr2020.thecvf.com/node/817)] [[All Papers](https://openaccess.thecvf.com/CVPR2020)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -166,6 +219,11 @@ This repository contains the recent best or outstanding papers in contemporary t
 * DeepCap: Monocular Human Performance Capture  Using Weak Supervision (CVPR 2020) 
 [[Paper](https://arxiv.org/abs/2003.08325v1)]<br>
 *Authors: Marc Habermann (Max Planck Institute for Informatics)*;  Weipeng Xu (MPII);  Michael Zollhöfer (Facebook Reality Labs);  Gerard Pons-Moll (MPII, Germany);   Christian Theobalt (MPI Informatik)*
+
+#### Longuet-Higgins Prize (Test of Time):
+* Secrets of Optical Flow Estimation and Their Principles (CVPR 2010) 
+[[Paper](https://cs.brown.edu/people/dqsun/pubs/cvpr_2010_flow.pdf)]<br>
+*Authors: Deqing Sun, Stefan Roth, Michael J. Black*
 
 ### Best Papers 2019 [[Best Papers](https://cvpr2019.thecvf.com/program/main_conference#awards)] [[All Papers](https://openaccess.thecvf.com/CVPR2019)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -188,6 +246,11 @@ This repository contains the recent best or outstanding papers in contemporary t
 * Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation (CVPR 2019) 
 [[Paper](https://arxiv.org/abs/1811.10092v2)]<br>
 *Authors: Xin Wang, Qiuyuan Huang, Asli Celikyilmaz, Jianfeng Gao, Dinghan Shen, Yuan-Fang Wang, William Yang Wang and Lei Zhang*
+
+#### Longuet-Higgins Prize (Test of Time):
+* ImageNet: A large-scale hierarchical image database (CVPR 2009) 
+[[Paper](https://www.image-net.org/static_files/papers/imagenet_cvpr09.pdf)]<br>
+*Authors: Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li and Li Fei-Fei*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Best Papers 2018 [[Best Papers](https://medium.com/syncedreview/cvpr-2018-kicks-off-best-papers-announced-d3361bcc6984)] [[All Papers](https://openaccess.thecvf.com/CVPR2018)]
@@ -220,6 +283,11 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://arxiv.org/pdf/1801.01615.pdf)]<br>
 *Authors: Hanbyul Joo, Tomas Simon, Yaser Sheikh*
 
+#### Longuet-Higgins Prize (Test of Time):
+* A Discriminatively Trained, Multiscale, Deformable Part Model (CVPR 2008) 
+[[Paper](https://cs.brown.edu/people/pfelzens/papers/latent.pdf)]<br>
+*Authors: Pedro Felzenszwalb, David McAllester, Deva Ramanan*
+
 ### Best Papers 2017 [[Best Papers](https://cvpr2017.thecvf.com/program/main_conference#cvpr2017_awards)] [[All Papers](https://openaccess.thecvf.com/CVPR2017)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -246,6 +314,15 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://ieeexplore.ieee.org/document/8099737)]<br>
 *Authors: Mark Sheinin, Yoav Y. Schechner, & Kiriakos N. Kutulakos*
 
+#### Longuet-Higgins Prize (Test of Time):
+* Accurate, Dense, and Robust Multi-View Stereopsis (CVPR 2007) 
+[[Paper](https://ieeexplore.ieee.org/document/5226635)]<br>
+*Authors: Yasutaka Furukawa, Jean Ponce*
+
+* Object Retrieval with Large Vocabularies and Fast Spatial Matching (CVPR 2007) 
+[[Paper](https://ieeexplore.ieee.org/document/4270197)]<br>
+*Authors: James Philbin, Ondrej Chum, Michael Isard, Josef Sivic, Andrew Zisserman*
+
 ### Best Papers 2016 [[Best Papers](https://cvpr2016.thecvf.com/)] [[All Papers](https://openaccess.thecvf.com/CVPR2016)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -264,6 +341,16 @@ This repository contains the recent best or outstanding papers in contemporary t
 * Structural-RNN: Deep Learning on Spatio-Temporal Graphs (CVPR 2016) 
 [[Paper](https://arxiv.org/abs/1511.05298)]<br>
 *Authors: Ashesh Jain, Amir R. Zamir, Silvio Savarese, Ashutosh Saxena*
+
+#### Longuet-Higgins Prize (Test of Time):
+* Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories (CVPR 2006) 
+[[Paper](https://ieeexplore.ieee.org/document/1641019)]<br>
+*Authors: S. Lazebnik, C. Schmid, J. Ponce*
+
+* Scalable Recognition with a Vocabulary Tree (CVPR 2006) 
+[[Paper](https://ieeexplore.ieee.org/document/1641018)]<br>
+*Authors: D. Nister, H. Stewenius*
+
 
 ### Best Papers 2015 [[Best Papers](https://www.thecvf.com/?page_id=413#CVPRBest)] [[All Papers](https://openaccess.thecvf.com/CVPR2015)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -291,6 +378,14 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Kar_Category-Specific_Object_Reconstruction_2015_CVPR_paper.pdf)]<br>
 *Authors: Abhishek Kar, Shubham Tulsiani, Joao Carreira, Jitendra Malik*
 
+#### Longuet-Higgins Prize (Test of Time):
+* Histograms of oriented gradients for human detection (CVPR 2005) 
+[[Paper](https://ieeexplore.ieee.org/document/1467360)]<br>
+*Authors: N. Dalal, B. Triggs*
+
+* A non-local algorithm for image denoising (CVPR 2005) 
+[[Paper](https://ieeexplore.ieee.org/document/1467423)]<br>
+*Authors: A. Buades, B. Coll, J.-M. Morel*
 
 ### Best Papers 2014 [[Best Papers](https://www.thecvf.com/?page_id=413#CVPRBest)] [[All Papers](https://openaccess.thecvf.com/CVPR2014)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -311,6 +406,11 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Swoboda_Partial_Optimality_by_2014_CVPR_paper.pdf)]<br>
 *Authors: Paul Swoboda, Bogdan Savchynskyy, Jorg H. Kappes, Christoph Schnorr*
 
+#### Longuet-Higgins Prize (Test of Time):
+* A performance evaluation of local descriptors (CVPR 2004) 
+[[Paper](https://ieeexplore.ieee.org/document/1498756)]<br>
+*Authors: K. Mikolajczyk, C. Schmid*
+
 ### Best Papers 2013 [[Best Papers](https://www.thecvf.com/?page_id=413#CVPRBest)] [[All Papers](https://openaccess.thecvf.com/CVPR2013)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -329,6 +429,10 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2013/papers/Schmidt_Discriminative_Non-blind_Deblurring_2013_CVPR_paper.pdf)]<br>
 *Authors: Uwe Schmidt, Carsten Rother, Sebastian Nowozin, Jeremy Jancsary, Stefan Roth*
 
+#### Longuet-Higgins Prize (Test of Time):
+* Object Class Recognition by Unsupervised Scale-Invariant Learning (CVPR 2003) 
+[[Paper](https://ieeexplore.ieee.org/document/1211479)]<br>
+*Authors: R. Fergus, P. Perona, A. Zisserman*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ICLR
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
