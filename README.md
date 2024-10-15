@@ -3,7 +3,7 @@ This repository contains the recent best or outstanding papers in contemporary t
 
 
 ## Contents
-- [Test of Time](#Test_of_Time_Papers)
+- [Test of Time](#Test-of-Time-Papers)
 - [CVPR (2013-2024)](#CVPR)
 - [ICLR (2016-2024)](#ICLR)
 - [NeurIPS (2013-2023)](#NeurIPS)
