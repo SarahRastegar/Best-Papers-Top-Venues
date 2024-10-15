@@ -3,7 +3,6 @@ This repository contains the recent best or outstanding papers in contemporary t
 
 
 ## Contents
-- [Test of Time](#Test-of-Time-Papers)
 - [CVPR (2013-2024)](#CVPR)
 - [ICLR (2016-2024)](#ICLR)
 - [NeurIPS (2013-2023)](#NeurIPS)
@@ -13,6 +12,7 @@ This repository contains the recent best or outstanding papers in contemporary t
 - [AAAI (2020-2024)](#AAAI)
 - [WACV (2020-2024)](#WACV)
 - [BMVC (2020-2022)](#BMVC)
+- [Test of Time Papers](#Test-of-Time-Papers)
 
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
