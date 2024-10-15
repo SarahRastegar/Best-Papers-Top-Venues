@@ -14,174 +14,6 @@ This repository contains the recent best or outstanding papers in contemporary t
 - [WACV (2020-2024)](#WACV)
 - [BMVC (2020-2022)](#BMVC)
 
-<!----------------------------------------------------------------------------------------------------------------------------------------------->
-## Test of Time Papers
-<!----------------------------------------------------------------------------------------------------------------------------------------------->
-### CVPR
-
-* Rich feature hierarchies for accurate object detection and semantic segmentation (CVPR 2014) 
-[[Paper](https://arxiv.org/abs/1311.2524)]<br>
-*Authors: Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik*
-
-* Online Object Tracking: A Benchmark (CVPR 2013) 
-[[Paper](https://faculty.ucmerced.edu/mhyang/papers/cvpr13_benchmark.pdf)]<br>
-*Authors: Yi Wu, Jongwoo Lim, Ming-Hsuan Yang*
-
-* Are We Ready for Autonomous Driving? The KITTI Vision Benchmark Suite (CVPR 2012) 
-[[Paper](https://www.cvlibs.net/publications/Geiger2012CVPR.pdf)]<br>
-*Authors: Andreas Geiger, Philip Lenz, Raquel Urtasun*
-
-* Real-time human pose recognition in parts from single depth image (CVPR 2011) 
-[[Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/BodyPartRecognition.pdf)]<br>
-*Authors: Jamie Shotton, Andrew Fitzgibbon, Mat Cook, Toby Sharp, Mark Finocchio, Richard Moore, Alex Kipman, Andrew Blake*
-
-* Baby talk: Understanding and generating simple image descriptions (CVPR 2011) 
-[[Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/BodyPartRecognition.pdf)]<br>
-*Authors: Girish Kulkarni, Visruth Premraj, Sagnik Dhar, Siming Li, Yejin Choi, Alexander C Berg, Tamara L Berg*
-
-* Secrets of Optical Flow Estimation and Their Principles (CVPR 2010) 
-[[Paper](https://cs.brown.edu/people/dqsun/pubs/cvpr_2010_flow.pdf)]<br>
-*Authors: Deqing Sun, Stefan Roth, Michael J. Black*
-
-* ImageNet: A large-scale hierarchical image database (CVPR 2009) 
-[[Paper](https://www.image-net.org/static_files/papers/imagenet_cvpr09.pdf)]<br>
-*Authors: Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li and Li Fei-Fei*
-
-* A Discriminatively Trained, Multiscale, Deformable Part Model (CVPR 2008) 
-[[Paper](https://cs.brown.edu/people/pfelzens/papers/latent.pdf)]<br>
-*Authors: Pedro Felzenszwalb, David McAllester, Deva Ramanan*
-
-* Accurate, Dense, and Robust Multi-View Stereopsis (CVPR 2007) 
-[[Paper](https://ieeexplore.ieee.org/document/5226635)]<br>
-*Authors: Yasutaka Furukawa, Jean Ponce*
-
-* Object Retrieval with Large Vocabularies and Fast Spatial Matching (CVPR 2007) 
-[[Paper](https://ieeexplore.ieee.org/document/4270197)]<br>
-*Authors: James Philbin, Ondrej Chum, Michael Isard, Josef Sivic, Andrew Zisserman*
-
-* Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories (CVPR 2006) 
-[[Paper](https://ieeexplore.ieee.org/document/1641019)]<br>
-*Authors: S. Lazebnik, C. Schmid, J. Ponce*
-
-* Scalable Recognition with a Vocabulary Tree (CVPR 2006) 
-[[Paper](https://ieeexplore.ieee.org/document/1641018)]<br>
-*Authors: D. Nister, H. Stewenius*
-
-* Histograms of oriented gradients for human detection (CVPR 2005) 
-[[Paper](https://ieeexplore.ieee.org/document/1467360)]<br>
-*Authors: N. Dalal, B. Triggs*
-
-* A non-local algorithm for image denoising (CVPR 2005) 
-[[Paper](https://ieeexplore.ieee.org/document/1467423)]<br>
-*Authors: A. Buades, B. Coll, J.-M. Morel*
-
-* A performance evaluation of local descriptors (CVPR 2004) 
-[[Paper](https://ieeexplore.ieee.org/document/1498756)]<br>
-*Authors: K. Mikolajczyk, C. Schmid*
-
-* Object Class Recognition by Unsupervised Scale-Invariant Learning (CVPR 2003) 
-[[Paper](https://ieeexplore.ieee.org/document/1211479)]<br>
-*Authors: R. Fergus, P. Perona, A. Zisserman*
-
-### ICLR
-* Auto-Encoding Variational Bayes (ICLR 2014) 
-[[Paper](https://arxiv.org/abs/1312.6114)]<br>
-*Authors: Diederik Kingma, Max Welling*
-
-* Intriguing properties of neural networks (ICLR 2014) 
-[[Paper](https://arxiv.org/abs/1312.6199)]<br>
-*Authors: Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus*
-
-### NeurIPS
-* Distributed Representations of Words and Phrases and their Compositionality (NeurIPS 2013) 
-[[Paper](https://papers.nips.cc/paper_files/paper/2013/hash/9aa42b31882ec039965f3c4923ce901b-Abstract.html)]<br>
-*Authors: Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean*
-
-* ImageNet Classification with Deep Convolutional Neural Networks (NeurIPS 2012) 
-[[Paper](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)]<br>
-*Authors: Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton*
-
-* HOGWILD!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent (NeurIPS 2011) 
-[[Paper](https://arxiv.org/abs/1106.5730)]<br>
-*Authors: Benjamin Recht, Christopher Re, Stephen Wright, Feng Niu*
-
-* Online Learning for Latent Dirichlet Allocation (NeurIPS 2010) 
-[[Paper](https://proceedings.neurips.cc/paper/2010/file/71f6278d140af599e06ad9bf1ba03cb0-Paper.pdf)]<br>
-*Authors: Matthew Hoffman, David Blei, and Francis Bach*
-
-* Dual Averaging Method for Regularized Stochastic Learning and Online Optimization (NeurIPS 2009) 
-[[Paper](https://papers.nips.cc/paper/3882-dual-averaging-method-for-regularized-stochastic-learning-and-online-optimization.pdf)]<br>
-*Authors: Lin Xiao*
-
-* The Trade-Offs of Large Scale Learning (NeurIPS 2007) 
-[[Paper](https://leon.bottou.org/publications/pdf/nips-2007.pdf)]<br>
-*Authors: Leon Bottou, Olivier Bousquet*
-
-* Random Features for Large-Scale Kernel Machines (NeurIPS 2007) 
-[[Paper](https://papers.nips.cc/paper_files/paper/2007/hash/013a006f03dbc5392effeb8f18fda755-Abstract.html)]<br>
-*Authors: Ali Rahimi, Benjamin Recht*
-
-### ICCV
-
-* Action Recognition With Improved Trajectories (ICCV 2013) 
-[[Paper](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Wang_Action_Recognition_with_2013_ICCV_paper.pdf)]<br>
-*Authors: H. Wang and C. Schmid*
-
-* ORB: An efficient alternative to SIFT or SURF (ICCV 2011) 
-[[Paper](https://ieeexplore.ieee.org/document/6126544)]<br>
-*Authors: E. Rublee, V. Rabaud, K. Konolige, G. Bradski*
-
-* HMDB: A large video database for human motion recognition (ICCV 2011) 
-[[Paper](https://ieeexplore.ieee.org/document/6126543)]<br>
-*Authors: H. Kuehne, H. Jhuang, E. Garrote, T. Poggio, T. Serre*
-
-* DTAM: Dense tracking and mapping in real-time (ICCV 2011) 
-[[Paper](https://ieeexplore.ieee.org/document/6126513)]<br>
-*Authors: R. Newcombe, S. Lovegrove, A. Davison*
-
-* Building Rome in a Day (ICCV 2009) 
-[[Paper](https://ieeexplore.ieee.org/document/5459148)]<br>
-*Authors: S. Agarwal, N. Snavely, I. Simon, S. M. Seitz, R. Szeliski*
-
-* Attribute and Simile Classifiers for Face Verification (ICCV 2009) 
-[[Paper](https://ieeexplore.ieee.org/document/5459250)]<br>
-*Authors: N. Kumar, A. C. Berg, P. N. Belhumeur, S. K. Nayar*
-
-* Discovering objects and their location in images (ICCV 2005) 
-[[Paper](https://ieeexplore.ieee.org/document/1541280)]<br>
-*Authors: J. Sivic, B. Russell, A. Efros, A. Zisserman, and W. Freeman*
-
-* The pyramid match kernel: Discriminative classification with sets of image features (ICCV 2005) 
-[[Paper](https://ieeexplore.ieee.org/document/1544890)]<br>
-*Authors: K. Grauman and T. Darrell*
-
-* Actions as space-time shapes (ICCV 2005) 
-[[Paper](https://ieeexplore.ieee.org/document/1544882)]<br>
-*Authors: M. Blank, L. Gorelick, E. Shechtman, M. Irani, and R. Basri*
-
-* Space-time interest points (ICCV 2003) 
-[[Paper](https://ieeexplore.ieee.org/document/1238378)]<br>
-*Authors: I. Laptev and T. Lindeberg*
-
-* Recognizing action at a distance (ICCV 2003) 
-[[Paper](https://ieeexplore.ieee.org/document/1238420)]<br>
-*Authors: A. Efros, A. Berg, G. Mori, J. Malik*
-
-* Video Google: A text retrieval approach to object matching in videos (ICCV 2003) 
-[[Paper](https://ieeexplore.ieee.org/document/1238663)]<br>
-*Authors: J. Sivic and A. Zisserman*
-
-* Recognising panoramas (ICCV 2003) 
-[[Paper](https://ieeexplore.ieee.org/document/1238630)]<br>
-*Authors: M. Brown and D. Lowe*
-
-* A Database of Human Segmented Natural Images and Its Application to Evaluating Segmentation Algorithms and Measuring Ecological Statistics (ICCV 2001) 
-[[Paper](https://ieeexplore.ieee.org/document/937655)]<br>
-*Authors: D. Martin, C. Fowlkes, D. Tal, J. Malik*
-
-* Matching Shapes (ICCV 2001) 
-[[Paper](https://ieeexplore.ieee.org/abstract/document/937552)]<br>
-*Authors: S. Belongie, J. Malik, J. Puzicha*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## CVPR 
@@ -2257,6 +2089,176 @@ This repository contains the recent best or outstanding papers in contemporary t
 * Weakly-supervised Salient Instance Detection (BMVC 2020) 
 [[Paper](https://www.bmvc2020-conference.com/conference/papers/paper_0430.html)]<br>
 *Authors: Xin Tian, Ke Xu, Xin Yang, Baocai Yin and Rynson Lau*
+
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+## Test of Time Papers
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### CVPR
+
+* Rich feature hierarchies for accurate object detection and semantic segmentation (CVPR 2014) 
+[[Paper](https://arxiv.org/abs/1311.2524)]<br>
+*Authors: Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik*
+
+* Online Object Tracking: A Benchmark (CVPR 2013) 
+[[Paper](https://faculty.ucmerced.edu/mhyang/papers/cvpr13_benchmark.pdf)]<br>
+*Authors: Yi Wu, Jongwoo Lim, Ming-Hsuan Yang*
+
+* Are We Ready for Autonomous Driving? The KITTI Vision Benchmark Suite (CVPR 2012) 
+[[Paper](https://www.cvlibs.net/publications/Geiger2012CVPR.pdf)]<br>
+*Authors: Andreas Geiger, Philip Lenz, Raquel Urtasun*
+
+* Real-time human pose recognition in parts from single depth image (CVPR 2011) 
+[[Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/BodyPartRecognition.pdf)]<br>
+*Authors: Jamie Shotton, Andrew Fitzgibbon, Mat Cook, Toby Sharp, Mark Finocchio, Richard Moore, Alex Kipman, Andrew Blake*
+
+* Baby talk: Understanding and generating simple image descriptions (CVPR 2011) 
+[[Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/BodyPartRecognition.pdf)]<br>
+*Authors: Girish Kulkarni, Visruth Premraj, Sagnik Dhar, Siming Li, Yejin Choi, Alexander C Berg, Tamara L Berg*
+
+* Secrets of Optical Flow Estimation and Their Principles (CVPR 2010) 
+[[Paper](https://cs.brown.edu/people/dqsun/pubs/cvpr_2010_flow.pdf)]<br>
+*Authors: Deqing Sun, Stefan Roth, Michael J. Black*
+
+* ImageNet: A large-scale hierarchical image database (CVPR 2009) 
+[[Paper](https://www.image-net.org/static_files/papers/imagenet_cvpr09.pdf)]<br>
+*Authors: Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li and Li Fei-Fei*
+
+* A Discriminatively Trained, Multiscale, Deformable Part Model (CVPR 2008) 
+[[Paper](https://cs.brown.edu/people/pfelzens/papers/latent.pdf)]<br>
+*Authors: Pedro Felzenszwalb, David McAllester, Deva Ramanan*
+
+* Accurate, Dense, and Robust Multi-View Stereopsis (CVPR 2007) 
+[[Paper](https://ieeexplore.ieee.org/document/5226635)]<br>
+*Authors: Yasutaka Furukawa, Jean Ponce*
+
+* Object Retrieval with Large Vocabularies and Fast Spatial Matching (CVPR 2007) 
+[[Paper](https://ieeexplore.ieee.org/document/4270197)]<br>
+*Authors: James Philbin, Ondrej Chum, Michael Isard, Josef Sivic, Andrew Zisserman*
+
+* Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories (CVPR 2006) 
+[[Paper](https://ieeexplore.ieee.org/document/1641019)]<br>
+*Authors: S. Lazebnik, C. Schmid, J. Ponce*
+
+* Scalable Recognition with a Vocabulary Tree (CVPR 2006) 
+[[Paper](https://ieeexplore.ieee.org/document/1641018)]<br>
+*Authors: D. Nister, H. Stewenius*
+
+* Histograms of oriented gradients for human detection (CVPR 2005) 
+[[Paper](https://ieeexplore.ieee.org/document/1467360)]<br>
+*Authors: N. Dalal, B. Triggs*
+
+* A non-local algorithm for image denoising (CVPR 2005) 
+[[Paper](https://ieeexplore.ieee.org/document/1467423)]<br>
+*Authors: A. Buades, B. Coll, J.-M. Morel*
+
+* A performance evaluation of local descriptors (CVPR 2004) 
+[[Paper](https://ieeexplore.ieee.org/document/1498756)]<br>
+*Authors: K. Mikolajczyk, C. Schmid*
+
+* Object Class Recognition by Unsupervised Scale-Invariant Learning (CVPR 2003) 
+[[Paper](https://ieeexplore.ieee.org/document/1211479)]<br>
+*Authors: R. Fergus, P. Perona, A. Zisserman*
+
+### ICLR
+* Auto-Encoding Variational Bayes (ICLR 2014) 
+[[Paper](https://arxiv.org/abs/1312.6114)]<br>
+*Authors: Diederik Kingma, Max Welling*
+
+* Intriguing properties of neural networks (ICLR 2014) 
+[[Paper](https://arxiv.org/abs/1312.6199)]<br>
+*Authors: Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus*
+
+### NeurIPS
+* Distributed Representations of Words and Phrases and their Compositionality (NeurIPS 2013) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2013/hash/9aa42b31882ec039965f3c4923ce901b-Abstract.html)]<br>
+*Authors: Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean*
+
+* ImageNet Classification with Deep Convolutional Neural Networks (NeurIPS 2012) 
+[[Paper](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)]<br>
+*Authors: Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton*
+
+* HOGWILD!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent (NeurIPS 2011) 
+[[Paper](https://arxiv.org/abs/1106.5730)]<br>
+*Authors: Benjamin Recht, Christopher Re, Stephen Wright, Feng Niu*
+
+* Online Learning for Latent Dirichlet Allocation (NeurIPS 2010) 
+[[Paper](https://proceedings.neurips.cc/paper/2010/file/71f6278d140af599e06ad9bf1ba03cb0-Paper.pdf)]<br>
+*Authors: Matthew Hoffman, David Blei, and Francis Bach*
+
+* Dual Averaging Method for Regularized Stochastic Learning and Online Optimization (NeurIPS 2009) 
+[[Paper](https://papers.nips.cc/paper/3882-dual-averaging-method-for-regularized-stochastic-learning-and-online-optimization.pdf)]<br>
+*Authors: Lin Xiao*
+
+* The Trade-Offs of Large Scale Learning (NeurIPS 2007) 
+[[Paper](https://leon.bottou.org/publications/pdf/nips-2007.pdf)]<br>
+*Authors: Leon Bottou, Olivier Bousquet*
+
+* Random Features for Large-Scale Kernel Machines (NeurIPS 2007) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2007/hash/013a006f03dbc5392effeb8f18fda755-Abstract.html)]<br>
+*Authors: Ali Rahimi, Benjamin Recht*
+
+### ICCV
+
+* Action Recognition With Improved Trajectories (ICCV 2013) 
+[[Paper](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Wang_Action_Recognition_with_2013_ICCV_paper.pdf)]<br>
+*Authors: H. Wang and C. Schmid*
+
+* ORB: An efficient alternative to SIFT or SURF (ICCV 2011) 
+[[Paper](https://ieeexplore.ieee.org/document/6126544)]<br>
+*Authors: E. Rublee, V. Rabaud, K. Konolige, G. Bradski*
+
+* HMDB: A large video database for human motion recognition (ICCV 2011) 
+[[Paper](https://ieeexplore.ieee.org/document/6126543)]<br>
+*Authors: H. Kuehne, H. Jhuang, E. Garrote, T. Poggio, T. Serre*
+
+* DTAM: Dense tracking and mapping in real-time (ICCV 2011) 
+[[Paper](https://ieeexplore.ieee.org/document/6126513)]<br>
+*Authors: R. Newcombe, S. Lovegrove, A. Davison*
+
+* Building Rome in a Day (ICCV 2009) 
+[[Paper](https://ieeexplore.ieee.org/document/5459148)]<br>
+*Authors: S. Agarwal, N. Snavely, I. Simon, S. M. Seitz, R. Szeliski*
+
+* Attribute and Simile Classifiers for Face Verification (ICCV 2009) 
+[[Paper](https://ieeexplore.ieee.org/document/5459250)]<br>
+*Authors: N. Kumar, A. C. Berg, P. N. Belhumeur, S. K. Nayar*
+
+* Discovering objects and their location in images (ICCV 2005) 
+[[Paper](https://ieeexplore.ieee.org/document/1541280)]<br>
+*Authors: J. Sivic, B. Russell, A. Efros, A. Zisserman, and W. Freeman*
+
+* The pyramid match kernel: Discriminative classification with sets of image features (ICCV 2005) 
+[[Paper](https://ieeexplore.ieee.org/document/1544890)]<br>
+*Authors: K. Grauman and T. Darrell*
+
+* Actions as space-time shapes (ICCV 2005) 
+[[Paper](https://ieeexplore.ieee.org/document/1544882)]<br>
+*Authors: M. Blank, L. Gorelick, E. Shechtman, M. Irani, and R. Basri*
+
+* Space-time interest points (ICCV 2003) 
+[[Paper](https://ieeexplore.ieee.org/document/1238378)]<br>
+*Authors: I. Laptev and T. Lindeberg*
+
+* Recognizing action at a distance (ICCV 2003) 
+[[Paper](https://ieeexplore.ieee.org/document/1238420)]<br>
+*Authors: A. Efros, A. Berg, G. Mori, J. Malik*
+
+* Video Google: A text retrieval approach to object matching in videos (ICCV 2003) 
+[[Paper](https://ieeexplore.ieee.org/document/1238663)]<br>
+*Authors: J. Sivic and A. Zisserman*
+
+* Recognising panoramas (ICCV 2003) 
+[[Paper](https://ieeexplore.ieee.org/document/1238630)]<br>
+*Authors: M. Brown and D. Lowe*
+
+* A Database of Human Segmented Natural Images and Its Application to Evaluating Segmentation Algorithms and Measuring Ecological Statistics (ICCV 2001) 
+[[Paper](https://ieeexplore.ieee.org/document/937655)]<br>
+*Authors: D. Martin, C. Fowlkes, D. Tal, J. Malik*
+
+* Matching Shapes (ICCV 2001) 
+[[Paper](https://ieeexplore.ieee.org/abstract/document/937552)]<br>
+*Authors: S. Belongie, J. Malik, J. Puzicha*
 
 #### Best Industry Paper:
 * A CNN Based Approach for the Near-Field Photometric Stereo Problem (BMVC 2020) 
