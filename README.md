@@ -1511,6 +1511,16 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://arxiv.org/abs/2403.04482)]<br>
 *Authors: Junwei Su, Chuan Wu*
 
+#### Koenderink Prize (Test of Time):
+* Microsoft COCO: Common Objects in Context (ECCV 2014) 
+[[Paper](https://arxiv.org/abs/1405.0312)]<br>
+*Authors: Tsung-Yi Lin, Michael Maire, Serge Belongie, Lubomir Bourdev, Ross Girshick, James Hays, Pietro Perona, Deva Ramanan, C. Lawrence Zitnick, Piotr Dollár*
+
+* LSD-SLAM: Large-Scale Direct Monocular SLAM (ECCV 2014) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-319-10605-2_54)]<br>
+*Authors: Jakob Engel, Thomas Schöps, Daniel Cremers*
+
+
 ### Best Papers 2022 [[Best Papers](https://eccv2022.ecva.net/files/2022/10/ECCV22-Awards.pdf)] [[All Papers](https://www.ecva.net/papers.php)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -1528,6 +1538,15 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://arxiv.org/abs/2204.07159)]<br>
 *Authors: Ishit Mehta, Manmohan Chandraker, Ravi Ramamoorthi*
 
+#### Koenderink Prize (Test of Time):
+* A Naturalistic Open Source Movie for Optical Flow Evaluation (ECCV 2012) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-642-33783-3_44)]<br>
+*Authors: D. Butler, J. Wulff, G.Stanley, M. Black*
+
+* Indoor Segmentation and Support Inference from RGBD Images (ECCV 2012) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-642-33715-4_54)]<br>
+*Authors: N. Silberman, D. Hoiem, P. Kohli, R. Fergus*
+
 ### Best Papers 2020 [[Best Papers](https://eccv2020.eu/awards/)] [[All Papers](https://www.ecva.net/papers.php)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -1544,6 +1563,15 @@ This repository contains the recent best or outstanding papers in contemporary t
 * NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (ECCV 2020) 
 [[Paper](https://arxiv.org/abs/2003.08934)]<br>
 *Authors: Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng*
+
+#### Koenderink Prize (Test of Time):
+* Improving the Fisher Kernel for Large-Scale Image Classification (ECCV 2010) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-642-15561-1_11)]<br>
+*Authors: F. Perronnin, J. Sánchez, T. Mensink*
+
+* Brief: Binary Robust Independent Elementary Features (ECCV 2010) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-642-15561-1_56)]<br>
+*Authors: M. Calonder, V. Lepetit, C. Strecha, P. Fua*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### Best Papers 2018 [[Best Papers](https://eccv2018.org/news/eccv-awards/)] [[All Papers](https://www.ecva.net/papers.php)]
@@ -1563,6 +1591,15 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://arxiv.org/abs/1807.09251)]<br>
 *Authors: Albert Pumarola, Antonio Agudo, Aleix M. Martinez, Alberto Sanfeliu, Francesco Moreno-Noguer*
 
+#### Koenderink Prize (Test of Time):
+* Hamming Embedding and Weak Geometric Consistency for Large Scale Image Search (ECCV 2008) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-540-88682-2_24)]<br>
+*Authors: H. Jegou, M. Douze, and C. Schmid*
+
+* Semi-supervised On-Line Boosting for Robust Tracking (ECCV 2008) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-540-88682-2_19)]<br>
+*Authors: H. Grabner, C. Leistner, and H. Bischof*
+
 ### Best Papers 2016 [[Best Papers](https://www.thecvf.com/?page_id=413#CVPRBest)] [[All Papers](https://www.eccv2016.org/proceedings/)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -1576,6 +1613,14 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://arxiv.org/abs/1511.03296)]<br>
 *Authors: Jonathan T. Barron, Ben Poole*
 
+#### Koenderink Prize (Test of Time):
+* Surf: Speeded up robust features (ECCV 2006) 
+[[Paper](https://link.springer.com/chapter/10.1007/11744023_32)]<br>
+*Authors: H. Bay, T. Tuytelaars, L. Van Gool*
+
+* Machine learning for high-speed corner detection (ECCV 2006) 
+[[Paper](https://link.springer.com/chapter/10.1007/11744023_34)]<br>
+*Authors: E. Rosten, T. Drummond*
 
 ### Best Papers 2014 [[Best Papers](https://www.thecvf.com/?page_id=413#CVPRBest)] [[All Papers](https://link.springer.com/book/10.1007/978-3-319-10593-2)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1588,6 +1633,15 @@ This repository contains the recent best or outstanding papers in contemporary t
 * Scene Chronology (ECCV 2014) 
 [[Paper](http://www.cs.cornell.edu/~snavely/publications/matzen_eccv2014.pdf)]<br>
 *Authors: K. Matzen, N. Snavely*
+
+#### Koenderink Prize (Test of Time):
+* Face Recognition with Local Binary Patterns (ECCV 2004) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-540-24670-1_36)]<br>
+*Authors: T. Ahonen, A. Hadid, M. Pietikainen*
+
+* High Accuracy Optical Flow Estimation Based on a Theory for Warping (ECCV 2004) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-540-24673-2_3)]<br>
+*Authors: T. Brox, A. Bruhn, N. Papenberg, J. Weickert*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## AAAI
@@ -2310,3 +2364,55 @@ This repository contains the recent best or outstanding papers in contemporary t
 * On causal and anticausal learning (ICML 2012) 
 [[Paper](https://arxiv.org/abs/1206.6471)]<br>
 *Authors: Bernhard Schölkopf, Dominik Janzing, Jonas Peters, Eleni Sgouritsa, Kun Zhang, Joris Mooij*
+
+
+### ECCV
+
+* Microsoft COCO: Common Objects in Context (ECCV 2014) 
+[[Paper](https://arxiv.org/abs/1405.0312)]<br>
+*Authors: Tsung-Yi Lin, Michael Maire, Serge Belongie, Lubomir Bourdev, Ross Girshick, James Hays, Pietro Perona, Deva Ramanan, C. Lawrence Zitnick, Piotr Dollár*
+
+* LSD-SLAM: Large-Scale Direct Monocular SLAM (ECCV 2014) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-319-10605-2_54)]<br>
+*Authors: Jakob Engel, Thomas Schöps, Daniel Cremers*
+
+
+* A Naturalistic Open Source Movie for Optical Flow Evaluation (ECCV 2012) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-642-33783-3_44)]<br>
+*Authors: D. Butler, J. Wulff, G.Stanley, M. Black*
+
+* Indoor Segmentation and Support Inference from RGBD Images (ECCV 2012) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-642-33715-4_54)]<br>
+*Authors: N. Silberman, D. Hoiem, P. Kohli, R. Fergus*
+
+* Improving the Fisher Kernel for Large-Scale Image Classification (ECCV 2010) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-642-15561-1_11)]<br>
+*Authors: F. Perronnin, J. Sánchez, T. Mensink*
+
+* Brief: Binary Robust Independent Elementary Features (ECCV 2010) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-642-15561-1_56)]<br>
+*Authors: M. Calonder, V. Lepetit, C. Strecha, P. Fua*
+
+* Hamming Embedding and Weak Geometric Consistency for Large Scale Image Search (ECCV 2008) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-540-88682-2_24)]<br>
+*Authors: H. Jegou, M. Douze, and C. Schmid*
+
+* Semi-supervised On-Line Boosting for Robust Tracking (ECCV 2008) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-540-88682-2_19)]<br>
+*Authors: H. Grabner, C. Leistner, and H. Bischof*
+
+* Surf: Speeded up robust features (ECCV 2006) 
+[[Paper](https://link.springer.com/chapter/10.1007/11744023_32)]<br>
+*Authors: H. Bay, T. Tuytelaars, L. Van Gool*
+
+* Machine learning for high-speed corner detection (ECCV 2006) 
+[[Paper](https://link.springer.com/chapter/10.1007/11744023_34)]<br>
+*Authors: E. Rosten, T. Drummond*
+
+* Face Recognition with Local Binary Patterns (ECCV 2004) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-540-24670-1_36)]<br>
+*Authors: T. Ahonen, A. Hadid, M. Pietikainen*
+
+* High Accuracy Optical Flow Estimation Based on a Theory for Warping (ECCV 2004) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-540-24673-2_3)]<br>
+*Authors: T. Brox, A. Bruhn, N. Papenberg, J. Weickert*
