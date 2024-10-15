@@ -8,7 +8,7 @@ This repository contains the recent best or outstanding papers in contemporary t
 - [NeurIPS (2013-2023)](#NeurIPS)
 - [ICCV (2013-2023)](#ICCV)
 - [ICML (2018-2024)](#ICML)
-- [ECCV (2014-2022)](#ECCV)
+- [ECCV (2014-2024)](#ECCV)
 - [AAAI (2020-2024)](#AAAI)
 - [WACV (2020-2023)](#WACV)
 - [BMVC (2020-2022)](#BMVC)
@@ -1204,10 +1204,70 @@ This repository contains the recent best or outstanding papers in contemporary t
 ## ECCV
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
-### Best Papers 2024 [[Best Papers](https://eccv2024.ecva.net/virtual/2024/awards_detail)] [[All Papers](https://eccv2024.ecva.net/virtual/2024/papers.html?filter=titles)]
+### Best Papers 2024 [[Best Papers](https://x.com/eccvconf/status/1841008234573807653/photo/1)] [[All Papers](https://eccv2024.ecva.net/virtual/2024/papers.html?filter=titles)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### Best Paper Award:
+* Minimalist Vision with Freeform Pixels (ECCV 2024) 
+[[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08113.pdf)]<br>
+*Authors: Jeremy Klotz, Shree Nayar*
 
+#### Best Paper Honorable Mention Award:
+* Rasterized Edge Gradients: Handling Discontinuities Differentiably (ECCV 2024) 
+[[Paper](https://arxiv.org/abs/2405.02508)]<br>
+*Authors: Stanislav Pidhorskyi, Tomas Simon, Gabriel Schwartz, He Wen, Yaser Sheikh, Jason Saragih*
+
+* Concept Arithmetics for Circumventing Concept Inhibition in Diffusion Models (ECCV 2024) 
+[[Paper](https://arxiv.org/abs/2404.13706)]<br>
+*Authors: Vitali Petsiuk, Kate Saenko*
+
+#### Award Candidates:
+* Robust Fitting on a Gate Quantum Computer (ECCV 2024) 
+[[Paper](https://arxiv.org/abs/2409.02006)]<br>
+*Authors: Frances Fengyi Yang, Michele Sasdelli, Tat-Jun Chin*
+
+* Sapiens: Foundation for Human Vision Models (ECCV 2024) 
+[[Paper](https://arxiv.org/abs/2408.12569)]<br>
+*Authors: Rawal Khirodkar, Timur Bagautdinov, Julieta Martinez, Su Zhaoen, Austin James, Peter Selednik, Stuart Anderson, Shunsuke Saito*
+
+* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow (ECCV 2024) 
+[[Paper](https://arxiv.org/abs/2405.14793)]<br>
+*Authors: Yihan Wang, Lahav Lipson, Jia Deng*
+
+* Expanding Scene Graph Boundaries: Fully Open-vocabulary Scene Graph Generation via Visual-Concept Alignment and Retention (ECCV 2024) 
+[[Paper](https://arxiv.org/pdf/2311.10988)]<br>
+*Authors: Zuyao Chen, Jinlin Wu, Zhen Lei, Zhaoxiang Zhang, Chang Wen Chen*
+
+* Integer-Valued Training and Spike-driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection (ECCV 2024) 
+[[Paper](https://arxiv.org/abs/2407.20708)]<br>
+*Authors: Xinhao Luo, Man Yao, Yuhong Chou, Bo Xu, Guoqi Li*
+
+* Latent Diffusion Prior Enhanced Deep Unfolding for Snapshot Spectral Compressive Imaging (ECCV 2024) 
+[[Paper](https://arxiv.org/abs/2311.14280)]<br>
+*Authors: Zongliang Wu, Ruiying Lu, Ying Fu, Xin Yuan*
+
+* Efficient Bias Mitigation Without Privileged Information (ECCV 2024) 
+[[Paper](https://arxiv.org/abs/2409.17691)]<br>
+*Authors: Mateo Espinosa Zarlenga, Swami Sankaranarayanan, Jerone T. A. Andrews, Zohreh Shams, Mateja Jamnik, Alice Xiang*
+
+* PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology (ECCV 2024) 
+[[Paper](https://arxiv.org/abs/2401.16355)]<br>
+*Authors: Yuxuan Sun, Hao Wu, Chenglu Zhu, Sunyi Zheng, Qizi Chen, Kai Zhang, Yunlong Zhang, Dan Wan, Xiaoxiao Lan, Mengyue Zheng, Jingxiong Li, Xinheng Lyu, Tao Lin, Lin Yang*
+
+* PointLLM: Empowering Large Language Models to Understand Point Clouds (ECCV 2024) 
+[[Paper](https://arxiv.org/abs/2308.16911)]<br>
+*Authors: Runsen Xu, Xiaolong Wang, Tai Wang, Yilun Chen, Jiangmiao Pang, Dahua Lin*
+
+* LEGO: Learning EGOcentric Action Frame Generation via Visual Instruction Tuning (ECCV 2024) 
+[[Paper](https://arxiv.org/abs/2312.03849)]<br>
+*Authors: Bolin Lai, Xiaoliang Dai, Lawrence Chen, Guan Pang, James M Rehg, Miao Liu*
+
+* Controlling the World by Sleight of Hand (ECCV 2024) 
+[[Paper](https://arxiv.org/abs/2408.07147)]<br>
+*Authors: Sruthi Sudhakar, Ruoshi Liu, Basile Van Hoorick, Carl Vondrick, Richard Zemel*
+
+* On the Topology Awareness and Generalization Performance of Graph Neural Networks (ECCV 2024) 
+[[Paper](https://arxiv.org/abs/2403.04482)]<br>
+*Authors: Junwei Su, Chuan Wu*
 
 ### Best Papers 2022 [[Best Papers](https://eccv2022.ecva.net/files/2022/10/ECCV22-Awards.pdf)] [[All Papers](https://www.ecva.net/papers.php)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
