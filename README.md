@@ -10,7 +10,7 @@ This repository contains the recent best or outstanding papers in contemporary t
 - [ICML (2018-2024)](#ICML)
 - [ECCV (2014-2024)](#ECCV)
 - [AAAI (2020-2024)](#AAAI)
-- [WACV (2020-2023)](#WACV)
+- [WACV (2020-2024)](#WACV)
 - [BMVC (2020-2022)](#BMVC)
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
