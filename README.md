@@ -5,7 +5,7 @@ This repository contains the recent best or outstanding papers in contemporary t
 ## Contents
 - [CVPR (2013-2024)](#CVPR)
 - [ICLR (2016-2024)](#ICLR)
-- [NeurIPS (2013-2023)](#NeurIPS)
+- [NeurIPS (2013-2024)](#NeurIPS)
 - [ICCV (2013-2023)](#ICCV)
 - [ICML (2018-2024)](#ICML)
 - [ECCV (2014-2024)](#ECCV)
@@ -725,9 +725,36 @@ This repository contains the recent best or outstanding papers in contemporary t
 * Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding (ICLR 2016) 
 [[Paper](http://arxiv.org/abs/1510.00149)]<br>
 *Authors: Song Han, Huizi Mao, Bill Dally*
-<!----------------------------------------------------------------------------------------------------------------------------------------------->
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## NeurIPS
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Best Papers 2024 [[Best Papers](https://blog.neurips.cc/2024/12/10/announcing-the-neurips-2024-best-paper-awards/)] [[All Papers](https://openreview.net/group?id=NeurIPS.cc/2024/Conference)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+#### Best papers for the main track:
+* Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction (NeurIPS 2024) 
+[[Paper](https://openreview.net/forum?id=gojL67CfS8)]<br>
+*Authors: Keyu Tian, Yi Jiang, Zehuan Yuan, Bingyue Peng, Liwei Wang*
+
+* Stochastic Taylor Derivative Estimator: Efficient amortization for arbitrary differential operators (NeurIPS 2024) 
+[[Paper](https://openreview.net/forum?id=J2wI2rCG2u)]<br>
+*Authors: Zekun Shi, Zheyuan Hu, Min Lin, Kenji Kawaguchi*
+
+#### Runners ups for the main track:
+
+* Not All Tokens Are What You Need for Pretraining (NeurIPS 2024) 
+[[Paper](https://openreview.net/forum?id=0NMzBwqaAJ)]<br>
+*Authors: Zhenghao Lin, Zhibin Gou, Yeyun Gong, Xiao Liu, Yelong Shen, Ruochen Xu, Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan, Weizhu Chen*
+
+* Guiding a Diffusion Model with a Bad Version of Itself (NeurIPS 2024) 
+[[Paper](https://openreview.net/forum?id=bg6fVPVs3s)]<br>
+*Authors: Tero Karras, Miika Aittala, Tuomas Kynkäänniemi, Jaakko Lehtinen, Timo Aila, Samuli Laine*
+
+#### Best paper for Datasets & Benchmarks track:
+
+* The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models (NeurIPS 2024) 
+[[Paper](https://openreview.net/forum?id=DFr5hteojx#discussion)]<br>
+*Authors: Hannah Rose Kirk, Alexander Whitefield, Paul Röttger, Andrew Bean, Katerina Margatina, Juan Ciro, Rafael Mosquera, Max Bartolo, Adina Williams, He He, Bertie Vidgen, Scott A. Hale*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Outstanding Papers 2023 [[Best Papers](https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/)] [[All Papers](https://openreview.net/group?id=NeurIPS.cc/2023/Conference)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
