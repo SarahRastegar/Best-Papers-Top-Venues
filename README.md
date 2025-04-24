@@ -4,7 +4,7 @@ This repository contains the recent best or outstanding papers in contemporary t
 
 ## Contents
 - [CVPR (2013-2024)](#CVPR)
-- [ICLR (2016-2024)](#ICLR)
+- [ICLR (2016-2025)](#ICLR)
 - [NeurIPS (2013-2024)](#NeurIPS)
 - [ICCV (2013-2023)](#ICCV)
 - [ICML (2018-2024)](#ICML)
@@ -437,6 +437,32 @@ This repository contains the recent best or outstanding papers in contemporary t
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ICLR
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Outstanding Papers 2025 [[Best Papers](https://blog.iclr.cc/2025/04/22/announcing-the-outstanding-paper-awards-at-iclr-2025/)] [[All Papers](https://iclr.cc/virtual/2025/papers.html?filter=titles)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Safety Alignment Should be Made More Than Just a Few Tokens Deep (ICLR 2025) 
+[[Paper](https://openreview.net/forum?id=6Mxhg9PtDE)]<br>
+*Authors: Xiangyu Qi, Ashwinee Panda, Kaifeng Lyu, Xiao Ma, Subhrajit Roy, Ahmad Beirami, Prateek Mittal, Peter Henderson*
+
+* Learning Dynamics of LLM Finetuning (ICLR 2025) 
+[[Paper](https://openreview.net/forum?id=tPNHOoZFl9)]<br>
+*Authors: Yi Ren, Danica J. Sutherland*
+
+* AlphaEdit: Null-Space Constrained Model Editing for Language Models (ICLR 2025) 
+[[Paper](https://openreview.net/forum?id=HvSytvg3Jh)]<br>
+*Authors: Junfeng Fang, Houcheng Jiang, Kun Wang, Yunshan Ma, Jie Shi, Xiang Wang, Xiangnan He, Tat-Seng Chua*
+
+#### Outstanding Paper Honorable Mentions
+* Data Shapley in One Training Run (ICLR 2025) 
+[[Paper](https://openreview.net/forum?id=HD6bWcj87Y)]<br>
+*Authors: Jiachen T. Wang, Prateek Mittal, Dawn Song, Ruoxi Jia*
+
+* SAM 2: Segment Anything in Images and Videos (ICLR 2025) 
+[[Paper](https://openreview.net/forum?id=Ha6RTeWMd0)]<br>
+*Authors: Nikhila Ravi, Valentin Gabeur, Yuan-Ting Hu, Ronghang Hu, Chaitanya Ryali, Tengyu Ma, Haitham Khedr, Roman Rädle, Chloe Rolland, Laura Gustafson, Eric Mintun, Junting Pan, Kalyan Vasudev Alwala, Nicolas Carion, Chao-Yuan Wu, Ross Girshick, Piotr Dollar, Christoph Feichtenhofer*
+
+* Faster Cascades via Speculative Decoding (ICLR 2025) 
+[[Paper](https://openreview.net/forum?id=vo9t20wsmd)]<br>
+*Authors: Harikrishna Narasimhan, Wittawat Jitkrittum, Ankit Singh Rawat, Seungyeon Kim, Neha Gupta, Aditya Krishna Menon, Sanjiv Kumar*
 
 ### Outstanding Papers 2024 [[Best Papers](https://blog.iclr.cc/2024/05/06/iclr-2024-outstanding-paper-awards/)] [[All Papers](https://iclr.cc/virtual/2024/papers.html?filter=titles)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
