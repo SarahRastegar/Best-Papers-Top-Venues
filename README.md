@@ -464,6 +464,16 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://openreview.net/forum?id=vo9t20wsmd)]<br>
 *Authors: Harikrishna Narasimhan, Wittawat Jitkrittum, Ankit Singh Rawat, Seungyeon Kim, Neha Gupta, Aditya Krishna Menon, Sanjiv Kumar*
 
+#### Test of Time
+* Adam: A Method for Stochastic Optimization (ICLR 2015) 
+[[Paper](https://arxiv.org/abs/1412.6980)]<br>
+*Authors: Diederik P. Kingma, Jimmy Ba*
+
+#### Test of Time Runner Up
+* Neural Machine Translation by Jointly Learning to Align and Translate (ICLR 2015) 
+[[Paper](https://arxiv.org/abs/1409.0473)]<br>
+*Authors: Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio*
+
 ### Outstanding Papers 2024 [[Best Papers](https://blog.iclr.cc/2024/05/06/iclr-2024-outstanding-paper-awards/)] [[All Papers](https://iclr.cc/virtual/2024/papers.html?filter=titles)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 * Generalization in diffusion models arises from geometry-adaptive harmonic representations (ICLR 2024) 
@@ -2297,6 +2307,14 @@ This repository contains the recent best or outstanding papers in contemporary t
 *Authors: R. Fergus, P. Perona, A. Zisserman*
 
 ### ICLR
+* Adam: A Method for Stochastic Optimization (ICLR 2015) 
+[[Paper](https://arxiv.org/abs/1412.6980)]<br>
+*Authors: Diederik P. Kingma, Jimmy Ba*
+
+* Neural Machine Translation by Jointly Learning to Align and Translate (ICLR 2015) 
+[[Paper](https://arxiv.org/abs/1409.0473)]<br>
+*Authors: Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio*
+
 * Auto-Encoding Variational Bayes (ICLR 2014) 
 [[Paper](https://arxiv.org/abs/1312.6114)]<br>
 *Authors: Diederik Kingma, Max Welling*
