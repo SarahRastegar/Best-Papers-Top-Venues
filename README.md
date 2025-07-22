@@ -52,6 +52,14 @@ This repository contains the recent best or outstanding papers in contemporary t
 [[Paper](https://arxiv.org/abs/2504.14666)]<br>
 *Authors: Kaihang Pan, Wang Lin, Zhongqi Yue, Tenglong Ao, Liyu Jia, Wei Zhao, Juncheng Li, Siliang Tang, Hanwang Zhang*
 
+#### Longuet-Higgins Prize (Test of Time):
+* Going Deeper with Convolutions (CVPR 2015) 
+[[Paper](https://arxiv.org/abs/1409.4842)]<br>
+*Authors:  Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich*
+
+* Fully Convolutional Networks for Semantic Segmentation (CVPR 2015) 
+[[Paper](https://arxiv.org/abs/1411.4038)]<br>
+*Authors:  Jonathan Long, Evan Shelhamer, Trevor Darrell*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Best Papers 2024 [[Best Papers](https://www.computer.org/press-room/cvpr-2024-announces-best-paper-award-winners)] [[All Papers](https://openaccess.thecvf.com/CVPR2024)]
@@ -2277,6 +2285,14 @@ This repository contains the recent best or outstanding papers in contemporary t
 ## Test of Time Papers
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### CVPR
+
+* Going Deeper with Convolutions (CVPR 2015) 
+[[Paper](https://arxiv.org/abs/1409.4842)]<br>
+*Authors:  Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich*
+
+* Fully Convolutional Networks for Semantic Segmentation (CVPR 2015) 
+[[Paper](https://arxiv.org/abs/1411.4038)]<br>
+*Authors:  Jonathan Long, Evan Shelhamer, Trevor Darrell*
 
 * Rich feature hierarchies for accurate object detection and semantic segmentation (CVPR 2014) 
 [[Paper](https://arxiv.org/abs/1311.2524)]<br>
