@@ -3,7 +3,7 @@ This repository contains the recent best or outstanding papers in contemporary t
 
 
 ## Contents
-- [CVPR (2013-2024)](#CVPR)
+- [CVPR (2013-2025)](#CVPR)
 - [ICLR (2016-2025)](#ICLR)
 - [NeurIPS (2013-2024)](#NeurIPS)
 - [ICCV (2013-2023)](#ICCV)
@@ -17,6 +17,42 @@ This repository contains the recent best or outstanding papers in contemporary t
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## CVPR 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Best Papers 2025 [[Best Papers](https://cvpr.thecvf.com/Conferences/2025/News/Awards_Press)] [[All Papers](https://openaccess.thecvf.com/CVPR2025)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+#### Best Paper Award:
+* VGGT: Visual Geometry Grounded Transformer (CVPR 2025) 
+[[Paper](https://arxiv.org/abs/2503.11651)]<br>
+*Authors: Jianyuan Wang, Minghao Chen, Nikita Karaev, Andrea Vedaldi, Christian Rupprecht, David Novotny*
+
+#### Best Paper Honorable Mention:
+* MegaSaM: Accurate, Fast and Robust Structure and Motion from Casual Dynamic Videos (CVPR 2025) 
+[[Paper](https://arxiv.org/abs/2412.04463)]<br>
+*Authors: Zhengqi Li, Richard Tucker, Forrester Cole, Qianqian Wang, Linyi Jin, Vickie Ye, Angjoo Kanazawa, Aleksander Holynski, Noah Snavely*
+
+* Navigation World Models (CVPR 2025) 
+[[Paper](https://arxiv.org/abs/2412.03572)]<br>
+*Authors: Amir Bar, Gaoyue Zhou, Danny Tran, Trevor Darrell, Yann LeCun*
+
+* Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models (CVPR 2025) 
+[[Paper](https://arxiv.org/abs/2409.17146)]<br>
+*Authors: Matt Deitke, Christopher Clark, Sangho Lee, Rohun Tripathi, Yue Yang, Jae Sung Park, Mohammadreza Salehi, Niklas Muennighoff, Kyle Lo, Luca Soldaini, Jiasen Lu, Taira Anderson, Erin Bransom, Kiana Ehsani, Huong Ngo, YenSung Chen, Ajay Patel, Mark Yatskar, Chris Callison-Burch, Andrew Head, Rose Hendrix, Favyen Bastani, Eli VanderBilt, Nathan Lambert, Yvonne Chou, Arnavi Chheda, Jenna Sparks, Sam Skjonsberg, Michael Schmitz, Aaron Sarnat, Byron Bischoff, Pete Walsh, Chris Newell, Piper Wolters, Tanmay Gupta, Kuo-Hao Zeng, Jon Borchardt, Dirk Groeneveld, Crystal Nam, Sophie Lebrecht, Caitlin Wittlif, Carissa Schoenick, Oscar Michel, Ranjay Krishna, Luca Weihs, Noah A. Smith, Hannaneh Hajishirzi, Ross Girshick, Ali Farhadi, Aniruddha Kembhavi*
+
+* 3D Student Splatting and Scooping (CVPR 2025) 
+[[Paper](https://arxiv.org/abs/2503.10148)]<br>
+*Authors: Jialin Zhu, Jiangbei Yue, Feixiang He, He Wang*
+
+#### Best Student Paper Award:
+* Neural Inverse Rendering from Propagating Light (CVPR 2025) 
+[[Paper](https://arxiv.org/abs/2506.05347)]<br>
+*Authors: Anagh Malik, Benjamin Attal, Andrew Xie, Matthew O'Toole, David B. Lindell*
+
+#### Best Student Paper Honorable Mention:
+* Generative Multimodal Pretraining with Discrete Diffusion Timestep Tokens (CVPR 2025) 
+[[Paper](https://arxiv.org/abs/2504.14666)]<br>
+*Authors: Kaihang Pan, Wang Lin, Zhongqi Yue, Tenglong Ao, Liyu Jia, Wei Zhao, Juncheng Li, Siliang Tang, Hanwang Zhang*
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Best Papers 2024 [[Best Papers](https://www.computer.org/press-room/cvpr-2024-announces-best-paper-award-winners)] [[All Papers](https://openaccess.thecvf.com/CVPR2024)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
