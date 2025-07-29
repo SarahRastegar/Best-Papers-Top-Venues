@@ -835,6 +835,15 @@ This repository contains the recent best or outstanding papers in contemporary t
 * The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models (NeurIPS 2024) 
 [[Paper](https://openreview.net/forum?id=DFr5hteojx#discussion)]<br>
 *Authors: Hannah Rose Kirk, Alexander Whitefield, Paul Röttger, Andrew Bean, Katerina Margatina, Juan Ciro, Rafael Mosquera, Max Bartolo, Adina Williams, He He, Bertie Vidgen, Scott A. Hale*
+
+#### Test of Time
+* Generative Adversarial Nets (NeurIPS 2014) 
+[[Paper](https://arxiv.org/abs/1406.2661)]<br>
+*Authors: Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio*
+
+* Sequence to Sequence Learning with Neural Networks (NeurIPS 2014) 
+[[Paper](https://arxiv.org/abs/1409.3215)]<br>
+*Authors: Ilya Sutskever, Oriol Vinyals, Quoc V. Le*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Outstanding Papers 2023 [[Best Papers](https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/)] [[All Papers](https://openreview.net/group?id=NeurIPS.cc/2023/Conference)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -2376,6 +2385,14 @@ This repository contains the recent best or outstanding papers in contemporary t
 *Authors: Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus*
 
 ### NeurIPS
+* Generative Adversarial Nets (NeurIPS 2014) 
+[[Paper](https://arxiv.org/abs/1406.2661)]<br>
+*Authors: Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio*
+
+* Sequence to Sequence Learning with Neural Networks (NeurIPS 2014) 
+[[Paper](https://arxiv.org/abs/1409.3215)]<br>
+*Authors: Ilya Sutskever, Oriol Vinyals, Quoc V. Le*
+
 * Distributed Representations of Words and Phrases and their Compositionality (NeurIPS 2013) 
 [[Paper](https://papers.nips.cc/paper_files/paper/2013/hash/9aa42b31882ec039965f3c4923ce901b-Abstract.html)]<br>
 *Authors: Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean*
