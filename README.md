@@ -10,7 +10,7 @@ This repository contains the recent best or outstanding papers in contemporary t
 - [ICML (2018-2025)](#ICML)
 - [ECCV (2014-2024)](#ECCV)
 - [AAAI (2020-2024)](#AAAI)
-- [WACV (2020-2024)](#WACV)
+- [WACV (2020-2025)](#WACV)
 - [BMVC (2020-2022)](#BMVC)
 - [Test of Time Papers](#Test-of-Time-Papers)
 
@@ -2077,6 +2077,38 @@ This repository contains the recent best or outstanding papers in contemporary t
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## WACV
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Best Papers 2025 [[Best Papers](https://wacv2025.thecvf.com/program/)] [[All Papers](https://openaccess.thecvf.com/WACV2025)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+#### Best Paper - Algorithms:
+* RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis (WACV 2025) 
+[[Paper](https://arxiv.org/abs/2408.03356)]<br>
+*Authors: Hugo Blanc (Mines Paris), Jean-Emmanuel Deschaud (Mines Paris – PSL) , Alexis Paljic (Mines Paris PSL University)*
+
+#### Best Paper – Applications:
+* Optimizing Vision-Language Model for Road Crossing Intention Estimation (WACV 2025) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2025/papers/Uziel_Optimizing_Vision-Language_Model_for_Road_Crossing_Intention_Estimation_WACV_2025_paper.pdf)]<br>
+*Authors: Roy Uziel (Ben-Gurion University), Oded Bialer (General Motors)*
+
+#### Best Student Paper:
+* GeoDiffuser: Geometry-Based Image Editing with Diffusion Models (WACV 2025) 
+[[Paper](https://arxiv.org/abs/2404.14403)]<br>
+*Authors: Rahul Sajnani (Brown University), Jeroen Vanbaar (Amazon Robotics), Jie Min (Amazon Robotics), Kapil Katyal (Amazon Robotics), Srinath Sridhar (Brown University)*
+
+#### Best Student Paper Honorable Mention:
+* Cross-domain and Cross-dimension Learning for Image-to-Graph Transformers (WACV 2025) 
+[[Paper](https://arxiv.org/abs/2403.06601)]<br>
+*Authors: Alexander Berger (Technical University Munich), Laurin Lux (TU Muenchen), Suprosanna Shit (TUM), Ivan Ezhov (TUM), Georgios Kaissis (Technische Universität München), Martin Menten (Technische Universität München), Daniel Rueckert (Technische Universität München), Johannes Paetzold (TUM)*
+
+#### Time of time award:
+* Deeply-learned feature for age estimation (WACV 2015) 
+[[Paper](https://ieeexplore.ieee.org/document/7045931)]<br>
+*Authors: Xiaolong Wang (Department of Computer and Information Sciences, University of Delaware), Rui Guo (University of Tennessee), Chandra Kambhamettu (Department of Computer and Information Sciences, University of Delaware)*
+
+* Bayesian Multi-object Tracking Using Motion Context from Multiple Objects (WACV 2015) 
+[[Paper](https://ieeexplore.ieee.org/document/7045866)]<br>
+*Authors: Ju Hong Yoon (KETI),  Ming-Hsuan Yang (UC, Merced), Jongwoo Lim (Hanyang University),  Kuk-Jin Yoon (GIST)*
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Best Papers 2024 [[Best Papers](https://x.com/wacv_official/status/1742715868709314587?lang=en)] [[All Papers](https://openaccess.thecvf.com/WACV2024)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 #### Award Finalists:
@@ -2620,3 +2652,12 @@ This repository contains the recent best or outstanding papers in contemporary t
 * High Accuracy Optical Flow Estimation Based on a Theory for Warping (ECCV 2004) 
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-540-24673-2_3)]<br>
 *Authors: T. Brox, A. Bruhn, N. Papenberg, J. Weickert*
+
+### WACV
+* Deeply-learned feature for age estimation (WACV 2015) 
+[[Paper](https://ieeexplore.ieee.org/document/7045931)]<br>
+*Authors: Xiaolong Wang (Department of Computer and Information Sciences, University of Delaware), Rui Guo (University of Tennessee), Chandra Kambhamettu (Department of Computer and Information Sciences, University of Delaware)*
+
+* Bayesian Multi-object Tracking Using Motion Context from Multiple Objects (WACV 2015) 
+[[Paper](https://ieeexplore.ieee.org/document/7045866)]<br>
+*Authors: Ju Hong Yoon (KETI),  Ming-Hsuan Yang (UC, Merced), Jongwoo Lim (Hanyang University),  Kuk-Jin Yoon (GIST)*
