@@ -7,7 +7,7 @@ This repository contains the recent best or outstanding papers in contemporary t
 - [ICLR (2016-2025)](#ICLR)
 - [NeurIPS (2013-2024)](#NeurIPS)
 - [ICCV (2013-2023)](#ICCV)
-- [ICML (2018-2024)](#ICML)
+- [ICML (2018-2025)](#ICML)
 - [ECCV (2014-2024)](#ECCV)
 - [AAAI (2020-2024)](#AAAI)
 - [WACV (2020-2024)](#WACV)
@@ -1332,6 +1332,58 @@ This repository contains the recent best or outstanding papers in contemporary t
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ICML
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Outstanding Papers 2025 [[Best Papers](https://icml.cc/virtual/2025/awards_detail)] [[All Papers](https://icml.cc/virtual/2025/papers.html?filter=titles)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* CollabLLM: From Passive Responders to Active Collaborators (ICML 2025) 
+[[Paper](https://arxiv.org/abs/2502.00640)]<br>
+*Authors: Shirley Wu, Michel Galley, Baolin Peng, Hao Cheng, Gavin Li, Yao Dou, Weixin Cai, James Zou, Jure Leskovec, Jianfeng Gao*
+
+* Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions (ICML 2025) 
+[[Paper](https://arxiv.org/abs/2502.06768)]<br>
+*Authors: Jaeyeon Kim · Kulin Shah · Vasilis Kontonis · Sham Kakade · Sitan Chen*
+
+* Score Matching with Missing Data (ICML 2025) 
+[[Paper](https://arxiv.org/abs/2506.00557)]<br>
+*Authors: Josh Givens · Song Liu · Henry Reeve*
+
+* Conformal Prediction as Bayesian Quadrature (ICML 2025) 
+[[Paper](https://arxiv.org/abs/2502.13228)]<br>
+*Authors: Jake Snell · Thomas Griffiths*
+
+* Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction (ICML 2025) 
+[[Paper](https://arxiv.org/abs/2504.15266)]<br>
+*Authors: Vaishnavh Nagarajan · Chen Wu · Charles Ding · Aditi Raghunathan*
+
+* The Value of Prediction in Identifying the Worst-Off (ICML 2025) 
+[[Paper](https://arxiv.org/abs/2501.19334)]<br>
+*Authors: Unai Fischer Abaigar · Christoph Kern · Juan Perdomo*
+
+#### Outstanding Position Paper:
+* Position: The AI Conference Peer Review Crisis Demands Author Feedback and Reviewer Rewards (ICML 2025) 
+[[Paper](https://arxiv.org/abs/2505.04966)]<br>
+*Authors: Jaeho Kim · Yunseok Lee · Seulki Lee*
+
+* Position: AI Safety should prioritize the Future of Work (ICML 2025) 
+[[Paper](https://arxiv.org/abs/2504.13959)]<br>
+*Authors: Sanchaita Hazra · Bodhisattwa Prasad Majumder · Tuhin Chakrabarty*
+
+#### Test of Time Award:
+
+* Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (ICML 2015) 
+[[Paper](https://arxiv.org/abs/1502.03167)]<br>
+*Authors: Sergey Ioffe · Christian Szegedy*
+
+#### Test of Time Honorable Mention:
+
+* Trust Region Policy Optimization (ICML 2015) 
+[[Paper](https://arxiv.org/abs/1502.05477)]<br>
+*Authors: John Schulman · Sergey Levine · Pieter Abbeel · Michael Jordan · Philipp Moritz*
+
+* Variational Inference with Normalizing Flows (ICML 2015) 
+[[Paper](https://arxiv.org/abs/1505.05770)]<br>
+*Authors: Danilo Jimenez Rezende · Shakir Mohamed*
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Best Papers 2024 [[Best Papers](https://icml.cc/virtual/2024/awards_detail)] [[All Papers](https://icml.cc/virtual/2024/papers.html?filter=titles)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 * VideoPoet: A Large Language Model for Zero-Shot Video Generation (ICML 2024) 
@@ -2484,6 +2536,18 @@ This repository contains the recent best or outstanding papers in contemporary t
 *Authors: S. Belongie, J. Malik, J. Puzicha*
 
 ### ICML
+
+* Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (ICML 2015) 
+[[Paper](https://arxiv.org/abs/1502.03167)]<br>
+*Authors: Sergey Ioffe · Christian Szegedy*
+
+* Trust Region Policy Optimization (ICML 2015) 
+[[Paper](https://arxiv.org/abs/1502.05477)]<br>
+*Authors: John Schulman · Sergey Levine · Pieter Abbeel · Michael Jordan · Philipp Moritz*
+
+* Variational Inference with Normalizing Flows (ICML 2015) 
+[[Paper](https://arxiv.org/abs/1505.05770)]<br>
+*Authors: Danilo Jimenez Rezende · Shakir Mohamed*
 
 * DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition (ICML 2014) 
 [[Paper](https://arxiv.org/abs/1310.1531)]<br>
