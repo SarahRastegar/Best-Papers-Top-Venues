@@ -2539,6 +2539,13 @@ This repository contains the recent best or outstanding papers in contemporary t
 *Authors: Ali Rahimi, Benjamin Recht*
 
 ### ICCV
+* Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (ICCV 2015) 
+[[Paper](https://arxiv.org/abs/1502.01852)]<br>
+*Authors: Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun*
+
+* Fast R-CNN (ICCV 2015) 
+[[Paper](https://arxiv.org/abs/1504.08083)]<br>
+*Authors: Ross Girshick*
 
 * Action Recognition With Improved Trajectories (ICCV 2013) 
 [[Paper](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Wang_Action_Recognition_with_2013_ICCV_paper.pdf)]<br>
