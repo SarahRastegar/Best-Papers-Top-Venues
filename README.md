@@ -6,7 +6,7 @@ This repository contains the recent best or outstanding papers in contemporary t
 - [CVPR (2013-2025)](#CVPR)
 - [ICLR (2016-2025)](#ICLR)
 - [NeurIPS (2013-2024)](#NeurIPS)
-- [ICCV (2013-2023)](#ICCV)
+- [ICCV (2013-2025)](#ICCV)
 - [ICML (2018-2025)](#ICML)
 - [ECCV (2014-2024)](#ECCV)
 - [AAAI (2020-2024)](#AAAI)
@@ -1133,6 +1133,39 @@ This repository contains the recent best or outstanding papers in contemporary t
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ICCV
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Best Papers 2025 [[Best Papers](https://x.com/ICCVConference/status/1980704802691858682)] [[All Papers](https://openaccess.thecvf.com/ICCV2025)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+#### Best Paper Award (Marr prize):
+* Generating Physically Stable and Buildable Brick Structures from Text (ICCV 2025) 
+[[Paper](https://arxiv.org/abs/2505.05469)]<br>
+*Authors: Ava Pun, Kangle Deng, Ruixuan Liu, Deva Ramanan, Changliu Liu, Jun-Yan Zhu*
+
+
+#### Best Paper Honorable Mention:
+* Spatially-Varying Autofocus (ICCV 2025) 
+[[Paper](https://imaging.cs.cmu.edu/svaf/)]<br>
+*Authors: Yingsi Qin, Aswin C. Sankaranarayanan, Matthew O'Toole*
+
+#### Best Student Paper Award:
+* FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models (ICCV 2025) 
+[[Paper](https://arxiv.org/abs/2412.08629)]<br>
+*Authors: Vladimir Kulikov, Matan Kleiner, Inbar Huberman-Spiegelglas, Tomer Michaeli*
+
+#### Best Student Paper Honorable Mention:
+* RayZer: A Self-supervised Large View Synthesis Model (ICCV 2025) 
+[[Paper](https://arxiv.org/abs/2505.00702)]<br>
+*Authors: Hanwen Jiang, Hao Tan, Peng Wang, Haian Jin, Yue Zhao, Sai Bi, Kai Zhang, Fujun Luan, Kalyan Sunkavalli, Qixing Huang, Georgios Pavlakos*
+
+#### Helmholtz Prize (Test of Time):
+* Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (ICCV 2015) 
+[[Paper](https://arxiv.org/abs/1502.01852)]<br>
+*Authors: Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun*
+
+* Fast R-CNN (ICCV 2015) 
+[[Paper](https://arxiv.org/abs/1504.08083)]<br>
+*Authors: Ross Girshick*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Best Papers 2023 [[Best Papers](https://iccv2023.thecvf.com/iccv2023.opening.slides-38--MTI.php)] [[All Papers](https://openaccess.thecvf.com/ICCV2023)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
