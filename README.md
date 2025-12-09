@@ -5,7 +5,7 @@ This repository contains the recent best or outstanding papers in contemporary t
 ## Contents
 - [CVPR (2013-2025)](#CVPR)
 - [ICLR (2016-2025)](#ICLR)
-- [NeurIPS (2013-2024)](#NeurIPS)
+- [NeurIPS (2013-2025)](#NeurIPS)
 - [ICCV (2013-2025)](#ICCV)
 - [ICML (2018-2025)](#ICML)
 - [ECCV (2014-2024)](#ECCV)
@@ -808,6 +808,51 @@ This repository contains the recent best or outstanding papers in contemporary t
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## NeurIPS
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Best Papers 2025 [[Best Papers](https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/)] [[All Papers](https://openreview.net/group?id=NeurIPS.cc/2025/Conference)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+#### Best papers:
+* Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond) (NeurIPS 2025) 
+[[Paper](https://arxiv.org/abs/2510.22954)]<br>
+*Authors: Liwei Jiang, Yuanjun Chai, Margaret Li, Mickel Liu, Raymond Fok, Nouha Dziri, Yulia Tsvetkov, Maarten Sap, Yejin Choi*
+
+* Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free (NeurIPS 2025) 
+[[Paper](https://arxiv.org/abs/2505.06708)]<br>
+*Authors: Zihan Qiu, Zekun Wang, Bo Zheng, Zeyu Huang, Kaiyue Wen, Songlin Yang, Rui Men, Le Yu, Fei Huang, Suozhi Huang, Dayiheng Liu, Jingren Zhou, Junyang Lin*
+
+* 1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities (NeurIPS 2025) 
+[[Paper](https://arxiv.org/abs/2503.14858)]<br>
+*Authors: Kevin Wang, Ishaan Javali, Michał Bortkiewicz, Tomasz Trzcinski, Benjamin Eysenbach*
+
+
+* Why Diffusion Models Don’t Memorize: The Role of Implicit Dynamical Regularization in Training (NeurIPS 2025) 
+[[Paper](https://arxiv.org/abs/2505.17638)]<br>
+*Authors: Tony Bonnaire, Raphaël Urfin, Giulio Biroli, Marc Mezard*
+
+#### Runners ups:
+
+* Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model? (NeurIPS 2025) 
+[[Paper](https://arxiv.org/abs/2504.13837)]<br>
+*Authors: Yang Yue, Zhiqi Chen, Rui Lu, Andrew Zhao, Zhaokai Wang, Yang Yue, Shiji Song, Gao Huang*
+
+* Optimal Mistake Bounds for Transductive Online Learning (NeurIPS 2025) 
+[[Paper](https://openreview.net/forum?id=EoebmBe9fG)]<br>
+*Authors: Zachary Chase, Steve Hanneke, Shay Moran, Jonathan Shafer*
+
+* Superposition Yields Robust Neural Scaling (NeurIPS 2025) 
+[[Paper](https://arxiv.org/abs/2505.10465)]<br>
+*Authors: Yizhou Liu, Ziming Liu, Jeff Gore*
+
+#### Test of Time
+* Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (NeurIPS 2015) 
+[[Paper](https://arxiv.org/abs/1506.01497)]<br>
+*Authors: Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun*
+
+#### Sejnowski-Hinton Prize
+* Random synaptic feedback weights support error backpropagation for deep learning 
+[[Paper](https://arxiv.org/abs/1411.0247)]<br>
+*Authors: Timothy Lillicrap, Daniel Cownden, Douglas Tweed, and Colin Akerman*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Best Papers 2024 [[Best Papers](https://blog.neurips.cc/2024/12/10/announcing-the-neurips-2024-best-paper-awards/)] [[All Papers](https://openreview.net/group?id=NeurIPS.cc/2024/Conference)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -2502,6 +2547,10 @@ This repository contains the recent best or outstanding papers in contemporary t
 *Authors: Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus*
 
 ### NeurIPS
+* Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (NeurIPS 2015) 
+[[Paper](https://arxiv.org/abs/1506.01497)]<br>
+*Authors: Shaoqing Ren, Kaiming He, Ross Girshick, Jian*
+
 * Generative Adversarial Nets (NeurIPS 2014) 
 [[Paper](https://arxiv.org/abs/1406.2661)]<br>
 *Authors: Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio*
