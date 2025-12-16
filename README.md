@@ -1,5 +1,5 @@
 # Best-Papers-Top-Venues
-This repository contains the recent best or outstanding papers in contemporary top venues like **CVPR, NeurIPS, ICCV, ECCV, ICLR, ICML, BMVC, WACV, and AAAI**. 
+This repository curates Best Paper, Outstanding Paper, and Test-of-Time Award recipients from the world’s leading computer vision and machine learning conferences (**CVPR, NeurIPS,  ICLR, ICML, ICCV, ECCV, BMVC, WACV, AAAI**), showcasing work recognized for both immediate impact and lasting influence.
 
 
 ## Contents
