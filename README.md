@@ -4,7 +4,7 @@ This repository curates Best Paper, Outstanding Paper, and Test-of-Time Award re
 
 ## Contents
 - [CVPR (2013-2025)](#CVPR)
-- [ICLR (2016-2025)](#ICLR)
+- [ICLR (2016-2026)](#ICLR)
 - [NeurIPS (2013-2025)](#NeurIPS)
 - [ICCV (2013-2025)](#ICCV)
 - [ICML (2018-2025)](#ICML)
@@ -480,6 +480,32 @@ This repository curates Best Paper, Outstanding Paper, and Test-of-Time Award re
 *Authors: R. Fergus, P. Perona, A. Zisserman*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## ICLR
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Outstanding Papers 2026 [[Best Papers](https://blog.iclr.cc/2026/04/23/announcing-the-iclr-2026-outstanding-papers/)] [[All Papers](https://iclr.cc/virtual/2026/papers.html?filter=titles)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+* Transformers are Inherently Succinct (ICLR 2026) 
+[[Paper](https://arxiv.org/abs/2510.19315)]<br>
+*Authors: Pascal Bergsträßer, Ryan Cotterell, Anthony W. Lin*
+
+* LLMs Get Lost In Multi-Turn Conversation (ICLR 2026) 
+[[Paper](https://arxiv.org/abs/2505.06120)]<br>
+*Authors: Philippe Laban, Hiroaki Hayashi, Yingbo Zhou, Jennifer Neville*
+
+#### Outstanding Paper Honorable Mentions
+
+* The Polar Express: Optimal Matrix Sign Methods and their Application to the Muon Algorithm (ICLR 2026) 
+[[Paper](https://arxiv.org/abs/2505.16932)]<br>
+*Authors: Noah Amsel, David Persson, Christopher Musco, Robert M. Gower*
+
+#### Test of Time
+* Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (ICLR 2016) 
+[[Paper](https://arxiv.org/abs/1511.06434)]<br>
+*Authors: Alec Radford, Luke Metz, Soumith Chintala*
+
+* Continuous control with deep reinforcement learning (ICLR 2016) 
+[[Paper](https://arxiv.org/abs/1509.02971)]<br>
+*Authors: Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Outstanding Papers 2025 [[Best Papers](https://blog.iclr.cc/2025/04/22/announcing-the-outstanding-paper-awards-at-iclr-2025/)] [[All Papers](https://iclr.cc/virtual/2025/papers.html?filter=titles)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -2530,6 +2556,14 @@ This repository curates Best Paper, Outstanding Paper, and Test-of-Time Award re
 *Authors: R. Fergus, P. Perona, A. Zisserman*
 
 ### ICLR
+* Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (ICLR 2016) 
+[[Paper](https://arxiv.org/abs/1511.06434)]<br>
+*Authors: Alec Radford, Luke Metz, Soumith Chintala*
+
+* Continuous control with deep reinforcement learning (ICLR 2016) 
+[[Paper](https://arxiv.org/abs/1509.02971)]<br>
+*Authors: Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra*
+
 * Adam: A Method for Stochastic Optimization (ICLR 2015) 
 [[Paper](https://arxiv.org/abs/1412.6980)]<br>
 *Authors: Diederik P. Kingma, Jimmy Ba*
